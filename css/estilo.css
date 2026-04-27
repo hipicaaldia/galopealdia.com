@@ -93,8 +93,21 @@ h2 { font-size: 1.3rem; color: var(--c-secundario); }
 }
 .noticia .meta { color: var(--c-muted); font-size: 0.85rem; }
 
-.imagen-noticia { margin: 1.5rem 0; }
-.imagen-noticia img { max-width: 100%; height: auto; display: block; }
+.imagen-noticia { margin: 1.5rem 0; text-align: center; }
+.imagen-noticia img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+.imagen-noticia.imagen-catalogo_generico img,
+.imagen-noticia:not(.logo-organismo-wrapper) > img:not(.logo-organismo) {
+  max-width: 800px;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  margin: 0 auto;
+  border-radius: 4px;
+}
 .imagen-noticia figcaption {
   font-size: 0.82rem;
   color: var(--c-muted);
