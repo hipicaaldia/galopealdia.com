@@ -93,19 +93,18 @@ h2 { font-size: 1.3rem; color: var(--c-secundario); }
 }
 .noticia .meta { color: var(--c-muted); font-size: 0.85rem; }
 
-.imagen-noticia { margin: 1.5rem 0; text-align: center; }
+.imagen-noticia { margin: 1.5rem 0; }
+/* MEJORA-2 (2026-04-27): tamaño consistente para la imagen principal de la
+   noticia. Las fotos venían con dimensiones nativas dispares (Beijing 2008
+   cuadrada, Damon Hill 479KB enorme, etc.). Forzamos aspect-ratio 16:9 y
+   max-width 800px para que cada pieza tenga el mismo formato de cabecera. */
 .imagen-noticia img {
-  max-width: 100%;
-  height: auto;
   display: block;
-}
-.imagen-noticia.imagen-catalogo_generico img,
-.imagen-noticia:not(.logo-organismo-wrapper) > img:not(.logo-organismo) {
-  max-width: 800px;
   width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
   aspect-ratio: 16 / 9;
   object-fit: cover;
-  margin: 0 auto;
   border-radius: 4px;
 }
 .imagen-noticia figcaption {
@@ -127,6 +126,65 @@ h2 { font-size: 1.3rem; color: var(--c-secundario); }
   text-align: center;
   font-style: italic;
   color: var(--c-muted);
+}
+
+/* Placeholder CSS (decisión 2026-04-27): cuando la cascada de imagen no
+   encuentra material, en vez de "tarjeta-solo-texto" o imagen incoherente,
+   pintamos un <div> con gradiente de marca + SVG icono + nombre del medio.
+   Sin generación IA, sin archivos jpg/png. Mantiene consistencia visual. */
+.imagen-placeholder {
+  width: 100%;
+  max-width: 800px;
+  aspect-ratio: 16 / 9;
+  margin: 1.5rem auto;
+  background: linear-gradient(
+    135deg,
+    var(--c-primario) 0%,
+    var(--c-secundario) 60%,
+    var(--c-acento) 100%
+  );
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.8rem;
+  color: var(--c-fondo);
+  overflow: hidden;
+}
+.imagen-placeholder .placeholder-icon {
+  display: flex;
+  width: 80px;
+  height: 80px;
+  opacity: 0.5;
+}
+.imagen-placeholder .placeholder-icon svg {
+  width: 100%;
+  height: 100%;
+  color: currentColor;
+}
+.imagen-placeholder .placeholder-marca {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.4rem;
+  font-style: italic;
+  letter-spacing: 0.5px;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+/* Variante en tarjeta: ocupa el contenedor de imagen sin márgenes y se
+   adapta al tamaño reducido. */
+.imagen-placeholder.placeholder-variante-tarjeta {
+  margin: 0;
+  border-radius: 0;
+  max-width: none;
+  height: 100%;
+}
+.imagen-placeholder.placeholder-variante-tarjeta .placeholder-icon {
+  width: 60px;
+  height: 60px;
+}
+.imagen-placeholder.placeholder-variante-tarjeta .placeholder-marca {
+  font-size: 1.05rem;
 }
 .atribucion-medio {
   font-style: italic;
