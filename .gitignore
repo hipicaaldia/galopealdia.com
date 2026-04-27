@@ -1,0 +1,18 @@
+﻿# Backups internos, NO publicar
+noticias_backup_pre_fase6/
+noticias_demos_antiguos_backup_*/
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Backups del motor (no servir)
+*.bak
+*.bak-*

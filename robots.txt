@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /borradores/
+Sitemap: https://www.galopealdia.com/sitemap.xml
