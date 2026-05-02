@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /borradores/
-Sitemap: https://www.galopealdia.com/sitemap.xml
+Sitemap: https://www.hipicaaldia.com/sitemap.xml
