@@ -2,67 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.galopealdia.com/</loc>
-    <lastmod>2026-04-28</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/espana.html</loc>
-    <lastmod>2026-04-28</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/europa.html</loc>
-    <lastmod>2026-04-28</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/internacional.html</loc>
-    <lastmod>2026-04-28</lastmod>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260428-gstaad-suplementado-para-las-2-000-guineas-de-newmarket-por-30-000-libras.html</loc>
-    <lastmod>2026-04-28</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260502-el-hipodromo-de-la-zarzuela-programa-doble-jornada-de-carreras-con-la-poule-de.html</loc>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260428-livenka-hermana-de-babouche-debuta-en-naas-con-el-sello-juddmonte.html</loc>
-    <lastmod>2026-04-28</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260502-further-ado-encabeza-la-representacion-de-spendthrift-farm-en-el-kentucky-derby.html</loc>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260428-arbiter-se-impone-con-autoridad-en-las-woodstock-stakes-de-woodbine.html</loc>
-    <lastmod>2026-04-28</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260502-croix-du-nord-busca-su-cuarto-grupo-i-en-el-tenno-sho-de-primavera.html</loc>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260428-manny-franco-y-linda-rice-dominan-el-encuentro-de-primavera-en-aqueduct.html</loc>
-    <lastmod>2026-04-28</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260502-just-call-me-angel-logra-el-doblete-italiano-para-el-semental-dark-angel-en-san.html</loc>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260428-ka-ying-rising-bate-records-con-mas-de-10-millones-de-euros-en-apuestas-en-hong.html</loc>
-    <lastmod>2026-04-28</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260502-passerine-se-estrena-con-victoria-en-churchill-downs.html</loc>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260428-miller-celebra-a-sus-94-anos-el-potencial-de-divine-legacy.html</loc>
-    <lastmod>2026-04-28</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260502-soaring-high-hija-de-songbird-se-estrena-con-victoria-en-churchill-downs.html</loc>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260428-las-mejores-potrancas-de-tres-anos-se-citan-en-el-kentucky-oaks-de-churchill.html</loc>
-    <lastmod>2026-04-28</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260502-gstaad-suplementado-para-las-2-000-guineas-de-newmarket-por-30-000-libras.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260502-livenka-hermana-de-babouche-debuta-en-naas-con-el-sello-juddmonte.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260502-arbiter-se-impone-con-autoridad-en-las-woodstock-stakes-de-woodbine.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260502-manny-franco-y-linda-rice-dominan-el-encuentro-de-primavera-en-aqueduct.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260502-ka-ying-rising-bate-records-con-mas-de-10-millones-de-euros-en-apuestas-en-hong.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260502-miller-celebra-a-sus-94-anos-el-potencial-de-divine-legacy.html</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260502-las-mejores-potrancas-de-tres-anos-se-citan-en-el-kentucky-oaks-de-churchill.html</loc>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

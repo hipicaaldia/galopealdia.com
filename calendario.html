@@ -34,6 +34,19 @@
 <script src="https://cdn.tailwindcss.com"></script>
 <style>
   .chip { display: inline-flex; align-items: center; font-size: 0.72rem; padding: 2px 8px; border-radius: 999px; font-weight: 600; letter-spacing: .02em; }
+  /* Cajita clickable al detalle FEI: el <a> envolvente no debe parecer link. */
+  .cajita-link { text-decoration: none; color: inherit; display: block; }
+  .cajita-link article { transition: box-shadow 0.15s ease, transform 0.15s ease; }
+  .cajita-link:hover article,
+  .cajita-link:focus-visible article {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.10);
+    transform: translateY(-1px);
+  }
+  .cajita-link:focus-visible {
+    outline: 2px solid #5C3A1E;
+    outline-offset: 2px;
+    border-radius: 8px;
+  }
   .disc-SALTO { background: #E8D5B8; color: #5C3A1E; }
   .disc-DOMA { background: #D5D8E8; color: #1E3A5C; }
   .disc-COMPLETO { background: #D8E8CF; color: #2F5C1E; }
@@ -72,9 +85,9 @@
   <header class="mb-6">
     <h1 class="text-3xl md:text-4xl font-bold">Calendario 2026</h1>
     <p class="text-sm text-neutral-600">
-      710 eventos ·
+      689 eventos ·
       carreras de galope, trote y obstáculos en España, Francia y circuitos internacionales
- · <span class="text-neutral-500">Actualizado 27/04/2026 15:57</span>    </p>
+ · <span class="text-neutral-500">Actualizado 29/04/2026 13:23</span>    </p>
   </header>
 
   <section class="mb-10" aria-labelledby="semana-titulo">
@@ -85,94 +98,93 @@
       </div>
     </div>
     <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
-      <article class="bg-white rounded-lg shadow-sm border border-neutral-200 p-5 flex flex-col gap-3 hover:shadow-md transition">
-        <div class="flex items-center justify-between flex-wrap gap-2">
-          <span class="chip disc-GALOPE">Galope</span>
-          <div class="flex items-center gap-2">
-<span class="badge-estado badge-EN_CURSO">● En curso</span><span class="text-xs text-neutral-400">· internacional</span>          </div>
-        </div>
-        <h2 class="text-lg font-semibold leading-tight">Jornada Naas (e)</h2>
-        <p class="text-sm text-neutral-700">
-          <span class="font-medium">27-28 abr</span>
- · Naas (e) · IE        </p>
-        <div class="flex flex-wrap gap-2 text-xs mt-auto">
-<a href="https://www.hri.ie/Naas-racecourse" rel="noopener" class="underline">Web oficial</a>        </div>
-      </article>
-      <article class="bg-white rounded-lg shadow-sm border border-neutral-200 p-5 flex flex-col gap-3 hover:shadow-md transition">
-        <div class="flex items-center justify-between flex-wrap gap-2">
-          <span class="chip disc-GALOPE">Galope</span>
-          <div class="flex items-center gap-2">
-<span class="text-xs text-neutral-400">· internacional</span>          </div>
-        </div>
-        <h2 class="text-lg font-semibold leading-tight">Jornada Bordeaux Le Bouscat</h2>
-        <p class="text-sm text-neutral-700">
-          <span class="font-medium">27 abr</span>
- · Bordeaux · FR        </p>
-        <p class="text-sm text-neutral-600">Bordeaux Le Bouscat</p>
-        <div class="flex flex-wrap gap-2 text-xs mt-auto">
-<a href="https://www.france-galop.com/en/racing/meeting/20260427/Q1h1S2RCejZFbTMwM3hwaU0rb2pxQT09" rel="noopener" class="underline">Web oficial</a>        </div>
-      </article>
-      <article class="bg-white rounded-lg shadow-sm border border-neutral-200 p-5 flex flex-col gap-3 hover:shadow-md transition">
-        <div class="flex items-center justify-between flex-wrap gap-2">
-          <span class="chip disc-GALOPE">Galope</span>
-          <div class="flex items-center gap-2">
-<span class="badge-estado badge-EN_CURSO">● En curso</span><span class="text-xs text-neutral-400">· internacional</span>          </div>
-        </div>
-        <h2 class="text-lg font-semibold leading-tight">Cholet</h2>
-        <p class="text-sm text-neutral-700">
-          <span class="font-medium">27 abr</span>
- · Cholet · FR        </p>
-        <div class="flex flex-wrap gap-2 text-xs mt-auto">
-        </div>
-      </article>
-      <article class="bg-white rounded-lg shadow-sm border border-neutral-200 p-5 flex flex-col gap-3 hover:shadow-md transition">
-        <div class="flex items-center justify-between flex-wrap gap-2">
-          <span class="chip disc-GALOPE">Galope</span>
-          <div class="flex items-center gap-2">
-<span class="badge-estado badge-EN_CURSO">● En curso</span><span class="text-xs text-neutral-400">· internacional</span>          </div>
-        </div>
-        <h2 class="text-lg font-semibold leading-tight">Jarlsberg</h2>
-        <p class="text-sm text-neutral-700">
-          <span class="font-medium">27 abr</span>
- · Tønsberg · NO        </p>
-        <p class="text-sm text-neutral-600">Jarlsberg</p>
-        <div class="flex flex-wrap gap-2 text-xs mt-auto">
-        </div>
-      </article>
-      <article class="bg-white rounded-lg shadow-sm border border-neutral-200 p-5 flex flex-col gap-3 hover:shadow-md transition">
-        <div class="flex items-center justify-between flex-wrap gap-2">
-          <span class="chip disc-GALOPE">Galope</span>
-          <div class="flex items-center gap-2">
-<span class="badge-estado badge-EN_CURSO">● En curso</span><span class="text-xs text-neutral-400">· internacional</span>          </div>
-        </div>
-        <h2 class="text-lg font-semibold leading-tight">Jornada Chatillon-sur-chalaronne</h2>
-        <p class="text-sm text-neutral-700">
-          <span class="font-medium">27 abr</span>
- · Châtillon · FR        </p>
-        <p class="text-sm text-neutral-600">Chatillon-sur-chalaronne</p>
-        <div class="flex flex-wrap gap-2 text-xs mt-auto">
-<a href="https://www.france-galop.com/en/racing/meeting/20260427/WTUzYmExazF5KzQyWVFjWnRCTGRVdz09" rel="noopener" class="underline">Web oficial</a>        </div>
-      </article>
-      <article class="bg-white rounded-lg shadow-sm border border-neutral-200 p-5 flex flex-col gap-3 hover:shadow-md transition">
-        <div class="flex items-center justify-between flex-wrap gap-2">
-          <span class="chip disc-GALOPE">Galope</span>
-          <div class="flex items-center gap-2">
-<span class="badge-estado badge-EN_CURSO">● En curso</span><span class="text-xs text-neutral-400">· internacional</span>          </div>
-        </div>
-        <h2 class="text-lg font-semibold leading-tight">Enghien</h2>
-        <p class="text-sm text-neutral-700">
-          <span class="font-medium">27 abr</span>
- · Enghien-les-bains · FR        </p>
-        <p class="text-sm text-neutral-600">Enghien</p>
-        <div class="flex flex-wrap gap-2 text-xs mt-auto">
-        </div>
-      </article>
+  <article class="bg-white rounded-lg shadow-sm border border-neutral-200 p-5 flex flex-col gap-3 hover:shadow-md transition">
+    <div class="flex items-center justify-between flex-wrap gap-2">
+      <span class="chip disc-GALOPE">Galope</span>
+      <div class="flex items-center gap-2">
+<span class="badge-estado badge-EN_CURSO">● En curso</span><span class="text-xs text-neutral-400">· internacional</span>      </div>
+    </div>
+    <h2 class="text-lg font-semibold leading-tight">Jornada Naas (e)</h2>
+    <p class="text-sm text-neutral-700">
+      <span class="font-medium">27-28 abr</span>
+ · Naas (e) · IE    </p>
+    <div class="flex flex-wrap gap-2 text-xs mt-auto">
+<a href="https://www.hri.ie/Naas-racecourse" rel="noopener" class="underline">Web oficial</a>    </div>
+  </article>
+  <article class="bg-white rounded-lg shadow-sm border border-neutral-200 p-5 flex flex-col gap-3 hover:shadow-md transition">
+    <div class="flex items-center justify-between flex-wrap gap-2">
+      <span class="chip disc-GALOPE">Galope</span>
+      <div class="flex items-center gap-2">
+<span class="text-xs text-neutral-400">· internacional</span>      </div>
+    </div>
+    <h2 class="text-lg font-semibold leading-tight">Jornada Bordeaux Le Bouscat</h2>
+    <p class="text-sm text-neutral-700">
+      <span class="font-medium">27 abr</span>
+ · Bordeaux · FR    </p>
+    <p class="text-sm text-neutral-600">Bordeaux Le Bouscat</p>
+    <div class="flex flex-wrap gap-2 text-xs mt-auto">
+<a href="https://www.france-galop.com/en/racing/meeting/20260427/Q1h1S2RCejZFbTMwM3hwaU0rb2pxQT09" rel="noopener" class="underline">Web oficial</a>    </div>
+  </article>
+  <article class="bg-white rounded-lg shadow-sm border border-neutral-200 p-5 flex flex-col gap-3 hover:shadow-md transition">
+    <div class="flex items-center justify-between flex-wrap gap-2">
+      <span class="chip disc-GALOPE">Galope</span>
+      <div class="flex items-center gap-2">
+<span class="badge-estado badge-EN_CURSO">● En curso</span><span class="text-xs text-neutral-400">· internacional</span>      </div>
+    </div>
+    <h2 class="text-lg font-semibold leading-tight">Jornada Chatillon-sur-chalaronne</h2>
+    <p class="text-sm text-neutral-700">
+      <span class="font-medium">27 abr</span>
+ · Châtillon · FR    </p>
+    <p class="text-sm text-neutral-600">Chatillon-sur-chalaronne</p>
+    <div class="flex flex-wrap gap-2 text-xs mt-auto">
+<a href="https://www.france-galop.com/en/racing/meeting/20260427/WTUzYmExazF5KzQyWVFjWnRCTGRVdz09" rel="noopener" class="underline">Web oficial</a>    </div>
+  </article>
+  <article class="bg-white rounded-lg shadow-sm border border-neutral-200 p-5 flex flex-col gap-3 hover:shadow-md transition">
+    <div class="flex items-center justify-between flex-wrap gap-2">
+      <span class="chip disc-GALOPE">Galope</span>
+      <div class="flex items-center gap-2">
+<span class="text-xs text-neutral-400">· internacional</span>      </div>
+    </div>
+    <h2 class="text-lg font-semibold leading-tight">Jornada Marseille Borely</h2>
+    <p class="text-sm text-neutral-700">
+      <span class="font-medium">27 abr</span>
+ · Marsella · FR    </p>
+    <p class="text-sm text-neutral-600">Marseille Borely</p>
+    <div class="flex flex-wrap gap-2 text-xs mt-auto">
+<a href="https://www.france-galop.com/en/racing/meeting/20260427/R3RhUFpYalQwL1hRUmJleS9mZ0VlZz09" rel="noopener" class="underline">Web oficial</a>    </div>
+  </article>
+  <article class="bg-white rounded-lg shadow-sm border border-neutral-200 p-5 flex flex-col gap-3 hover:shadow-md transition">
+    <div class="flex items-center justify-between flex-wrap gap-2">
+      <span class="chip disc-GALOPE">Galope</span>
+      <div class="flex items-center gap-2">
+<span class="text-xs text-neutral-400">· internacional</span>      </div>
+    </div>
+    <h2 class="text-lg font-semibold leading-tight">Jornada Punchestown</h2>
+    <p class="text-sm text-neutral-700">
+      <span class="font-medium">28-29 abr</span>
+ · Punchestown · IE    </p>
+    <div class="flex flex-wrap gap-2 text-xs mt-auto">
+<a href="https://www.hri.ie/Punchestown-racecourse" rel="noopener" class="underline">Web oficial</a>    </div>
+  </article>
+  <article class="bg-white rounded-lg shadow-sm border border-neutral-200 p-5 flex flex-col gap-3 hover:shadow-md transition">
+    <div class="flex items-center justify-between flex-wrap gap-2">
+      <span class="chip disc-GALOPE">Galope</span>
+      <div class="flex items-center gap-2">
+<span class="text-xs text-neutral-400">· internacional</span>      </div>
+    </div>
+    <h2 class="text-lg font-semibold leading-tight">Jornada Chantilly</h2>
+    <p class="text-sm text-neutral-700">
+      <span class="font-medium">28 abr</span>
+ · Chantilly · FR    </p>
+    <div class="flex flex-wrap gap-2 text-xs mt-auto">
+<a href="https://www.france-galop.com/en/racing/meeting/20260428/YUpRK3U5dENCUUtSdUNIRWdYd2Z5QT09" rel="noopener" class="underline">Web oficial</a>    </div>
+  </article>
     </div>
   </section>
 
   <div class="tabs-cat" role="tablist">
     <button type="button" class="tab-btn activa" data-tab="internacional" role="tab" aria-selected="true">
-      Internacional <span class="text-neutral-400 font-normal text-sm">(700)</span>
+      Internacional <span class="text-neutral-400 font-normal text-sm">(679)</span>
     </button>
     <button type="button" class="tab-btn" data-tab="nacional" role="tab" aria-selected="false">
       Nacional <span class="text-neutral-400 font-normal text-sm">(10)</span>
@@ -235,45 +247,24 @@
       <section class="seccion-disciplina" aria-labelledby="s-int-galope" data-disciplina="GALOPE">
         <h3 id="s-int-galope" class="text-lg font-semibold mb-2 pb-1 border-b-2 border-neutral-300 flex items-center gap-2">
           <span class="chip disc-GALOPE mr-2">Galope</span>
-          <span class="text-sm text-neutral-500 font-normal">638 eventos</span>
+          <span class="text-sm text-neutral-500 font-normal">617 eventos</span>
         </h3>
         <ul class="divide-y divide-neutral-200">
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="IE" data-fecha-iso="2026-04-27" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">27-28 abr</time>
-<a href="https://www.hri.ie/Naas-racecourse" rel="noopener" class="font-medium hover:underline">Jornada Naas (e)</a><span class="badge-estado badge-EN_CURSO">● En curso</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="FR" data-fecha-iso="2026-04-27" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">27 abr</time>
-<a href="https://www.france-galop.com/en/racing/meeting/20260427/Q1h1S2RCejZFbTMwM3hwaU0rb2pxQT09" rel="noopener" class="font-medium hover:underline">Jornada Bordeaux Le Bouscat</a><span class="text-sm text-neutral-500">· Bordeaux · FR</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="FR" data-fecha-iso="2026-04-27" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">27 abr</time>
-<a href="https://www.france-galop.com/en/racing/meeting/20260427/WTUzYmExazF5KzQyWVFjWnRCTGRVdz09" rel="noopener" class="font-medium hover:underline">Jornada Chatillon-sur-chalaronne</a><span class="badge-estado badge-EN_CURSO">● En curso</span><span class="text-sm text-neutral-500">· Châtillon · FR</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="FR" data-fecha-iso="2026-04-27" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">27 abr</time>
-<span class="font-medium">Cholet</span><span class="badge-estado badge-EN_CURSO">● En curso</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="NO" data-fecha-iso="2026-04-27" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">27 abr</time>
-<span class="font-medium">Jarlsberg</span><span class="badge-estado badge-EN_CURSO">● En curso</span><span class="text-sm text-neutral-500">· Tønsberg · NO</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="FR" data-fecha-iso="2026-04-27" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">27 abr</time>
-<span class="font-medium">Enghien</span><span class="badge-estado badge-EN_CURSO">● En curso</span><span class="text-sm text-neutral-500">· Enghien-les-bains · FR</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="10" data-pais="AU" data-fecha-iso="2026-10-17" data-orden-num="20">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">17 oct</time>
-<span class="font-medium">Listed The Everest</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="FR" data-fecha-iso="2026-04-27" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">27 abr</time>
-<a href="https://www.france-galop.com/en/racing/meeting/20260427/R3RhUFpYalQwL1hRUmJleS9mZ0VlZz09" rel="noopener" class="font-medium hover:underline">Jornada Marseille Borely</a><span class="text-sm text-neutral-500">· Marsella · FR</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="IE" data-fecha-iso="2026-04-28" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">28-29 abr</time>
-<a href="https://www.hri.ie/Punchestown-racecourse" rel="noopener" class="font-medium hover:underline">Jornada Punchestown</a>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="FR" data-fecha-iso="2026-04-28" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">28 abr</time>
-<a href="https://www.france-galop.com/en/racing/meeting/20260428/YUpRK3U5dENCUUtSdUNIRWdYd2Z5QT09" rel="noopener" class="font-medium hover:underline">Jornada Chantilly</a><span class="text-sm text-neutral-500">· Chantilly · FR</span>          </li>
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="IE" data-fecha-iso="2026-04-29" data-orden-num="0">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">29-30 abr</time>
 <a href="https://www.hri.ie/Punchestown-racecourse" rel="noopener" class="font-medium hover:underline">Jornada Punchestown</a>          </li>
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="FR" data-fecha-iso="2026-04-29" data-orden-num="0">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">29 abr</time>
 <a href="https://www.france-galop.com/en/racing/meeting/20260429/YkFyQTdZdFNobzlrQzExSEs5cHQxQT09" rel="noopener" class="font-medium hover:underline">Jornada Lyon Parilly</a><span class="text-sm text-neutral-500">· Lyon · FR</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="FR" data-fecha-iso="2026-04-29" data-orden-num="0">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">29 abr</time>
+<span class="font-medium">Lyon-Parilly</span><span class="text-sm text-neutral-500">· Lyon · FR</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="HK" data-fecha-iso="2026-04-29" data-orden-num="0">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">29 abr</time>
+<a href="https://www.hkjc.com" rel="noopener" class="font-medium hover:underline">Happy Valley</a><span class="text-sm text-neutral-500">· Hong Kong · HK</span>          </li>
+          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="10" data-pais="AU" data-fecha-iso="2026-10-17" data-orden-num="20">
+            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">17 oct</time>
+<span class="font-medium">Listed The Everest</span>          </li>
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="IE" data-fecha-iso="2026-04-30" data-orden-num="0">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">30 abr-1 may</time>
 <a href="https://www.hri.ie/Punchestown-racecourse" rel="noopener" class="font-medium hover:underline">Jornada Punchestown</a>          </li>
@@ -1789,48 +1780,6 @@
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="12" data-pais="IE" data-fecha-iso="2026-12-31" data-orden-num="0">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">31 dic-1 ene</time>
 <a href="https://www.hri.ie/Punchestown-racecourse" rel="noopener" class="font-medium hover:underline">Jornada Punchestown</a>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="SE" data-fecha-iso="2026-04-27" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">27 abr</time>
-<span class="font-medium">Romme</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="FR" data-fecha-iso="2026-04-27" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">27 abr</time>
-<span class="font-medium">Le Croisé-Laroche</span><span class="text-sm text-neutral-500">· Le Croisé · FR</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="SE" data-fecha-iso="2026-04-27" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">27 abr</time>
-<span class="font-medium">Farjestad</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="AR" data-fecha-iso="2026-04-27" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">27 abr</time>
-<span class="font-medium">Palermo</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="CL" data-fecha-iso="2026-04-27" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">27 abr</time>
-<span class="font-medium">Valparaiso</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="FR" data-fecha-iso="2026-04-28" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">28 abr</time>
-<span class="font-medium">Graignes</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="SE" data-fecha-iso="2026-04-28" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">28 abr</time>
-<span class="font-medium">Bollnas</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="FR" data-fecha-iso="2026-04-28" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">28 abr</time>
-<span class="font-medium">Paris-Vincennes</span><span class="text-sm text-neutral-500">· Paris · FR</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="BE" data-fecha-iso="2026-04-28" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">28 abr</time>
-<span class="font-medium">Mons</span><span class="text-sm text-neutral-500">· Mons · BE</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="SE" data-fecha-iso="2026-04-28" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">28 abr</time>
-<span class="font-medium">Axevalla</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="NO" data-fecha-iso="2026-04-28" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">28 abr</time>
-<span class="font-medium">Bjerke</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="CL" data-fecha-iso="2026-04-28" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">28 abr</time>
-<span class="font-medium">Concepcion</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="FR" data-fecha-iso="2026-04-29" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">29 abr</time>
-<span class="font-medium">Lyon-Parilly</span><span class="text-sm text-neutral-500">· Lyon · FR</span>          </li>
-          <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="HK" data-fecha-iso="2026-04-29" data-orden-num="0">
-            <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">29 abr</time>
-<a href="https://www.hkjc.com" rel="noopener" class="font-medium hover:underline">Happy Valley</a><span class="text-sm text-neutral-500">· Hong Kong · HK</span>          </li>
           <li class="py-3 flex flex-wrap items-baseline gap-x-3" data-mes="4" data-pais="FR" data-fecha-iso="2026-04-29" data-orden-num="0">
             <time class="text-sm font-mono text-neutral-600 w-28 fecha-mono">29 abr</time>
 <span class="font-medium">Marseille-Borély</span><span class="text-sm text-neutral-500">· Marsella · FR</span>          </li>
@@ -2445,6 +2394,21 @@
     return activa ? activa.dataset.tab : 'internacional';
   }
 
+  // Bloque "Esta semana": en web-fei hay un bloque de cajitas pre-renderizado
+  // por cada disciplina FEI. Mostrar el bloque cuyo data-disciplina coincide
+  // con el filtro activo. Si filtro = "Todas" (cadena vacía), apilamos todos
+  // los bloques — coherente con el comportamiento del filtro en las listas
+  // de abajo, que también pasa de filtrar a mostrar todo.
+  function actualizarBloquesEstaSemana(disciplinaSlug) {
+    const bloques = document.querySelectorAll('#esta-semana .bloque-disciplina');
+    if (!bloques.length) return; // web-turf u otro layout sin bloques
+    bloques.forEach(bloque => {
+      const coincide = !disciplinaSlug || bloque.dataset.disciplina === disciplinaSlug;
+      bloque.hidden = !coincide;
+      bloque.classList.toggle('activo', coincide);
+    });
+  }
+
   function aplicar() {
     const d = fDisc.value;
     const v = fVentana.value;
@@ -2464,6 +2428,8 @@
 
     const [iniRango, finRango] = rangoVentana(v);
     const catActiva = getCatActiva();
+
+    actualizarBloquesEstaSemana(d);
 
     let totalMostrado = 0;
     let totalOriginal = 0;
