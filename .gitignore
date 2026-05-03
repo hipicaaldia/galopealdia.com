@@ -16,3 +16,6 @@ desktop.ini
 # Backups del motor (no servir)
 *.bak
 *.bak-*
+
+# Backups internos del pipeline de noticias - NO deben ir a produccion
+*.bak.*
