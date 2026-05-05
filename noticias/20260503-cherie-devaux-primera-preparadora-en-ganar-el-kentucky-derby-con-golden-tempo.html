@@ -12,8 +12,77 @@
 <meta name="twitter:title" content="Cherie DeVaux, primera preparadora en ganar el Kentucky Derby con Golden Tempo">
 <meta name="twitter:description" content="La entrenadora estadounidense ha escrito su nombre en la historia del turf al conducir al hijo de Curlin a una victoria sorpresiva en la 152ª edición de la clásica de Churchill Downs.">
 <meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/c/c1/The_Kentucky_Derby_%281922%29_-_Ad_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"><link rel="stylesheet" href="../css/estilo.css">
+<script defer src="../js/cmp.js"></script>
 </head>
 <body>
+<!-- Banner CMP (consentimiento de cookies) — oculto por defecto, lo muestra cmp.js si no hay decisión. -->
+<div id="cmp-banner" class="cmp-banner" role="dialog"
+     aria-labelledby="cmp-banner-titulo"
+     aria-describedby="cmp-banner-desc"
+     hidden>
+  <p id="cmp-banner-titulo" class="cmp-banner__titulo">Aviso de cookies</p>
+  <p id="cmp-banner-desc" class="cmp-banner__texto">
+    Utilizamos cookies estrictamente necesarias para el funcionamiento del sitio web.
+    Con tu permiso, también podríamos usar cookies de terceros para mostrar
+    contenidos embebidos, publicidad y otras funcionalidades. Más información en nuestra
+    <a href="/legal/politica-cookies.html">Política de cookies</a>.
+  </p>
+  <div class="cmp-banner__acciones">
+    <button type="button" data-cmp-action="accept-all">Aceptar todas</button>
+    <button type="button" data-cmp-action="reject-all">Rechazar todas</button>
+    <button type="button" data-cmp-action="configure">Configurar</button>
+  </div>
+</div>
+
+<!-- Modal CMP — selector granular de categorías. -->
+<div id="cmp-modal" class="cmp-modal" role="dialog"
+     aria-labelledby="cmp-modal-titulo"
+     aria-describedby="cmp-modal-desc"
+     aria-modal="true"
+     hidden>
+  <div class="cmp-modal__contenido">
+    <h2 id="cmp-modal-titulo">Configura tus preferencias de cookies</h2>
+    <p id="cmp-modal-desc">
+      Puedes activar o desactivar cada categoría por separado. Tu decisión se recordará durante 12 meses.
+    </p>
+    <ul class="cmp-modal__categorias">
+      <li>
+        <label>
+          <input type="checkbox" name="necesarias" checked disabled>
+          <strong>Estrictamente necesarias</strong> (siempre activas)
+        </label>
+        <p>Imprescindibles para el funcionamiento del sitio. No pueden desactivarse.</p>
+      </li>
+      <li>
+        <label>
+          <input type="checkbox" name="embebidos">
+          <strong>Contenidos embebidos</strong>
+        </label>
+        <p>Vídeos (YouTube, Vimeo), redes sociales (X, Instagram), mapas (Google Maps).</p>
+      </li>
+      <li>
+        <label>
+          <input type="checkbox" name="publicidad">
+          <strong>Publicidad</strong>
+        </label>
+        <p>Anuncios y, en su caso, publicidad personalizada de redes publicitarias.</p>
+      </li>
+      <li>
+        <label>
+          <input type="checkbox" name="antispam">
+          <strong>Antispam</strong>
+        </label>
+        <p>Sistema antispam para formularios y comentarios cuando estén activos.</p>
+      </li>
+    </ul>
+    <div class="cmp-modal__acciones">
+      <button type="button" data-cmp-action="save">Guardar preferencias</button>
+      <button type="button" data-cmp-action="accept-all">Aceptar todas</button>
+      <button type="button" data-cmp-action="reject-all">Rechazar todas</button>
+    </div>
+  </div>
+</div>
+
 <header class="cabecera">
   <div class="marca">
     <a href="../index.html" class="logo">Galope al Día</a>
@@ -31,8 +100,6 @@
   </div>
 </header>
 <main>
-<!-- confianza_datos: media -->
-<!-- fuentes_contrastadas: ['Thoroughbred Daily News'] -->
 <article class="noticia">
   <header>
     <h1>Cherie DeVaux, primera preparadora en ganar el Kentucky Derby con Golden Tempo</h1>
@@ -53,6 +120,12 @@
 </main>
 <footer>
   <p>&copy; 2026 Galope al Día. Medio digital independiente.</p>
+  <nav class="footer-legal" aria-label="Enlaces legales">
+    <a href="../legal/aviso-legal.html">Aviso legal</a>
+    <a href="../legal/politica-privacidad.html">Política de privacidad</a>
+    <a href="../legal/politica-cookies.html">Política de cookies</a>
+    <button type="button" class="footer-legal__cmp" data-cmp-open>Configuración de cookies</button>
+  </nav>
 </footer>
 <script src="../js/app.js"></script>
 </body>
