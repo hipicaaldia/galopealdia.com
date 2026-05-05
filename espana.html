@@ -13,6 +13,7 @@
 <meta name="twitter:description" content="Actualidad del turf">
 <link rel="stylesheet" href="css/estilo.css">
 <script defer src="js/cmp.js"></script>
+<script defer src="js/ads.js"></script>
 </head>
 <body>
 <!-- Banner CMP (consentimiento de cookies) — oculto por defecto, lo muestra cmp.js si no hay decisión. -->
@@ -100,6 +101,8 @@
   </div>
 </header>
 <main>
+<div class="layout-grid" data-layout="con-sidebar">
+  <div class="contenido-principal">
 <section class="seccion">
   <h1>España</h1>
   <ul class="lista-noticias">
@@ -189,6 +192,9 @@
     </li>
   </ul>
 </section>
+  </div>
+  <aside class="slot-sidebar" data-slot="sidebar" hidden></aside>
+</div>
 </main>
 <footer>
   <p>&copy; 2026 Galope al Día. Medio digital independiente.</p>
