@@ -2,373 +2,415 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.galopealdia.com/</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/espana.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/europa.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/internacional.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-11T12:11:17-drago-se-proclama-ganador-del-gran-premio-nacional-2026-en-la-zarzuela.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-11T12:11:18-pretty-boy-miah-completa-el-cuadro-de-las-preakness-stakes-tras-dos-bajas-de.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-11T12:11:18-alexis-grimault-confia-en-miss-de-tremont-todos-los-indicadores-estan-en-verde.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-11T12:11:18-mayweather-y-joker-ges-firman-sendos-triunfos-destacados-en-las-pistas-francesas.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-11T12:11:18-chip-honcho-completa-su-ultimo-entreno-antes-de-la-preakness-stakes.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-11T12:11:18-el-fin-de-semana-turf-preakness-stakes-g1-y-victoria-mile-g1-marcan-la-cita.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-11T12:11:18-right-timing-encuentra-su-camino-sobre-cesped-y-rompe-el-maleficio-en-belmont.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-10T16:16:44-silent-tactic-vuelve-al-trabajo-en-churchill-downs-tras-su-baja-en-el-kentucky.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-10T19:23:03-maltese-cross-gana-el-lingfield-derby-trial-y-entra-en-las-apuestas-para-el.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-10T19:23:03-royal-velvet-conquista-el-chartwell-fillies-stakes-de-lingfield-con-william.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-10T16:16:44-remy-despres-tradicion-familiar-y-pasion-por-el-meeting-de-vichy.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-10T19:23:03-growth-equity-gana-el-peter-pan-stakes-y-queda-pendiente-de-decision-para-el.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-10T16:16:44-el-peter-pan-stakes-giii-ofrecera-este-sabado-una-plaza-para-el-belmont.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-09T11:02:40-maho-bay-y-maltese-cross-pugnaran-en-el-chartwell-fillies-stakes-de-lingfield.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-09T11:02:40-renegade-inicia-su-preparacion-en-saratoga-para-las-belmont-stakes.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-09T22:08:35-a-piece-of-heaven-gana-el-chester-cup-2026-con-dylan-browne-mcmonagle.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-09T22:08:35-aga-khan-studs-cifra-sus-opciones-en-rayif-y-narissa-para-las-poules-d-essai.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-09T22:08:35-el-gran-premio-nacional-de-la-zarzuela-reune-el-domingo-a-los-mejores-tres-anos.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-09T11:02:40-hisa-publica-una-guia-sobre-el-riesgo-de-lesiones-fatales-en-caballos-declarados.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-08T08:18:54-golden-tempo-renuncia-al-preakness-y-apunta-al-belmont-tras-ganar-el-kentucky.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-08T08:18:54-pierre-groualle-apuesta-por-la-paciencia-para-el-prix-saint-alary-con-concorde.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-08T08:18:54-el-catalogo-de-la-goffs-arkle-sale-ya-esta-disponible-con-732-ejemplares-en.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-08T08:18:53-erdenali-afronta-su-segunda-salida-en-parislongchamp-tras-su-debut-aplastante.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-09T01:28:05-aidan-o-brien-y-ryan-moore-extienden-a-once-su-racha-en-chester-con-doblete.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-09T01:28:05-belmont-park-anuncia-72-stakes-y-177-millones-en-premios-para-la-reapertura-de.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-08T08:18:54-bob-ehalt-y-charles-toler-recibiran-sendos-galardones-en-el-alibi-breakfast-de.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-07T08:17:22-georges-nakouzi-confia-en-neowise-para-el-jueves-en-parislongchamp.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-07T08:17:22-lighter-debuta-con-victoria-en-horseshoe-indianapolis.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-06T08:14:48-el-jockey-club-espanol-publica-la-lista-actualizada-de-comisarios-y-cargos.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-06T08:14:49-daryzan-medio-hermano-del-ganador-del-arco-debuta-en-saint-cloud.html</loc>
-    <lastmod>2026-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-06T08:14:48-tres-preparadores-franceses-analizan-sus-bazas-para-el-quinte-de-saint-cloud.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-06T08:14:49-fasig-tipton-anade-26-lotes-suplementarios-a-su-subasta-de-mayo.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-05T08:16:14-joakim-brandt-confia-en-waterfall-blues-para-mantener-su-nivel-pese-a-la.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-el-jockey-club-espanol-publica-la-lista-actualizada-de-comisarios-y-cargos.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-05T08:16:14-stolen-kiss-repite-victoria-en-el-prix-servanne-ante-sajir-en-chantilly.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-tres-preparadores-franceses-analizan-sus-bazas-para-el-quinte-de-saint-cloud.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-true-love-otorga-a-aidan-o-brien-su-octavo-triunfo-en-las-1-000-guineas-de.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-stolen-kiss-repite-victoria-en-el-prix-servanne-ante-sajir-en-chantilly.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-04T08:14:12-el-hipodromo-de-la-zarzuela-lanza-una-experiencia-vip-por-85-euros-para-mayo.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-true-love-otorga-a-aidan-o-brien-su-octavo-triunfo-en-las-1-000-guineas-de.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-04T08:14:12-sweet-caroline-se-impone-en-el-premio-teresa-con-un-ajustado-triunfo-sobre-queen.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-joakim-brandt-confia-en-waterfall-blues-para-mantener-su-nivel-pese-a-la.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-la-zarzuela-anuncia-34-jornadas-de-carreras-para-las-temporadas-de-primavera-y.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-el-hipodromo-de-la-zarzuela-lanza-una-experiencia-vip-por-85-euros-para-mayo.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-04T08:14:12-la-itbf-celebrara-su-congreso-bienal-en-francia-del-5-al-10-de-mayo.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-la-zarzuela-anuncia-34-jornadas-de-carreras-para-las-temporadas-de-primavera-y.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-gelinotte-arrasa-en-el-gran-premio-valderas-con-una-exhibicion-de-autoridad.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-gelinotte-arrasa-en-el-gran-premio-valderas-con-una-exhibicion-de-autoridad.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-cherie-devaux-primera-preparadora-en-ganar-el-kentucky-derby-con-golden-tempo.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-la-itbf-celebrara-su-congreso-bienal-en-francia-del-5-al-10-de-mayo.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-golden-tempo-gana-el-kentucky-derby-152-y-cherie-devaux-entra-en-la-historia.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-sweet-caroline-se-impone-en-el-premio-teresa-con-un-ajustado-triunfo-sobre-queen.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-carrera-estelar-en-kioto-con-ocho-participantes-en-el-tenno-sho-spring-g1.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-cherie-devaux-primera-preparadora-en-ganar-el-kentucky-derby-con-golden-tempo.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-doblete-de-la-cuadra-mediterraneo-en-la-poule-de-potros-con-majestad-y-maximum.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-golden-tempo-gana-el-kentucky-derby-152-y-cherie-devaux-entra-en-la-historia.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-doublecents-se-impone-con-autoridad-en-su-segunda-salida-en-oaklawn-park.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-carrera-estelar-en-kioto-con-ocho-participantes-en-el-tenno-sho-spring-g1.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-jose-ortiz-se-convierte-en-el-noveno-jockey-en-firmar-el-doblete-oaks-derby.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-doblete-de-la-cuadra-mediterraneo-en-la-poule-de-potros-con-majestad-y-maximum.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-rhetorical-se-impone-en-el-old-forester-bourbon-turf-classic-de-churchill-downs.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-doublecents-se-impone-con-autoridad-en-su-segunda-salida-en-oaklawn-park.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-t-o-elvis-confirma-su-presencia-en-el-churchill-downs-s-tras-esquivar-el-riyadh.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-jose-ortiz-se-convierte-en-el-noveno-jockey-en-firmar-el-doblete-oaks-derby.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-el-hipodromo-de-la-zarzuela-programa-doble-jornada-de-carreras-con-la-poule-de.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-rhetorical-se-impone-en-el-old-forester-bourbon-turf-classic-de-churchill-downs.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-bow-echo-conquista-las-2000-guineas-y-mantiene-su-carrera-invicta-en-newmarket.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-t-o-elvis-confirma-su-presencia-en-el-churchill-downs-s-tras-esquivar-el-riyadh.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-frankel-y-su-triunfo-historico-en-las-2000-guineas-de-2011.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-el-hipodromo-de-la-zarzuela-programa-doble-jornada-de-carreras-con-la-poule-de.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-el-kentucky-derby-152-reune-hoy-en-churchill-downs-a-20-candidatos-con-renegade.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-bow-echo-conquista-las-2000-guineas-y-mantiene-su-carrera-invicta-en-newmarket.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-further-ado-encabeza-la-representacion-de-spendthrift-farm-en-el-kentucky-derby.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-frankel-y-su-triunfo-historico-en-las-2000-guineas-de-2011.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-renegade-llega-como-favorito-al-kentucky-derby-con-el-lastre-historico-del.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-el-kentucky-derby-152-reune-hoy-en-churchill-downs-a-20-candidatos-con-renegade.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-croix-du-nord-busca-su-cuarto-grupo-i-en-el-tenno-sho-de-primavera.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-further-ado-encabeza-la-representacion-de-spendthrift-farm-en-el-kentucky-derby.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-just-call-me-angel-logra-el-doblete-italiano-para-el-semental-dark-angel-en-san.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-renegade-llega-como-favorito-al-kentucky-derby-con-el-lastre-historico-del.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-passerine-se-estrena-con-victoria-en-churchill-downs.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-croix-du-nord-busca-su-cuarto-grupo-i-en-el-tenno-sho-de-primavera.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-soaring-high-hija-de-songbird-se-estrena-con-victoria-en-churchill-downs.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-just-call-me-angel-logra-el-doblete-italiano-para-el-semental-dark-angel-en-san.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-gstaad-suplementado-para-las-2-000-guineas-de-newmarket-por-30-000-libras.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-passerine-se-estrena-con-victoria-en-churchill-downs.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-arbiter-se-impone-con-autoridad-en-las-woodstock-stakes-de-woodbine.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-soaring-high-hija-de-songbird-se-estrena-con-victoria-en-churchill-downs.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-ka-ying-rising-bate-records-con-mas-de-10-millones-de-euros-en-apuestas-en-hong.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-gstaad-suplementado-para-las-2-000-guineas-de-newmarket-por-30-000-libras.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-livenka-hermana-de-babouche-debuta-en-naas-con-el-sello-juddmonte.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-arbiter-se-impone-con-autoridad-en-las-woodstock-stakes-de-woodbine.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-manny-franco-y-linda-rice-dominan-el-encuentro-de-primavera-en-aqueduct.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-ka-ying-rising-bate-records-con-mas-de-10-millones-de-euros-en-apuestas-en-hong.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-miller-celebra-a-sus-94-anos-el-potencial-de-divine-legacy.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-livenka-hermana-de-babouche-debuta-en-naas-con-el-sello-juddmonte.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260510-las-mejores-potrancas-de-tres-anos-se-citan-en-el-kentucky-oaks-de-churchill.html</loc>
-    <lastmod>2026-05-10</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260511-manny-franco-y-linda-rice-dominan-el-encuentro-de-primavera-en-aqueduct.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260511-miller-celebra-a-sus-94-anos-el-potencial-de-divine-legacy.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260511-las-mejores-potrancas-de-tres-anos-se-citan-en-el-kentucky-oaks-de-churchill.html</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
