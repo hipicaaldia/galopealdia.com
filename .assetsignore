@@ -1,0 +1,45 @@
+# Cloudflare Workers static-assets ignore.
+# Sintaxis tipo .gitignore. Patrones aquí se EXCLUYEN del upload a Cloudflare.
+#
+# Mitigación 2026-05-21: el directorio assets es `.` (raíz del repo) y wrangler
+# estaba subiendo .git/ haciendo el repo entero público (https://galopealdia.com/.git/HEAD
+# devolvía 200 OK). Este archivo cierra esa fuga.
+
+# --- Crítico: git internals ---
+.git/
+.gitignore
+.gitattributes
+
+# --- Wrangler internals ---
+.wrangler/
+node_modules/
+
+# --- Backups locales (.gitignore ya los excluye de git, pero wrangler los lee del working tree) ---
+*.bak
+*.bak-*
+noticias_backup_pre_fase6/
+noticias_demos_antiguos_backup_*/
+
+# --- Secretos / entorno ---
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+
+# --- Editores ---
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Manifiestos de package (no útiles para Cloudflare assets) ---
+package.json
+package-lock.json
+yarn.lock
+
+# --- Documentación interna del repo (no contenido público) ---
+README.md
