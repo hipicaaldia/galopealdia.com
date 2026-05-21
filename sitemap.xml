@@ -2,27 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.galopealdia.com/</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/espana.html</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/europa.html</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/internacional.html</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-21T09:09:04-el-premio-satrustegui-marca-la-jornada-del-domingo-24-en-la-zarzuela.html</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-21T09:09:04-ludovic-gadbin-confia-en-el-debut-de-rue-recamier-y-en-las-opciones-de-mister.html</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/legal/aviso-legal.html</loc>
@@ -49,21 +61,15 @@
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/editorial/2026-04-24-bienvenida.html</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.galopealdia.com/noticias/20260521-el-premio-satrustegui-marca-la-jornada-del-domingo-24-en-la-zarzuela.html</loc>
+    <lastmod>2026-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/calendario/galope.html</loc>
-    <lastmod>2026-05-20</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20260521-ludovic-gadbin-confia-en-el-debut-de-rue-recamier-y-en-las-opciones-de-mister.html</loc>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/calendario/obstaculos_turf.html</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 </urlset>
