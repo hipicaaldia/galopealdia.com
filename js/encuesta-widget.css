@@ -1,0 +1,28 @@
+/* Estilos del widget de encuesta de pronósticos (galopealdia). Paleta turf. */
+.encuesta-pronostico { --gp-primario:#5C1024; --gp-secundario:#8B1E3F; --gp-acento:#D4A44A; --gp-muted:#8b6a5c; margin:1.5rem 0; }
+.encuesta-pronostico h3 { color:var(--gp-primario); margin:.2rem 0; }
+.encuesta-pronostico h4 { color:var(--gp-primario); margin:.8rem 0 .3rem; }
+.encuesta-pronostico .ep-aviso { color:var(--gp-muted); font-size:.9rem; }
+.encuesta-pronostico .ep-carrera { border:1px solid #e3d3b3; border-radius:8px; padding:.7rem 1rem; margin:.8rem 0; background:#fff; }
+.encuesta-pronostico .ep-sels { display:flex; gap:1rem; flex-wrap:wrap; margin:.4rem 0; }
+.encuesta-pronostico .ep-sels select { padding:.25rem; border:1px solid #cbb98f; border-radius:4px; }
+.encuesta-pronostico .ep-btn { background:var(--gp-primario); color:#fff; border:0; border-radius:6px; padding:.45rem 1rem; cursor:pointer; font-family:inherit; }
+.encuesta-pronostico .ep-btn:hover { background:var(--gp-secundario); }
+.encuesta-pronostico .ep-btn:disabled { opacity:.6; cursor:default; }
+.encuesta-pronostico .ep-res { margin-top:.6rem; }
+.encuesta-pronostico .ep-res-tit { font-weight:700; margin-bottom:.4rem; color:var(--gp-primario); }
+.encuesta-pronostico .ep-res-list { list-style:none; padding:0; margin:0; }
+.encuesta-pronostico .ep-res-list li { display:flex; align-items:center; gap:.5rem; margin:.25rem 0; font-size:.9rem; }
+.encuesta-pronostico .ep-name { flex:0 0 12rem; }
+.encuesta-pronostico .ep-track { flex:1 1 auto; background:#efe4cf; border-radius:4px; height:.9rem; overflow:hidden; }
+.encuesta-pronostico .ep-bar { display:block; height:100%; background:linear-gradient(90deg,var(--gp-primario),var(--gp-secundario)); border-radius:4px; }
+.encuesta-pronostico .ep-pct { flex:0 0 3.4rem; text-align:right; font-variant-numeric:tabular-nums; font-weight:700; color:var(--gp-primario); }
+.encuesta-pronostico .ep-registro { border:1px solid var(--gp-acento); background:#fff; border-radius:8px; padding:1rem; margin:.8rem 0; }
+.encuesta-pronostico .ep-registro label { display:block; margin:.4rem 0; }
+.encuesta-pronostico .ep-registro input { display:block; width:100%; max-width:22rem; padding:.4rem; margin-top:.15rem; border:1px solid #cbb98f; border-radius:4px; }
+.encuesta-pronostico .ep-consent { font-size:.85rem; } .encuesta-pronostico .ep-consent input { width:auto; display:inline; margin-right:.4rem; }
+.encuesta-pronostico .ep-consent a { color:var(--gp-secundario); }
+.encuesta-pronostico .ep-tabs { display:flex; gap:.4rem; margin-bottom:.7rem; }
+.encuesta-pronostico .ep-tab { flex:1; background:#f1e6cf; border:1px solid var(--gp-acento); color:var(--gp-primario); border-radius:6px; padding:.35rem; cursor:pointer; font-family:inherit; }
+.encuesta-pronostico .ep-tab:hover { background:var(--gp-acento); }
+.encuesta-pronostico .ep-err { color:#b00020; font-size:.85rem; margin-top:.4rem; min-height:1rem; }
