@@ -552,3 +552,33 @@ footer {
   .cmp-modal,
   .cmp-modal__contenido { animation: none; }
 }
+
+/* Tablas dentro del cuerpo editorial (pronósticos, clasificaciones) */
+.editorial-cuerpo table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.4rem 0;
+  font-size: 0.95rem;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  display: block;
+  overflow-x: auto;        /* scroll horizontal en móvil */
+  -webkit-overflow-scrolling: touch;
+}
+.editorial-cuerpo thead { background: var(--c-primario); }
+.editorial-cuerpo th {
+  color: var(--c-fondo);
+  font-weight: bold;
+  text-align: left;
+  padding: 0.6rem 0.8rem;
+  border-bottom: 2px solid var(--c-acento);
+  white-space: nowrap;
+}
+.editorial-cuerpo td {
+  padding: 0.55rem 0.8rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  vertical-align: top;
+}
+.editorial-cuerpo tbody tr:nth-child(even) { background: var(--c-fondo); }
+.editorial-cuerpo tbody tr:hover { background: rgba(0, 0, 0, 0.04); }
+.editorial-cuerpo td strong { color: var(--c-primario); }
