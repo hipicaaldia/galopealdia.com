@@ -582,3 +582,10 @@ footer {
 .editorial-cuerpo tbody tr:nth-child(even) { background: var(--c-fondo); }
 .editorial-cuerpo tbody tr:hover { background: rgba(0, 0, 0, 0.04); }
 .editorial-cuerpo td strong { color: var(--c-primario); }
+
+@media (max-width: 600px) {
+  .editorial-cuerpo table { font-size: 0.84rem; }
+  .editorial-cuerpo th,
+  .editorial-cuerpo td { padding: 0.4rem 0.5rem; }
+  .editorial-cuerpo th { white-space: normal; }   /* el encabezado puede partir línea */
+}
