@@ -37,12 +37,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-23T22:13:16-hijos-de-starman-y-st-mark-s-basilica-encabezan-la-subasta-breeze-up-de.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-23T21:06:54-nelson-du-pont-confirma-su-progresion-con-un-triunfo-en-el-prix-glauke-de.html</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -50,6 +44,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-23T21:06:54-gstaad-protagonista-del-tattersalls-irish-2-000-guineas-en-el-curragh.html</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-23T22:13:16-star-anise-afronta-su-prueba-sobre-la-milla-y-media-en-el-yushun-himba-japanese.html</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -73,13 +73,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-23T21:06:54-el-curragh-acoge-el-fin-de-semana-de-las-tattersalls-irish-guineas-con-gstaad.html</loc>
+    <loc>https://www.galopealdia.com/noticias/2026-05-21T09:09:04-ludovic-gadbin-confia-en-el-debut-de-rue-recamier-y-en-las-opciones-de-mister.html</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-21T09:09:04-ludovic-gadbin-confia-en-el-debut-de-rue-recamier-y-en-las-opciones-de-mister.html</loc>
+    <loc>https://www.galopealdia.com/noticias/2026-05-23T21:06:54-san-isidro-reune-59-ratificados-para-la-jornada-internacional-del-25-de-mayo-con.html</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
