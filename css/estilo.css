@@ -201,6 +201,14 @@ h2 { font-size: 1.3rem; color: var(--c-secundario); }
 }
 .noticia .meta { color: var(--c-muted); font-size: 0.85rem; }
 
+/* Vídeos embebidos en el cuerpo (Zarzuela, recorrido del ganador…): en
+   escritorio ocupaban todo el ancho (demasiado grandes). Los capamos a 640px
+   y centramos. El !important del margen vence al `margin:1.4rem 0` inline de
+   las piezas YA publicadas. En móvil el contenedor es más estrecho → full. */
+.video-embed {
+  max-width: 640px;
+  margin: 1.4rem auto !important;
+}
 .imagen-noticia { margin: 1.5rem 0; }
 /* MEJORA-2 (2026-04-27): tamaño consistente para la imagen principal de la
    noticia. Las fotos venían con dimensiones nativas dispares (Beijing 2008
