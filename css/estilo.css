@@ -223,12 +223,16 @@ h2 { font-size: 1.3rem; color: var(--c-secundario); }
   object-fit: cover;
   border-radius: 4px;
 }
+/* Pie de foto: mínimo legible y ALINEADO AL ANCHO DE LA IMAGEN (800px,
+   centrado como la <img>), no al ancho del artículo. (2026-05-27) */
 .imagen-noticia figcaption {
-  font-size: 0.82rem;
+  max-width: 800px;
+  margin: 0.3rem auto 0;
+  font-size: 0.72rem;
+  line-height: 1.3;
   color: var(--c-muted);
-  margin-top: 0.4rem;
   border-top: 1px solid #e8e0d0;
-  padding-top: 0.4rem;
+  padding-top: 0.3rem;
 }
 .imagen-noticia .logo-organismo {
   max-width: 30%;
@@ -309,13 +313,17 @@ h2 { font-size: 1.3rem; color: var(--c-secundario); }
   border-left: 3px solid var(--c-acento);
   margin: 1rem 0;
 }
+/* Crédito de imagen de archivo/externa: discreto (sin caja ámbar pesada),
+   alineado al ancho de la imagen y al tamaño mínimo legible. Hereda
+   max-width/margin de `.imagen-noticia figcaption`. (2026-05-27) */
 .imagen-noticia figcaption.pie-transparente {
-  background: #fff8e6;
-  border-left: 3px solid var(--c-acento);
-  padding: 0.6rem 0.9rem;
-  color: #3a2a10;
-  font-size: 0.85rem;
+  background: transparent;
+  border-left: none;
+  padding: 0.3rem 0 0;
+  color: var(--c-muted);
+  font-size: 0.72rem;
 }
+.imagen-noticia figcaption.pie-transparente strong { font-weight: 600; }
 
 .cuerpo p { margin: 0 0 1rem; }
 
