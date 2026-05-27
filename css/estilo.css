@@ -638,17 +638,23 @@ footer {
   .cmp-modal__contenido { animation: none; }
 }
 
-/* Tablas dentro del cuerpo editorial (pronósticos, clasificaciones) */
+/* Tablas dentro del cuerpo editorial (pronósticos, clasificaciones).
+   El scroll horizontal en móvil lo da el contenedor `.tabla-scroll` (envuelto
+   por el renderer); la tabla ocupa el 100% en escritorio y mantiene un ancho
+   mínimo para no aplastarse en pantallas pequeñas. (2026-05-27) */
+.editorial-cuerpo .tabla-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 1.4rem 0;
+  border-radius: 4px;
+}
 .editorial-cuerpo table {
   width: 100%;
+  min-width: 460px;
   border-collapse: collapse;
-  margin: 1.4rem 0;
   font-size: 0.95rem;
   background: #fff;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
-  display: block;
-  overflow-x: auto;        /* scroll horizontal en móvil */
-  -webkit-overflow-scrolling: touch;
 }
 .editorial-cuerpo thead { background: var(--c-primario); }
 .editorial-cuerpo th {
