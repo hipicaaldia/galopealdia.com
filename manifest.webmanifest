@@ -1,0 +1,29 @@
+{
+  "name": "Galope al Día",
+  "short_name": "Galope al Día",
+  "description": "Actualidad del turf: carreras de galope, trote y obstáculos en España y el mundo.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#5C1024",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

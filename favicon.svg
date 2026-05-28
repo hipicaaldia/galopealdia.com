@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"
+     role="img" aria-label="Galope al Día">
+  <defs>
+    <linearGradient id="fondo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5C1024"/>
+      <stop offset="100%" stop-color="#3D0B18"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" ry="12" fill="url(#fondo)"/>
+  <text x="32" y="48" fill="#D4A44A"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="46" font-weight="700" letter-spacing="-1"
+        text-anchor="middle">G</text>
+</svg>
