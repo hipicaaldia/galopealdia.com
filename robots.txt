@@ -1,6 +1,6 @@
-# Bots SEO/scrapers comerciales: no aportan valor, consumen ancho de banda.
-# Los bots de IA grandes (GPTBot, ClaudeBot, CCBot, etc.) los gestiona
-# Cloudflare via robots.txt managed automáticamente.
+# Bots SEO/scrapers comerciales: no aportan valor editorial,
+# consumen ancho de banda. Los bots de IA grandes los
+# gestiona Cloudflare via robots.txt managed automáticamente.
 User-agent: SemrushBot
 Disallow: /
 User-agent: AhrefsBot
