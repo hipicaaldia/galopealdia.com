@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675"
+     preserveAspectRatio="xMidYMid slice"
+     role="img" aria-label="Pronóstico La Zarzuela · Domingo 31 de mayo de 2026">
+  <defs>
+    <linearGradient id="fondo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3D0B18"/>
+      <stop offset="55%" stop-color="#5C1024"/>
+      <stop offset="100%" stop-color="#8B1E3F"/>
+    </linearGradient>
+    <linearGradient id="oroBrillo" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B8861E"/>
+      <stop offset="50%" stop-color="#D4A44A"/>
+      <stop offset="100%" stop-color="#B8861E"/>
+    </linearGradient>
+    <pattern id="textura" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="0.8" fill="#D4A44A" opacity="0.06"/>
+    </pattern>
+    <!-- Silueta de jinete a caballo estilizada (decorativa, esquina inf-der) -->
+    <symbol id="silueta" viewBox="0 0 200 140">
+      <path fill="#D4A44A" opacity="0.18" d="M180 110 C170 95, 155 88, 140 92 L130 75 C128 68, 122 64, 116 66 L110 50 C108 42, 100 38, 93 42 L82 38 C78 36, 72 38, 70 42 L60 58 C55 65, 56 72, 60 78 L48 85 C42 88, 40 95, 44 100 L40 108 C36 114, 40 120, 46 122 L62 122 L78 115 L92 122 L108 118 L122 124 L140 120 L160 125 L182 122 Z"/>
+    </symbol>
+  </defs>
+
+  <!-- Fondo principal -->
+  <rect width="1200" height="675" fill="url(#fondo)"/>
+  <rect width="1200" height="675" fill="url(#textura)"/>
+
+  <!-- Vignette esquinas para dar profundidad -->
+  <rect width="1200" height="675" fill="black" opacity="0.12"
+        style="mix-blend-mode: multiply"/>
+
+  <!-- Decoración: silueta jinete esquina inferior derecha -->
+  <use href="#silueta" x="900" y="490" width="320" height="220"/>
+
+  <!-- Marca arriba -->
+  <g transform="translate(80, 90)">
+    <rect x="0" y="0" width="6" height="40" fill="url(#oroBrillo)"/>
+    <text x="22" y="20" fill="#D4A44A" font-family="Georgia, 'Times New Roman', serif"
+          font-size="20" font-weight="700" letter-spacing="6">GALOPE AL DÍA</text>
+    <text x="22" y="40" fill="#E8C77D" font-family="Georgia, 'Times New Roman', serif"
+          font-size="13" letter-spacing="3" opacity="0.85">Actualidad del turf</text>
+  </g>
+
+  <!-- Línea decorativa horizontal -->
+  <line x1="80" y1="180" x2="280" y2="180" stroke="url(#oroBrillo)" stroke-width="2"/>
+  <circle cx="80" cy="180" r="4" fill="#D4A44A"/>
+
+  <!-- Título principal: PRONÓSTICO -->
+  <text x="80" y="290" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif"
+        font-size="92" font-weight="700" letter-spacing="3">PRONÓSTICO</text>
+
+  <!-- Subtítulo: hipódromo -->
+  <text x="80" y="360" fill="#D4A44A" font-family="Georgia, 'Times New Roman', serif"
+        font-size="46" font-weight="600" letter-spacing="2">LA ZARZUELA</text>
+
+  <!-- Fecha + carreras -->
+  <g transform="translate(80, 440)">
+    <text x="0" y="0" fill="#F4E4B5" font-family="Georgia, 'Times New Roman', serif"
+          font-size="26" font-weight="400" letter-spacing="1.5">Domingo 31 de mayo de 2026</text>
+    <text x="0" y="38" fill="#E8C77D" font-family="Georgia, 'Times New Roman', serif"
+          font-size="20" font-weight="400" letter-spacing="1" opacity="0.9">5 carreras · clasificación esperada</text>
+  </g>
+
+  <!-- Línea decorativa inferior + acento -->
+  <line x1="80" y1="585" x2="220" y2="585" stroke="url(#oroBrillo)" stroke-width="2"/>
+  <text x="80" y="615" fill="#D4A44A" font-family="Georgia, 'Times New Roman', serif"
+        font-size="14" font-weight="600" letter-spacing="4" opacity="0.9">galopealdia.com</text>
+</svg>
