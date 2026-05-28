@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 1200 675" preserveAspectRatio="xMidYMid slice"
+     role="img" aria-label="Pronóstico La Zarzuela · Domingo 31 de mayo · 5 carreras">
+  <defs>
+    <linearGradient id="overlay" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#3D0B18" stop-opacity="0.95"/>
+      <stop offset="40%" stop-color="#5C1024" stop-opacity="0.75"/>
+      <stop offset="70%" stop-color="#5C1024" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#5C1024" stop-opacity="0.0"/>
+    </linearGradient>
+    <linearGradient id="oroBrillo" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B8861E"/>
+      <stop offset="50%" stop-color="#D4A44A"/>
+      <stop offset="100%" stop-color="#B8861E"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Foto base: Beamonte/Zarzuela. Path relativo a la propia ruta del SVG. -->
+  <image href="../eventos/once-potras-beamonte/portada.jpg"
+         xlink:href="../eventos/once-potras-beamonte/portada.jpg"
+         x="0" y="0" width="1200" height="675"
+         preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Overlay granate de abajo a arriba para legibilidad del texto -->
+  <rect x="0" y="0" width="1200" height="675" fill="url(#overlay)"/>
+
+  <!-- Esquina sup-izq: marca pequeña -->
+  <g transform="translate(48, 56)">
+    <rect x="0" y="0" width="4" height="32" fill="#D4A44A"/>
+    <text x="16" y="14" fill="#D4A44A" font-family="Georgia, serif"
+          font-size="14" font-weight="700" letter-spacing="4">GALOPE AL DÍA</text>
+    <text x="16" y="30" fill="#F4E4B5" font-family="Georgia, serif"
+          font-size="10" letter-spacing="2.5" opacity="0.85">Actualidad del turf</text>
+  </g>
+
+  <!-- Bloque principal abajo-izquierda -->
+  <g transform="translate(60, 430)">
+    <!-- "PRONÓSTICO" en oro -->
+    <text x="0" y="0" fill="#D4A44A" font-family="Georgia, serif"
+          font-size="22" font-weight="700" letter-spacing="6">PRONÓSTICO</text>
+    <!-- Línea separadora -->
+    <line x1="0" y1="14" x2="180" y2="14" stroke="url(#oroBrillo)" stroke-width="1.5"/>
+    <!-- Hipódromo grande blanco -->
+    <text x="0" y="76" fill="#FFFFFF" font-family="Georgia, serif"
+          font-size="64" font-weight="700" letter-spacing="1">LA ZARZUELA</text>
+    <!-- Fecha y carreras -->
+    <text x="0" y="120" fill="#F4E4B5" font-family="Georgia, serif"
+          font-size="22" font-weight="400" letter-spacing="1">Domingo 31 de mayo de 2026 · 5 carreras</text>
+    <text x="0" y="150" fill="#E8C77D" font-family="Georgia, serif"
+          font-size="16" font-weight="400" letter-spacing="1.5" opacity="0.9">clasificación esperada · vota tu podio</text>
+  </g>
+
+  <!-- Esquina inf-der: dominio -->
+  <text x="1140" y="640" fill="#D4A44A" font-family="Georgia, serif"
+        font-size="13" font-weight="600" letter-spacing="3" opacity="0.85"
+        text-anchor="end">galopealdia.com</text>
+</svg>

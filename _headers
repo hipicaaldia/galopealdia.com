@@ -1,0 +1,23 @@
+# Headers de seguridad — Cloudflare Pages aplica este archivo
+# automáticamente. Cero impacto en peso de la web (solo cabeceras HTTP).
+# Doc: https://developers.cloudflare.com/pages/configuration/headers/
+
+/*
+  # Forzar HTTPS durante 2 años + subdominios (HSTS).
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+
+  # Evita que el navegador adivine MIME types (XSS via uploads).
+  X-Content-Type-Options: nosniff
+
+  # No permitir embebido en iframes de terceros (clickjacking).
+  X-Frame-Options: SAMEORIGIN
+
+  # Solo enviar referer al mismo dominio (privacidad).
+  Referrer-Policy: strict-origin-when-cross-origin
+
+  # Limitar APIs del navegador a las que NO usamos.
+  Permissions-Policy: geolocation=(), microphone=(), camera=(), payment=()
+
+  # Cross-Origin policies — no exponer recursos a otras webs.
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin
