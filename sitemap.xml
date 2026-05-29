@@ -25,6 +25,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-29T21:32:53-el-fin-de-semana-turf-japanese-derby-prix-du-jockey-club-y-gp-beamonte.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-29T10:18:57-siete-yeguas-optaran-a-la-betway-lester-piggott-fillies-stakes-de-carlisle.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -32,6 +38,18 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-29T10:18:57-dan-de-champ-alcanza-un-record-de-210-000-euros-en-la-subasta-de-tattersalls.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-29T21:32:53-so-happy-se-cae-del-belmont-stakes-2026-por-una-sensibilidad-en-el-tobillo.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-29T21:32:53-renegade-trabaja-en-saratoga-con-la-mirada-puesta-en-el-belmont-stakes-del-6-de.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -56,6 +74,18 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-28T08:19:05-hello-jade-rush-resiste-a-krack-clea-en-el-prix-baptiste-ferchaud-de-vincennes.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-29T21:32:53-mauricio-delcher-sanchez-estrena-cuadra-en-chantilly-con-pearled-majesty-y.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-29T21:32:53-true-love-apunta-al-coronation-stakes-del-royal-ascot-tras-su-1-000-guineas.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -169,13 +199,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-25T08:21:32-renegade-llega-al-belmont-stakes-tras-su-arrolladora-exhibicion-en-el-kentucky.html</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-25T08:21:32-half-half-favorito-del-quinte-del-lunes-en-compiegne-tras-su-triunfo-de-abril.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260529-renegade-llega-al-belmont-stakes-tras-su-arrolladora-exhibicion-en-el-kentucky.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -187,13 +211,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-25T08:21:32-janie-buss-heredera-de-los-lakers-construye-su-propio-legado-en-el-turf-con.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260529-half-half-favorito-del-quinte-del-lunes-en-compiegne-tras-su-triunfo-de-abril.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-25T00:21:04-resultados-de-la-zarzuela-24-05-dragon-force-y-maximum-scepticism-cumplen-el.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260529-janie-buss-heredera-de-los-lakers-construye-su-propio-legado-en-el-turf-con.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260529-resultados-de-la-zarzuela-24-05-dragon-force-y-maximum-scepticism-cumplen-el.html</loc>
     <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
