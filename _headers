@@ -18,6 +18,6 @@
   # Limitar APIs del navegador a las que NO usamos.
   Permissions-Policy: geolocation=(), microphone=(), camera=(), payment=()
 
-  # Cross-Origin policies — no exponer recursos a otras webs.
+  # Cross-Origin policies. 2026-05-30: CORP cross-origin para Worker preview.
   Cross-Origin-Opener-Policy: same-origin
-  Cross-Origin-Resource-Policy: same-origin
+  Cross-Origin-Resource-Policy: cross-origin
