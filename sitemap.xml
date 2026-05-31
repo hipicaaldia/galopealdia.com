@@ -43,6 +43,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-31T20:39:49-ombudsman-gana-el-brigadier-gerard-stakes-y-prepara-el-asalto-al-prince-of.html</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-31T10:18:50-golden-tempo-figura-entre-los-nombres-destacados-en-los-entrenamientos-previos.html</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -193,12 +199,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-27T08:18:15-ombudsman-encabeza-el-cartel-del-brigadier-gerard-stakes-en-sandown.html</loc>
-    <lastmod>2026-05-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260531-conny-whitfield-confia-en-tharpe-para-el-debut-sobre-3-000-metros-en-estrasburgo.html</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -206,6 +206,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260531-moro-debuta-en-el-quinte-de-estrasburgo-con-el-respaldo-del-experto-thomas.html</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260531-ombudsman-encabeza-el-cartel-del-brigadier-gerard-stakes-en-sandown.html</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
