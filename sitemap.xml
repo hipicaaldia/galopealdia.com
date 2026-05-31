@@ -25,6 +25,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-31T15:02:12-la-llosa-da-la-gran-sorpresa-y-conquista-el-gran-premio-beamonte.html</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-31T10:18:50-a-boy-named-susie-outsider-con-opciones-en-el-prix-du-jockey-club-del-domingo.html</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -181,13 +187,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-05-27T08:18:20-diez-potras-disputaran-el-gran-premio-beamonte-en-la-zarzuela.html</loc>
+    <lastmod>2026-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-05-27T08:18:15-ombudsman-encabeza-el-cartel-del-brigadier-gerard-stakes-en-sandown.html</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-27T08:18:15-conny-whitfield-confia-en-tharpe-para-el-debut-sobre-3-000-metros-en-estrasburgo.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260531-conny-whitfield-confia-en-tharpe-para-el-debut-sobre-3-000-metros-en-estrasburgo.html</loc>
     <lastmod>2026-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
