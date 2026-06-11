@@ -25,13 +25,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-11T10:11:52-el-hipodromo-de-la-zarzuela-cierra-la-temporada-de-primavera-con-el-gran-premio.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260611-el-hipodromo-de-la-zarzuela-cierra-la-temporada-de-primavera-con-el-gran-premio.html</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-11T10:12:14-authoritative-debuta-en-el-cesped-de-aqueduct-tras-el-paron-del-belmont-stakes.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260611-authoritative-debuta-en-el-cesped-de-aqueduct-tras-el-paron-del-belmont-stakes.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-11T18:25:58-lady-jancis-se-impone-en-el-cierre-del-programa-de-churchill-downs.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-11T18:25:58-christmas-day-gana-el-betfred-derby-de-epsom-y-firma-el-12o-triunfo-de-aidan.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-11T18:25:58-thundering-on-vuela-en-la-betfred-oaks-de-epsom-para-joseph-obrien-y-browne.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-11T18:25:58-bay-city-roller-arrasa-en-la-coronation-cup-de-epsom-y-deja-a-calandagan-sin.html</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -205,7 +229,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-01T10:35:09-lovcen-conquista-el-tokyo-yushun-y-firma-el-segundo-escalon-de-la-triple-corona.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260611-lovcen-conquista-el-tokyo-yushun-y-firma-el-segundo-escalon-de-la-triple-corona.html</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -218,12 +242,6 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260611-a-boy-named-susie-outsider-con-opciones-en-el-prix-du-jockey-club-del-domingo.html</loc>
-    <lastmod>2026-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-05-31T20:39:49-ombudsman-gana-el-brigadier-gerard-stakes-y-prepara-el-asalto-al-prince-of.html</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -242,6 +260,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260611-om-n-joy-sorprende-en-el-gii-santa-margarita-stakes-de-santa-anita.html</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260611-ombudsman-gana-el-brigadier-gerard-stakes-y-prepara-el-asalto-al-prince-of.html</loc>
     <lastmod>2026-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
