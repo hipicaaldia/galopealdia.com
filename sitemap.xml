@@ -25,6 +25,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-12T10:14:51-el-gran-premio-jockey-club-espanol-reune-a-los-mejores-velocistas-este-domingo.html</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-12T10:14:51-la-zarzuela-cierra-su-primavera-dominical-con-el-gran-premio-jockey-club-espanol.html</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-06-12T08:43:06-aidan-obrien-afina-su-ataque-al-prix-de-diane-con-diamond-necklace-y-moments-of.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,6 +50,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-06-12T08:43:05-el-fin-de-semana-turf-prix-de-diane-en-chantilly-y-dos-grupo-i-en-japon.html</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-12T10:14:51-rozarion-favorito-para-el-prix-du-bel-air-de-este-jueves-en-parislongchamp.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -211,7 +229,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-08T09:19:45-leading-change-debuta-con-victoria-en-churchill-downs.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260612-leading-change-debuta-con-victoria-en-churchill-downs.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -224,12 +242,6 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260612-trawlerman-vuelve-al-gold-cup-de-royal-ascot-el-18-de-junio-para-defender-la.html</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-05T22:22:01-renegade-favorito-2-1-del-belmont-stakes-158-golden-tempo-arranca-desde-el-9-en.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -259,7 +271,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-05T22:22:01-topysim-conquista-el-grand-prix-des-femmes-jockeys-en-parislongchamp.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260612-renegade-favorito-2-1-del-belmont-stakes-158-golden-tempo-arranca-desde-el-9-en.html</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260612-topysim-conquista-el-grand-prix-des-femmes-jockeys-en-parislongchamp.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
