@@ -79,6 +79,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-12T11:45:56-royal-ascot-reparte-un-record-de-1065-millones-de-libras-en-2026-y-eleva-el.html</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-12T11:45:56-dubai-future-sorprende-en-el-henry-ii-stakes-de-sandown-a-28-1-y-derriba-la.html</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-06-12T08:43:06-true-love-y-precise-reabren-su-duelo-en-el-coronation-stakes-de-royal-ascot.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -205,7 +217,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-08T09:19:45-majestad-reina-en-el-gran-premio-villapadierna-derby-espanol-de-la-zarzuela.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260612-majestad-reina-en-el-gran-premio-villapadierna-derby-espanol-de-la-zarzuela.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -217,19 +229,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-08T09:19:46-stormy-donald-una-opcion-de-valor-en-el-quinte-del-lunes-en-angers.html</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-08T09:19:46-dark-secret-favorito-para-el-quinte-de-este-lunes-en-angers.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260612-dark-secret-favorito-para-el-quinte-de-este-lunes-en-angers.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260612-leading-change-debuta-con-victoria-en-churchill-downs.html</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260612-stormy-donald-una-opcion-de-valor-en-el-quinte-del-lunes-en-angers.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
