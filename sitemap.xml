@@ -25,6 +25,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-17T14:40:50-chepstow-acogera-una-reunion-adicional-de-flat-el-3-de-julio.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-06-17T12:30:01-francia-lleva-cuatro-caballos-a-la-apertura-del-royal-ascot-con-rayevka-como.html</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -44,6 +50,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-06-17T10:10:44-lili-star-busca-mejorar-su-tercer-puesto-del-ano-pasado-en-el-grand-prix-des.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-17T14:40:50-jamie-osborne-sancionado-por-incumplimiento-del-codigo-de-conducta-de-la-bha.html</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -139,7 +151,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-12T08:43:06-aidan-obrien-afina-su-ataque-al-prix-de-diane-con-diamond-necklace-y-moments-of.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260617-aidan-obrien-afina-su-ataque-al-prix-de-diane-con-diamond-necklace-y-moments-of.html</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -199,12 +211,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-12T08:43:06-el-king-charles-iii-stakes-de-royal-ascot-mantiene-27-candidatos-para-abrir-el.html</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260617-bay-city-roller-destroza-la-coronation-cup-de-epsom-por-diez-cuerpos-y-hunde-a.html</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -224,6 +230,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260617-curlin-el-doble-caballo-del-ano-convertido-en-pilar-de-la-cria-norteamericana-en.html</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260617-el-king-charles-iii-stakes-de-royal-ascot-mantiene-27-candidatos-para-abrir-el.html</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
