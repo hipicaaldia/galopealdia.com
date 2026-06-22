@@ -13,24 +13,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/actualidad.html</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/pronosticos.html</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/estadistica.html</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/europa.html</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>daily</changefreq>
@@ -38,12 +20,6 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/internacional.html</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/cria.html</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -122,12 +98,6 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-06-18T22:18:30-secretariat-el-mito-de-la-triple-corona-de-1973-que-aun-dicta-el-pulso-del.html</loc>
-    <lastmod>2026-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-18T22:18:30-frankel-el-invicto-de-juddmonte-que-domina-la-cria-europea-desde-banstead-manor.html</loc>
     <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
