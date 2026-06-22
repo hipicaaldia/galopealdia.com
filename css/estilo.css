@@ -45,6 +45,32 @@ a:hover { text-decoration: underline; }
   margin-right: 1.2rem;
   font-size: 1rem;
 }
+/* Desplegable de navegación (turf: España → Actualidad/Pronósticos/Estadística).
+   2026-06-22 (unificación editorial→noticia). Desktop = hover; móvil = aplanado. */
+.nav-item { position: relative; display: inline-block; margin-right: 1.2rem; }
+.nav-drop > .nav-top { margin-right: 0; }
+.nav-drop > .nav-top::after { content: " \25BE"; font-size: 0.8em; opacity: 0.85; }
+.nav-sub {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 60;
+  background: var(--c-primario);
+  border-radius: 0 0 5px 5px;
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.2);
+  min-width: 210px;
+  padding: 0.3rem 0;
+}
+.nav-drop:hover > .nav-sub,
+.nav-drop:focus-within > .nav-sub { display: block; }
+.nav-sub a {
+  display: block;
+  margin: 0;
+  padding: 0.55rem 1rem;
+  white-space: nowrap;
+}
+.nav-sub a:hover { background: rgba(255, 255, 255, 0.14); }
 .hermana a {
   background: var(--c-acento);
   color: var(--c-primario);
@@ -75,6 +101,18 @@ a:hover { text-decoration: underline; }
     padding: 0.4rem 0.7rem;
     font-size: 0.95rem;
   }
+  /* Sin hover en móvil: España y sus sub-secciones se muestran en línea (aplanado). */
+  .nav-item { display: contents; }
+  .nav-sub {
+    display: contents;
+    position: static;
+    background: none;
+    box-shadow: none;
+    min-width: 0;
+    padding: 0;
+  }
+  .nav-sub a { display: inline-block; margin: 0; padding: 0.4rem 0.7rem; }
+  .nav-drop > .nav-top::after { content: ""; }
   .hermana { justify-self: center; }
 }
 
@@ -645,16 +683,19 @@ footer {
   .cmp-modal__contenido { animation: none; }
 }
 
-/* Tablas dentro del cuerpo editorial (pronósticos, clasificaciones).
-   El scroll horizontal en móvil lo da el contenedor `.tabla-scroll` (envuelto
-   por el renderer); la tabla ocupa el 100% en escritorio y mantiene un ancho
-   mínimo para no aplastarse en pantallas pequeñas. (2026-05-27) */
+/* Tablas dentro del cuerpo de noticia/editorial (pronósticos, clasificaciones,
+   resultados). Migración editorial→noticia (2026-06-22): los selectores cubren
+   tanto `.cuerpo` (plantilla de noticia) como `.editorial-cuerpo` (legacy), para
+   que el pronóstico —ahora noticia— conserve el estilo de tabla (bug del 24-may).
+   El scroll horizontal en móvil lo da el contenedor `.tabla-scroll`. (2026-05-27) */
+.cuerpo .tabla-scroll,
 .editorial-cuerpo .tabla-scroll {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   margin: 1.4rem 0;
   border-radius: 4px;
 }
+.cuerpo table,
 .editorial-cuerpo table {
   width: 100%;
   min-width: 460px;
@@ -663,7 +704,9 @@ footer {
   background: #fff;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
 }
+.cuerpo thead,
 .editorial-cuerpo thead { background: var(--c-primario); }
+.cuerpo th,
 .editorial-cuerpo th {
   color: var(--c-fondo);
   font-weight: bold;
@@ -672,18 +715,25 @@ footer {
   border-bottom: 2px solid var(--c-acento);
   white-space: nowrap;
 }
+.cuerpo td,
 .editorial-cuerpo td {
   padding: 0.55rem 0.8rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.12);
   vertical-align: top;
 }
+.cuerpo tbody tr:nth-child(even),
 .editorial-cuerpo tbody tr:nth-child(even) { background: var(--c-fondo); }
+.cuerpo tbody tr:hover,
 .editorial-cuerpo tbody tr:hover { background: rgba(0, 0, 0, 0.04); }
+.cuerpo td strong,
 .editorial-cuerpo td strong { color: var(--c-primario); }
 
 @media (max-width: 600px) {
+  .cuerpo table,
   .editorial-cuerpo table { font-size: 0.84rem; }
+  .cuerpo th, .cuerpo td,
   .editorial-cuerpo th,
   .editorial-cuerpo td { padding: 0.4rem 0.5rem; }
+  .cuerpo th,
   .editorial-cuerpo th { white-space: normal; }   /* el encabezado puede partir línea */
 }

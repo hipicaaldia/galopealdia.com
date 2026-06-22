@@ -41,8 +41,6 @@
 </script>
 <script defer src="../js/cmp.js"></script>
 <script defer src="../js/ads.js"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js"
-        data-cf-beacon='{"token": "be6f09ceeb8d475ea29290d93973d515"}'></script>
 </head>
 <body>
 <!-- Banner CMP (consentimiento de cookies) — oculto por defecto, lo muestra cmp.js si no hay decisión. -->
@@ -119,11 +117,18 @@
     <p class="slogan">Actualidad del turf</p>
   </div>
   <nav class="nav-principal">
-    <a href="../espana.html">España</a>
+    <span class="nav-item nav-drop">
+      <a href="../espana.html" class="nav-top">España</a>
+      <span class="nav-sub">
+        <a href="../actualidad.html">Actualidad / Resultados</a>
+        <a href="../pronosticos.html">Pronósticos</a>
+        <a href="../estadistica.html">Estadística</a>
+      </span>
+    </span>
     <a href="../europa.html">Europa</a>
     <a href="../internacional.html">Internacional</a>
+    <a href="../cria.html">Cría</a>
     <a href="../calendario.html">Calendario</a>
-    <a href="../pronosticos/">Pronósticos</a>
   </nav>
   <div class="hermana">
     <a href="https://www.hipicaaldia.com" rel="noopener">Deporte ecuestre →</a>
@@ -132,8 +137,6 @@
 <main>
 <div class="layout-grid" data-layout="con-sidebar">
   <div class="contenido-principal">
-<!-- confianza_datos: baja -->
-<!-- fuentes_contrastadas: ['Thoroughbred Daily News'] -->
 <article class="noticia">
   <header>
     <h1>Leading Change debuta con victoria en Churchill Downs</h1>
