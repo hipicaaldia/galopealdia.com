@@ -55,6 +55,30 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-26T22:41:03-la-zarzuela-vibra-con-sus-noches-del-hipodromo-ante-el-gran-premio-de-madrid.html</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-26T22:41:03-el-comite-de-licencias-rechaza-el-recurso-de-golden-mile-racing-para-chelmsford.html</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-26T22:41:03-cieren-fallon-apelara-su-sancion-por-conduccion-imprudente-en-ascot.html</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-26T11:59:21-ombudsman-encabeza-las-once-inscripciones-del-coral-eclipse-de-sandown.html</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-06-26T08:02:39-la-bha-levanta-las-restricciones-a-la-cuadra-de-rowley-tras-un-brote-de-gripe.html</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -181,13 +205,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-18T22:18:30-aidan-obrien-suma-siete-clasicos-europeos-de-diez-en-2026-y-firma-una-temporada.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260626-aidan-obrien-suma-siete-clasicos-europeos-de-diez-en-2026-y-firma-una-temporada.html</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-18T22:18:30-el-hipodromo-de-san-sebastian-abre-su-temporada-de-verano-2026-con-quince.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260626-el-hipodromo-de-san-sebastian-abre-su-temporada-de-verano-2026-con-quince.html</loc>
     <lastmod>2026-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1040,13 +1064,13 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/galope.html</loc>
-    <lastmod>2026-06-25</lastmod>
+    <lastmod>2026-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/obstaculos_turf.html</loc>
-    <lastmod>2026-06-25</lastmod>
+    <lastmod>2026-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
