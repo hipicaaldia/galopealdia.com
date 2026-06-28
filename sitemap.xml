@@ -55,6 +55,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-28T11:30:50-qirat-tumba-al-favorito-never-so-brave-en-el-criterion-stakes-de-york-con-de.html</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-06-27T23:01:40-coetzee-se-estrena-en-espana-con-victoria-en-el-gran-premio-de-madrid.html</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -241,12 +247,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-21T21:55:16-stark-contrast-apunta-al-belmont-derby-tras-su-triunfo-en-el-american-turf.html</loc>
-    <lastmod>2026-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260628-aidan-obrien-suma-siete-clasicos-europeos-de-diez-en-2026-y-firma-una-temporada.html</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -284,6 +284,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260628-secretariat-el-mito-de-la-triple-corona-de-1973-que-aun-dicta-el-pulso-del.html</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260628-stark-contrast-apunta-al-belmont-derby-tras-su-triunfo-en-el-american-turf.html</loc>
     <lastmod>2026-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
