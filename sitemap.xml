@@ -49,7 +49,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-29T10:34:32-el-fin-de-semana-turf-grand-prix-de-saint-cloud-eclipse-y-durban-july.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-06-29T10:16:23-clairefontaine-arranca-la-semana-con-lord-raffles-invicto-como-principal.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-06-29T10:16:23-magnitude-viaja-a-saratoga-tras-su-victoria-en-el-stephen-foster.html</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -211,12 +223,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-23T10:17:42-reino-unido-cancela-cuatro-jornadas-hipicas-por-alerta-roja-de-calor-extremo.html</loc>
-    <lastmod>2026-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260629-almeraq-sorprende-a-25-1-en-el-queen-elizabeth-ii-jubilee-stakes-de-royal-ascot.html</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -224,6 +230,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260629-giavellotto-bate-a-kalpana-en-el-hardwicke-stakes-y-suma-royal-ascot-a-su-gira.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260629-reino-unido-cancela-cuatro-jornadas-hipicas-por-alerta-roja-de-calor-extremo.html</loc>
     <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
