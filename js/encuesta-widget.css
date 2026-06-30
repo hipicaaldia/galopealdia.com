@@ -26,3 +26,33 @@
 .encuesta-pronostico .ep-tab { flex:1; background:#f1e6cf; border:1px solid var(--gp-acento); color:var(--gp-primario); border-radius:6px; padding:.35rem; cursor:pointer; font-family:inherit; }
 .encuesta-pronostico .ep-tab:hover { background:var(--gp-acento); }
 .encuesta-pronostico .ep-err { color:#b00020; font-size:.85rem; margin-top:.4rem; min-height:1rem; }
+
+/* ===== Resultado: PODIO (top-3 tarjetas) + RANKING completo (rediseño 2026-06-30) ===== */
+.encuesta-pronostico .ep-podio { display:flex; gap:.5rem; justify-content:center; align-items:flex-end; margin:.6rem 0 1rem; }
+.encuesta-pronostico .ep-card { flex:1 1 0; max-width:11rem; border:1px solid var(--gp-borde,#e3d3b3); border-radius:12px; padding:.7rem .4rem; text-align:center; background:#fffdf8; }
+.encuesta-pronostico .ep-card.ep-c1 { border-color:var(--gp-acento); box-shadow:0 6px 16px rgba(212,164,74,.3); padding-top:1rem; }
+.encuesta-pronostico .ep-card .ep-m { font-size:1.6rem; line-height:1; }
+.encuesta-pronostico .ep-card .ep-cpos { font-size:.72rem; color:var(--gp-muted); letter-spacing:.03em; }
+.encuesta-pronostico .ep-card .ep-ccab { font-weight:700; color:var(--gp-primario); margin:.2rem 0; font-size:.9rem; line-height:1.15; min-height:2.3em; display:flex; align-items:center; justify-content:center; }
+.encuesta-pronostico .ep-card .ep-cpct { font-size:1.45rem; font-weight:700; color:var(--gp-primario); font-variant-numeric:tabular-nums; }
+.encuesta-pronostico .ep-card .ep-cmini { height:.4rem; background:var(--gp-track,#efe4cf); border-radius:3px; margin-top:.35rem; overflow:hidden; }
+.encuesta-pronostico .ep-card .ep-cmini i { display:block; height:100%; background:linear-gradient(90deg,var(--gp-acento),var(--gp-secundario)); }
+.encuesta-pronostico .ep-card .ep-tuvoto { margin-top:.4rem; font-size:.68rem; color:#fff; background:var(--gp-secundario); border-radius:20px; padding:.1rem .5rem; display:inline-block; }
+.encuesta-pronostico .ep-rank-tit { font-weight:700; color:var(--gp-primario); margin:.3rem 0 .4rem; border-top:1px dashed var(--gp-borde,#e3d3b3); padding-top:.6rem; }
+.encuesta-pronostico .ep-rank { list-style:none; padding:0; margin:0; }
+.encuesta-pronostico .ep-rank li { display:flex; align-items:center; gap:.5rem; margin:.25rem 0; padding:.15rem .3rem; border-radius:6px; font-size:.9rem; }
+.encuesta-pronostico .ep-rank .ep-name { flex:0 0 11rem; display:flex; align-items:center; gap:.3rem; }
+.encuesta-pronostico .ep-rank .ep-resto:not(.ep-mivoto) .ep-name,
+.encuesta-pronostico .ep-rank .ep-resto:not(.ep-mivoto) .ep-pct { opacity:.6; }
+.encuesta-pronostico .ep-rank .ep-top .ep-bar { background:linear-gradient(90deg,var(--gp-acento),var(--gp-secundario)); }
+.encuesta-pronostico .ep-rank .ep-mivoto { background:#fbf3e0; box-shadow:inset 0 0 0 1.5px var(--gp-acento); }
+.encuesta-pronostico .ep-med { font-size:1em; }
+.encuesta-pronostico .ep-chip { font-size:.64rem; color:#fff; background:var(--gp-primario); border-radius:20px; padding:.05rem .45rem; white-space:nowrap; }
+.encuesta-pronostico .ep-chip.oro { background:var(--gp-acento); color:#3a230a; }
+@media (max-width:560px){
+  .encuesta-pronostico .ep-podio { gap:.3rem; }
+  .encuesta-pronostico .ep-card { padding:.5rem .3rem; }
+  .encuesta-pronostico .ep-card .ep-ccab { font-size:.8rem; }
+  .encuesta-pronostico .ep-card .ep-cpct { font-size:1.2rem; }
+  .encuesta-pronostico .ep-rank .ep-name { flex-basis:8rem; font-size:.8rem; }
+}

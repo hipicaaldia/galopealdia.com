@@ -71,12 +71,23 @@
     return r.json();
   }
 
-  function pintarResultados(cont, carrera, agg) {
+  // Podio que votó el lector en esta carrera (para resaltar dónde cayó su voto).
+  function voterPodio(cfg, carreraId) {
+    try { return JSON.parse(localStorage.getItem("ep_podio_" + cfg.jornada + "_" + carreraId) || "null") || []; }
+    catch { return []; }
+  }
+  function escHtml(s) {
+    return String(s).replace(/[&<>"]/g, m => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[m]));
+  }
+
+  // Render del resultado: PODIO (top-3 en tarjetas) + RANKING completo en barras,
+  // con el podio votado por el lector resaltado, esté o no en el top-3.
+  function pintarResultados(cont, carrera, agg, cfg) {
     const c = (agg.carreras || {})[carrera.id];
     const box = cont.querySelector(".ep-res");
     const n = (c && c.n) ? c.n : 0;
     if (!n) { box.innerHTML = "<em>Aún sin votos. ¡Sé el primero!</em>"; return; }
-    // % de probabilidad = cuota de puntos Borda de cada caballo sobre el total.
+    // % = cuota de puntos Borda de cada caballo sobre el total.
     const total = (c.ranking || []).reduce((s, r) => s + r.puntos, 0) || 1;
     const pts = {}; (c.ranking || []).forEach(r => { pts[r.caballo] = r.puntos; });
     // TODOS los participantes, incluso con 0% (orden desc por probabilidad).
@@ -84,14 +95,42 @@
       num: co.num, caballo: co.caballo, pct: ((pts[co.caballo] || 0) / total) * 100,
     })).sort((a, b) => b.pct - a.pct || a.num - b.num);
     const maxPct = filas[0].pct || 1;
-    let html = `<div class="ep-res-tit">🗳️ Probabilidad según los lectores (${n} ${n === 1 ? "voto" : "votos"})</div><ul class="ep-res-list">`;
-    filas.forEach(f => {
-      const w = f.pct > 0 ? Math.max(3, (f.pct / maxPct) * 100) : 0;
-      html += `<li><span class="ep-name">${f.num}. ${f.caballo}</span>`
-            + `<span class="ep-track"><span class="ep-bar" style="width:${w}%"></span></span>`
-            + `<span class="ep-pct">${f.pct.toFixed(1)}%</span></li>`;
+    const podio = voterPodio(cfg, carrera.id);
+    const miPos = (cab) => podio.indexOf(cab) + 1; // 0 = no estaba en mi voto
+    const MED = ["🥇", "🥈", "🥉"];
+    const votos = `${n} ${n === 1 ? "voto" : "votos"}`;
+
+    // --- Podio: top-3 en tarjetas (orden visual 2º-1º-3º; 1º elevado) ---
+    const top = filas.slice(0, 3);
+    const orden = top.length === 3 ? [1, 0, 2] : top.map((_, i) => i);
+    let cards = '<div class="ep-podio">';
+    orden.forEach(idx => {
+      const f = top[idx]; if (!f) return;
+      const mp = miPos(f.caballo);
+      cards += `<div class="ep-card ep-c${idx + 1}">`
+        + `<div class="ep-m">${MED[idx]}</div>`
+        + `<div class="ep-cpos">${idx + 1}º · nº ${escHtml(f.num)}</div>`
+        + `<div class="ep-ccab">${escHtml(f.caballo)}</div>`
+        + `<div class="ep-cpct">${f.pct.toFixed(0)}%</div>`
+        + `<div class="ep-cmini"><i style="width:${Math.max(3, (f.pct / maxPct) * 100)}%"></i></div>`
+        + (mp ? `<div class="ep-tuvoto">✓ tu ${mp}º</div>` : "")
+        + "</div>";
     });
-    box.innerHTML = html + "</ul>";
+    cards += "</div>";
+
+    // --- Ranking completo en barras (tu voto resaltado, esté o no en el podio) ---
+    let lista = `<div class="ep-rank-tit">🗳️ Ranking de los lectores · ${votos}</div><ul class="ep-rank">`;
+    filas.forEach((f, i) => {
+      const mp = miPos(f.caballo);
+      const med = i < 3 ? `<span class="ep-med">${MED[i]}</span> ` : "";
+      const chip = mp ? `<span class="ep-chip${mp === 1 ? " oro" : ""}">tu ${mp}º</span>` : "";
+      const cls = (i < 3 ? "ep-top" : "ep-resto") + (mp ? " ep-mivoto" : "");
+      const w = f.pct > 0 ? Math.max(3, (f.pct / maxPct) * 100) : 0;
+      lista += `<li class="${cls}"><span class="ep-name">${med}${escHtml(f.num)}. ${escHtml(f.caballo)} ${chip}</span>`
+        + `<span class="ep-track"><span class="ep-bar" style="width:${w}%"></span></span>`
+        + `<span class="ep-pct">${f.pct.toFixed(1)}%</span></li>`;
+    });
+    box.innerHTML = cards + lista + "</ul>";
   }
 
   function montarCarrera(cfg, carrera) {
@@ -110,7 +149,7 @@
       // Ya votó: NO mostramos el % hasta que lo pida explícitamente.
       lock();
       btn.textContent = "Ver pronóstico de los lectores";
-      btn.addEventListener("click", async () => { pintarResultados(wrap, carrera, await leerResultados(cfg)); });
+      btn.addEventListener("click", async () => { pintarResultados(wrap, carrera, await leerResultados(cfg), cfg); });
     } else {
       // No ha votado: solo el formulario; el % permanece oculto hasta votar.
       btn.addEventListener("click", async () => {
@@ -118,8 +157,10 @@
         if (sels.length < 3 || new Set(sels).size < 3) { alert("Elige tres caballos distintos para tu podio."); return; }
         const agg = await enviarVoto(cfg, carrera.id, sels);
         localStorage.setItem("ep_voto_" + cfg.jornada + "_" + carrera.id, "1");
+        // Guarda el podio votado para resaltar dónde cayó tu voto en el ranking.
+        localStorage.setItem("ep_podio_" + cfg.jornada + "_" + carrera.id, JSON.stringify(sels));
         lock(); btn.textContent = "Ya has votado"; btn.disabled = true;
-        pintarResultados(wrap, carrera, agg); // el % aparece SOLO ahora, tras votar
+        pintarResultados(wrap, carrera, agg, cfg); // el % aparece SOLO ahora, tras votar
       });
     }
     return wrap;
