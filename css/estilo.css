@@ -101,17 +101,34 @@ a:hover { text-decoration: underline; }
     padding: 0.4rem 0.7rem;
     font-size: 0.95rem;
   }
-  /* Sin hover en móvil: España y sus sub-secciones se muestran en línea (aplanado). */
-  .nav-item { display: contents; }
+  /* Sin hover en móvil. España queda como cabecera y sus sub-secciones se muestran
+     en una fila propia DEBAJO, más pequeñas y tenues (subordinadas): así no parecen
+     de primer nivel y se lee la jerarquía (fix móvil 2026-07-02). */
+  .nav-item.nav-drop {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-basis: 100%;
+    margin-right: 0;
+    gap: 0.1rem;
+  }
   .nav-sub {
-    display: contents;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     position: static;
     background: none;
     box-shadow: none;
     min-width: 0;
     padding: 0;
+    gap: 0 0.15rem;
   }
-  .nav-sub a { display: inline-block; margin: 0; padding: 0.4rem 0.7rem; }
+  .nav-sub a {
+    margin: 0;
+    padding: 0.25rem 0.55rem;
+    font-size: 0.8rem;
+    opacity: 0.72;
+  }
   .nav-drop > .nav-top::after { content: ""; }
   .hermana { justify-self: center; }
 }
