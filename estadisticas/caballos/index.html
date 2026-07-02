@@ -44,7 +44,22 @@ tbody td a{color:var(--granate);text-decoration:none}tbody td a:hover{text-decor
 .split .card{flex:1;min-width:150px;background:#fff;border:1px solid #ece3d3;border-radius:10px;padding:12px 14px}
 .split .card .lbl{color:#7a7a7a;font-size:.85rem}
 .split .card .sd{color:#8a8a8a;font-size:.85rem;margin-top:.2rem}
-</style></head><body><div class="wrap"><div class="h1">Ranking de caballos</div><div class="hsub">Cifras verificadas de nuestra base de datos</div><hr class="hr"><div class="controls"><div class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#9a8f80" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg><input id="q" placeholder="Buscar caballo…"></div><div class="sel"><label for="amb">Ámbito</label><select id="amb"><option value="es">España</option><option value="all">Todos</option></select></div><div class="sel"><label for="per">Temporada</label><select id="per"><option value="todo">Histórico</option><option value="m12">Últimos 12 meses</option><option value="y2026">2026</option><option value="y2025">2025</option><option value="y2024">2024</option><option value="y2023">2023</option><option value="y2022">2022</option></select></div></div><table id="rk"><thead><tr><th class="rk">#</th><th data-k="n" data-t="text">Caballo<span class="ar"></span></th><th class="r" data-k="c" data-t="num">Carr.<span class="ar"></span></th><th class="r" data-k="v" data-t="num">Vict.<span class="ar"></span></th><th class="r" data-k="pv" data-t="num">%V<span class="ar"></span></th><th class="r" data-k="g" data-t="num">Ganancias<span class="ar"></span></th></tr></thead><tbody id="tb"></tbody></table><div class="foot" id="ft"></div><div class="credito">Elaborado por Galope al Día · cifras verificadas de nuestra base de datos</div></div><script>
+.tw{overflow-x:auto;-webkit-overflow-scrolling:touch;border-radius:12px}
+@media (max-width:640px){
+  .wrap{padding:16px 13px 34px}
+  .h1{font-size:1.6rem}.hsub{font-size:.95rem}
+  .avatar{width:52px;height:52px;font-size:1.2rem}
+  .cards{flex-wrap:wrap;gap:8px}
+  .cards>.card{flex:1 1 28%}
+  .card .num{font-size:1.6rem}
+  thead th,tbody td{padding:.5rem .5rem;font-size:.88rem}
+  tbody td{max-width:150px}
+  .controls{gap:8px}.search{padding:9px 12px}
+  .sel{flex:1}.sel select{flex:1;padding:8px 10px}
+  .split .card{min-width:120px}
+  .brow .blbl{width:auto;max-width:130px;font-size:.9rem}
+}
+</style></head><body><div class="wrap"><div class="h1">Ranking de caballos</div><div class="hsub">Cifras verificadas de nuestra base de datos</div><hr class="hr"><div class="controls"><div class="search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#9a8f80" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg><input id="q" placeholder="Buscar caballo…"></div><div class="sel"><label for="amb">Ámbito</label><select id="amb"><option value="es">España</option><option value="all">Todos</option></select></div><div class="sel"><label for="per">Temporada</label><select id="per"><option value="todo">Histórico</option><option value="m12">Últimos 12 meses</option><option value="y2026">2026</option><option value="y2025">2025</option><option value="y2024">2024</option><option value="y2023">2023</option><option value="y2022">2022</option></select></div></div><div class="tw"><table id="rk"><thead><tr><th class="rk">#</th><th data-k="n" data-t="text">Caballo<span class="ar"></span></th><th class="r" data-k="c" data-t="num">Carr.<span class="ar"></span></th><th class="r" data-k="v" data-t="num">Vict.<span class="ar"></span></th><th class="r" data-k="pv" data-t="num">%V<span class="ar"></span></th><th class="r" data-k="g" data-t="num">Ganancias<span class="ar"></span></th></tr></thead><tbody id="tb"></tbody></table></div><div class="foot" id="ft"></div><div class="credito">Elaborado por Galope al Día · cifras verificadas de nuestra base de datos</div></div><script>
 function tablaOrdenable(cfg){
   let sk=cfg.sortKey, sd=cfg.sortDir, verTodas=false;
   const tipo={}; cfg.cols.forEach(c=>tipo[c.k]=c.type);
