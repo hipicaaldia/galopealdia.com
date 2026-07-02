@@ -139,7 +139,35 @@
   <div class="contenido-principal">
 <section class="seccion">
   <h1>Estadística</h1>
-  <p class="vacio">Sin publicaciones en esta sección hoy.</p>
+
+<style>
+.stats-hub{margin:0 0 1.5rem}
+.stats-hub__intro{color:#5C1024;margin:.2rem 0 1rem;max-width:52ch}
+.stats-hub__grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+.stats-hub__card{display:block;padding:16px 18px;border:1px solid #e7d9c3;border-radius:12px;
+ background:#fff;text-decoration:none;transition:border-color .15s,transform .15s}
+.stats-hub__card:hover{border-color:#D4A44A;transform:translateY(-2px)}
+.stats-hub__t{display:block;font-weight:700;color:#5C1024;font-size:1.1rem}
+.stats-hub__d{display:block;color:#8b6a5c;font-size:.9rem;margin-top:.25rem}
+</style>
+<div class="stats-hub">
+  <p class="stats-hub__intro">Rankings del turf español con cifras verificadas de nuestra
+   base de datos, buscador y orden por cualquier columna.</p>
+  <div class="stats-hub__grid">
+    <a class="stats-hub__card" href="estadisticas/caballos/index.html">
+      <span class="stats-hub__t">Caballos</span>
+      <span class="stats-hub__d">Carreras, victorias, ganancias y pedigrí</span></a>
+    <a class="stats-hub__card" href="estadisticas/jinetes/index.html">
+      <span class="stats-hub__t">Jinetes</span>
+      <span class="stats-hub__d">Montas, victorias y ganancias</span></a>
+    <a class="stats-hub__card" href="estadisticas/preparadores/index.html">
+      <span class="stats-hub__t">Preparadores</span>
+      <span class="stats-hub__d">Corridos, victorias y ganancias</span></a>
+    <a class="stats-hub__card" href="estadisticas/propietarios/index.html">
+      <span class="stats-hub__t">Propietarios</span>
+      <span class="stats-hub__d">Corridos, victorias y ganancias</span></a>
+  </div>
+</div>
 </section>
   </div>
   <aside class="slot-sidebar" data-slot="sidebar" hidden></aside>
