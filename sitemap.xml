@@ -49,6 +49,24 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-04T12:36:26-chad-brown-persigue-su-septimo-belmont-oaks-con-fitz-right-como-principal.html</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-04T12:36:26-la-ola-de-calor-obliga-a-cancelar-jornadas-en-colonial-downs-y-otros-hipodromos.html</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-04T12:36:26-test-score-conquista-el-belmont-derby-g1-de-saratoga-para-graham-motion-y-manuel.html</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-07-04T10:06:03-sandown-acoge-hoy-el-coral-eclipse-day-con-56-carreras-en-reino-unido-e-irlanda.html</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -181,7 +199,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-29T10:16:23-clairefontaine-arranca-la-semana-con-lord-raffles-invicto-como-principal.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260704-clairefontaine-arranca-la-semana-con-lord-raffles-invicto-como-principal.html</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -199,18 +217,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-29T10:16:23-magnitude-viaja-a-saratoga-tras-su-victoria-en-el-stephen-foster.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-29T10:16:23-irad-ortiz-jr-se-proclama-campeon-del-spring-meet-de-churchill-downs.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260704-aqueduct-cierra-sus-puertas-tras-67-anos-de-historia-y-carreras-en-nueva-york.html</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,6 +224,18 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260704-eclipse-herod-y-matchem-las-tres-lineas-masculinas-que-sostienen-el-pura-sangre.html</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260704-irad-ortiz-jr-se-proclama-campeon-del-spring-meet-de-churchill-downs.html</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260704-magnitude-viaja-a-saratoga-tras-su-victoria-en-el-stephen-foster.html</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
