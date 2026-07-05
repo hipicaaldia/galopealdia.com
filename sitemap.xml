@@ -49,6 +49,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-05T11:31:54-kensington-lane-sorprende-a-23-1-en-el-belmont-oaks-de-saratoga-para-donnacha.html</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-05T11:31:54-el-mundial-de-jinetes-aficionados-abre-el-verano-de-san-sebastian-con-alvaro.html</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-07-05T08:33:38-resultados-de-la-zarzuela-04-07-marcus-atilius-western-ruler-ire-macario-ire.html</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -211,18 +223,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-29T21:41:58-estrange-tumba-a-thundering-on-y-conquista-el-pretty-polly-stakes-g1-del-curragh.html</loc>
-    <lastmod>2026-07-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-29T21:41:58-pearled-majesty-conquista-el-prix-eugene-adam-g2-de-saint-cloud-para-delcher.html</loc>
-    <lastmod>2026-07-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260705-aqueduct-cierra-sus-puertas-tras-67-anos-de-historia-y-carreras-en-nueva-york.html</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -230,6 +230,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260705-eclipse-herod-y-matchem-las-tres-lineas-masculinas-que-sostienen-el-pura-sangre.html</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260705-estrange-tumba-a-thundering-on-y-conquista-el-pretty-polly-stakes-g1-del-curragh.html</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -247,6 +253,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20260705-pearled-majesty-conquista-el-prix-eugene-adam-g2-de-saint-cloud-para-delcher.html</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20260705-delcher-sanchez-afronta-con-pearled-majesty-el-gr-ii-prix-eugene-adam-de-saint.html</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -259,13 +271,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-06-29T17:25:53-resultados-de-la-zarzuela-27-06-belisa-bay-ire-annies-song-fr-basco-bearnais-ire.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260705-coetzee-se-estrena-en-espana-con-victoria-en-el-gran-premio-de-madrid.html</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260705-coetzee-se-estrena-en-espana-con-victoria-en-el-gran-premio-de-madrid.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260705-resultados-de-la-zarzuela-27-06-belisa-bay-ire-annies-song-fr-basco-bearnais-ire.html</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
