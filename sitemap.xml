@@ -49,12 +49,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-06T19:57:03-pronostico-la-zarzuela-jueves-9-de-julio-clasificacion-esperada-de-las-5.html</loc>
-    <lastmod>2026-07-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/2026-07-08T11:18:56-newmarket-acogera-tres-grandes-carreras-este-fin-de-semana-en-el-july-course.html</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -74,6 +68,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-07-08T11:34:01-rebels-romance-regresa-a-newmarket-como-referencia-de-las-princess-of-waless.html</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-08T11:18:56-siyouni-el-semental-frances-del-aga-khan-que-domina-la-cria-europea-desde-haras.html</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
