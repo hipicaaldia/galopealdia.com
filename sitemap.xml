@@ -55,6 +55,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-10T11:50:00-minaret-station-y-fort-george-encabezan-el-bowling-green-g2-de-saratoga-en-la.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-10T11:50:00-rebels-romance-conquista-la-princess-of-waless-stakes-de-newmarket-con-doblete.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-07-10T10:19:26-newmarket-desvela-los-inscritos-para-el-july-cup-day-del-debenhams-july-festival.html</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,19 +211,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-04T12:36:26-chad-brown-persigue-su-septimo-belmont-oaks-con-fitz-right-como-principal.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260710-chad-brown-persigue-su-septimo-belmont-oaks-con-fitz-right-como-principal.html</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-04T12:36:26-la-ola-de-calor-obliga-a-cancelar-jornadas-en-colonial-downs-y-otros-hipodromos.html</loc>
-    <lastmod>2026-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-04T12:36:26-test-score-conquista-el-belmont-derby-g1-de-saratoga-para-graham-motion-y-manuel.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260710-la-ola-de-calor-obliga-a-cancelar-jornadas-en-colonial-downs-y-otros-hipodromos.html</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -224,6 +230,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260710-sandown-acoge-hoy-el-coral-eclipse-day-con-56-carreras-en-reino-unido-e-irlanda.html</loc>
+    <lastmod>2026-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260710-test-score-conquista-el-belmont-derby-g1-de-saratoga-para-graham-motion-y-manuel.html</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
