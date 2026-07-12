@@ -49,6 +49,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-12T06:31:41-comanche-brave-conquista-el-july-cup-de-newmarket-para-donnacha-obrien.html</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-12T06:31:41-ole-crazy-bone-bate-a-fort-george-en-el-bowling-green-de-saratoga-por-un-hocico.html</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-07-11T19:12:41-resultados-de-la-zarzuela-11-07-noisy-night-gb-thundering-gb-western-ruler-ire.html</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -223,19 +235,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-06T12:06:22-phileas-fogg-repite-en-el-suburban-de-saratoga-con-una-leccion-de-diez-cuerpos.html</loc>
-    <lastmod>2026-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-06T12:06:22-el-prix-jean-prat-pone-rumbo-a-deauville-con-la-milla-europea-en-juego.html</loc>
-    <lastmod>2026-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260712-deep-impact-el-semental-que-convirtio-a-japon-en-potencia-global-de-la-cria-del.html</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260712-el-prix-jean-prat-pone-rumbo-a-deauville-con-la-milla-europea-en-juego.html</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260712-phileas-fogg-repite-en-el-suburban-de-saratoga-con-una-leccion-de-diez-cuerpos.html</loc>
     <lastmod>2026-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
