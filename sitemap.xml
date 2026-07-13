@@ -55,6 +55,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-13T06:31:49-aalto-revalida-el-bunbury-cup-de-newmarket-bajo-la-monta-de-william-buick.html</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-13T06:31:49-thesecretadversary-conquista-el-prix-jean-prat-de-deauville-con-soumillon.html</loc>
+    <lastmod>2026-07-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-07-12T06:31:41-comanche-brave-conquista-el-july-cup-de-newmarket-para-donnacha-obrien.html</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -157,7 +169,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-06T19:57:03-pronostico-la-zarzuela-jueves-9-de-julio-clasificacion-esperada-de-las-5.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260713-pronostico-la-zarzuela-jueves-9-de-julio-clasificacion-esperada-de-las-5.html</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -193,7 +205,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-07T10:37:24-red-rum-el-caballo-que-gano-tres-veces-el-grand-national-de-aintree.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260713-red-rum-el-caballo-que-gano-tres-veces-el-grand-national-de-aintree.html</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1454,13 +1466,13 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/galope.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/obstaculos_turf.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
