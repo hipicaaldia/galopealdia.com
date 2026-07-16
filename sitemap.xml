@@ -67,6 +67,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-16T16:38:53-musselburgh-cancela-su-reunion-del-21-de-julio-por-problemas-de-riego.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-07-16T09:02:15-reino-unido-impulsa-cambios-para-reducir-salidas-nulas-en-cheltenham.html</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -223,12 +229,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-09T12:06:56-tattersalls-mantiene-su-liderazgo-en-las-subastas-de-pura-sangre-en-newmarket.html</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260716-newmarket-estrena-hoy-el-debenhams-july-festival-con-la-princess-of-waless.html</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -242,6 +242,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260716-renaissance-lady-hija-de-reem-three-cierra-en-500-000-guineas-la-segunda-jornada.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260716-tattersalls-mantiene-su-liderazgo-en-las-subastas-de-pura-sangre-en-newmarket.html</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
