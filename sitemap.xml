@@ -49,6 +49,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-19T08:10:50-el-hipodromo-de-la-zarzuela-cierra-otra-exitosa-semana-de-noches-de-verano.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-07-19T03:58:48-resultados-de-la-zarzuela-18-07-nurture-fr-zurito-ire-black-voice-gb-encabezan.html</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -211,7 +217,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-11T19:12:41-resultados-de-la-zarzuela-11-07-noisy-night-gb-thundering-gb-western-ruler-ire.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260719-resultados-de-la-zarzuela-11-07-noisy-night-gb-thundering-gb-western-ruler-ire.html</loc>
     <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
