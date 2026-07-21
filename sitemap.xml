@@ -61,6 +61,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-21T15:13:14-baby-vino-conquista-el-haskell-stakes-g1-de-monmouth-park-y-sella-su-pase-al.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-21T15:13:14-seabiscuit-el-pequeno-alazan-que-devolvio-la-esperanza-a-la-america-de-la-gran.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-07-20T14:16:30-lope-de-vega-el-doble-clasico-frances-que-se-ha-convertido-en-pilar-de.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -181,7 +193,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-13T14:44:37-pronostico-la-zarzuela-jueves-16-de-julio-clasificacion-esperada-de-las-5.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260721-pronostico-la-zarzuela-jueves-16-de-julio-clasificacion-esperada-de-las-5.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -223,7 +235,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-13T06:31:49-aalto-revalida-el-bunbury-cup-de-newmarket-bajo-la-monta-de-william-buick.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260721-aalto-revalida-el-bunbury-cup-de-newmarket-bajo-la-monta-de-william-buick.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1634,13 +1646,13 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/galope.html</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/obstaculos_turf.html</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
