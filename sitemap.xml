@@ -49,7 +49,25 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-27T20:33:56-pronostico-la-zarzuela-jueves-30-de-julio-clasificacion-esperada-de-las-5.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-07-27T09:31:25-kalpana-firma-la-revancha-sobre-calandagan-en-el-king-george-vi-de-ascot.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-27T20:33:56-tres-jockeys-britanicos-suspendidos-por-incumplimiento-reiterado-de-normativa.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-27T20:33:56-el-panel-disciplinario-resuelve-la-apelacion-de-christophe-soumillon.html</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -199,7 +217,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-19T08:10:50-el-hipodromo-de-la-zarzuela-cierra-otra-exitosa-semana-de-noches-de-verano.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260727-el-hipodromo-de-la-zarzuela-cierra-otra-exitosa-semana-de-noches-de-verano.html</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -223,19 +241,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-19T03:58:48-bint-archange-parte-favorita-en-el-weatherbys-super-sprint-de-newbury.html</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-19T03:58:48-thundering-on-causa-baja-en-el-irish-oaks-y-earth-shot-pasa-a-favorita-en-el.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260727-bint-archange-parte-favorita-en-el-weatherbys-super-sprint-de-newbury.html</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260727-pronostico-la-zarzuela-sabado-18-de-julio-clasificacion-esperada-de-las-3.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260727-thundering-on-causa-baja-en-el-irish-oaks-y-earth-shot-pasa-a-favorita-en-el.html</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
