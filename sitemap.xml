@@ -49,6 +49,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-07-29T22:12:20-pronostico-la-zarzuela-sabado-1-de-agosto-clasificacion-esperada-de-las-3.html</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-07-27T20:33:56-pronostico-la-zarzuela-jueves-30-de-julio-clasificacion-esperada-de-las-5.html</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -217,13 +223,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-22T09:31:44-tokaido-conquista-el-prix-robert-papin-g2-de-chantilly-y-firma-el-mayor-triunfo.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260729-diamond-necklace-la-invicta-de-aidan-obrien-apunta-al-festival-de-glorious.html</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260729-diamond-necklace-la-invicta-de-aidan-obrien-apunta-al-festival-de-glorious.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260729-tokaido-conquista-el-prix-robert-papin-g2-de-chantilly-y-firma-el-mayor-triunfo.html</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
