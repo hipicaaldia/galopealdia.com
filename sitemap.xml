@@ -55,6 +55,30 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-02T10:44:52-deauville-abre-su-meeting-estival-con-el-grupo-i-prix-rothschild.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-02T10:44:53-pandoras-gift-se-estrena-con-victoria-en-monmouth-tras-su-traslado-a-estados.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-02T10:44:53-fanshell-beach-firma-la-primera-victoria-de-stakes-para-su-padre-corniche-en.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-02T10:44:52-eunomia-conquista-el-clement-l-hirsch-stakes-g1-en-del-mar-y-se-clasifica-para.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-08-02T08:11:58-resultados-de-la-zarzuela-01-08-thundering-gb-mimijolie-ire-natural-force-gb.html</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -139,7 +163,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-27T20:33:56-pronostico-la-zarzuela-jueves-30-de-julio-clasificacion-esperada-de-las-5.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260802-pronostico-la-zarzuela-jueves-30-de-julio-clasificacion-esperada-de-las-5.html</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -199,25 +223,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-27T20:33:56-tres-jockeys-britanicos-suspendidos-por-incumplimiento-reiterado-de-normativa.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260802-built-rompe-el-maleficio-en-el-vanderbilt-de-saratoga-con-irad-ortiz-jr.html</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-27T20:33:56-el-panel-disciplinario-resuelve-la-apelacion-de-christophe-soumillon.html</loc>
-    <lastmod>2026-08-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-27T09:31:25-built-rompe-el-maleficio-en-el-vanderbilt-de-saratoga-con-irad-ortiz-jr.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260802-el-panel-disciplinario-resuelve-la-apelacion-de-christophe-soumillon.html</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260802-maximum-bourbon-se-lleva-el-bing-crosby-g1-de-del-mar-con-joel-rosario.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260802-tres-jockeys-britanicos-suspendidos-por-incumplimiento-reiterado-de-normativa.html</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1922,13 +1946,13 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/galope.html</loc>
-    <lastmod>2026-08-01</lastmod>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/obstaculos_turf.html</loc>
-    <lastmod>2026-08-01</lastmod>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
