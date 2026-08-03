@@ -49,6 +49,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-03T22:00:37-pronostico-la-zarzuela-jueves-6-de-agosto-clasificacion-esperada-de-las-3.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-08-03T11:35:48-el-fin-de-semana-turf-deauville-aprieta-con-el-prix-maurice-de-gheest-y-dos.html</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -211,12 +217,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-28T11:35:52-scandinavia-y-trawlerman-repiten-duelo-en-el-goodwood-cup-g1.html</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260803-el-qatar-goodwood-festival-2026-abre-cinco-dias-con-38-carreras-y-tres-grupos-1.html</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -236,6 +236,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260803-qirat-parte-de-favorito-en-el-lennox-stakes-g2-del-arranque-de-goodwood.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260803-scandinavia-y-trawlerman-repiten-duelo-en-el-goodwood-cup-g1.html</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
