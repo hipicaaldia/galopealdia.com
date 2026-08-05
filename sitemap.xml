@@ -55,6 +55,30 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-05T10:32:01-colgan-senora-favorito-del-quinte-de-deauville-del-martes-4-de-agosto.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-05T10:32:01-julien-phelippon-confia-en-roman-skies-y-walma-para-clairefontaine.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-05T10:32:01-alkrar-brilla-en-la-teste-y-lidera-las-bonnes-notes-del-turf-frances.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-05T10:36:30-no-nay-never-el-hijo-de-scat-daddy-que-sostiene-la-cria-veloz-en-coolmore.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-08-04T10:14:28-a-la-montagne-primer-hijo-de-alpinista-debuta-en-catterick.html</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -187,7 +211,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-31T10:17:37-el-hipodromo-de-la-zarzuela-retoma-la-actividad-tras-el-paron-estival.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260805-el-hipodromo-de-la-zarzuela-retoma-la-actividad-tras-el-paron-estival.html</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -199,19 +223,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-31T11:32:39-enceladus-firma-el-gordon-stakes-g3-de-goodwood-con-mcmonagle-y-confirma-su.html</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260805-el-fin-de-semana-turf-grande-premio-brasil-g1-en-gavea-y-tres-grupos-en-japon-e.html</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-07-31T10:17:37-resultados-de-la-zarzuela-30-07-desafio-fr-agripa-fr-headhunter-fr-encabezan-la.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260805-enceladus-firma-el-gordon-stakes-g3-de-goodwood-con-mcmonagle-y-confirma-su.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260805-resultados-de-la-zarzuela-30-07-desafio-fr-agripa-fr-headhunter-fr-encabezan-la.html</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -2018,13 +2042,13 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/galope.html</loc>
-    <lastmod>2026-08-04</lastmod>
+    <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/obstaculos_turf.html</loc>
-    <lastmod>2026-08-04</lastmod>
+    <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
