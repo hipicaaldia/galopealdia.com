@@ -49,19 +49,31 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-06T10:10:38-el-hipodromo-de-la-zarzuela-despide-las-noches-del-hipodromo-el-6-de-agosto.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260806-el-hipodromo-de-la-zarzuela-despide-las-noches-del-hipodromo-el-6-de-agosto.html</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-06T10:11:03-napoleon-solo-apunta-al-travers-stakes-del-29-de-agosto-en-saratoga.html</loc>
+    <loc>https://www.galopealdia.com/noticias/2026-08-06T10:13:25-la-hisa-resuelve-un-caso-de-violacion-de-normativa-antidopaje-en-ee-uu.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-06T10:13:25-todd-pletcher-firma-cinco-victorias-en-saratoga-con-renegade-en-el-jim-dandy.html</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-08-03T22:00:37-pronostico-la-zarzuela-jueves-6-de-agosto-clasificacion-esperada-de-las-3.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260806-napoleon-solo-apunta-al-travers-stakes-del-29-de-agosto-en-saratoga.html</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -80,12 +92,6 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-08-05T10:32:01-alkrar-brilla-en-la-teste-y-lidera-las-bonnes-notes-del-turf-frances.html</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-06T10:10:38-todd-pletcher-firma-cinco-victorias-en-saratoga-con-renegade-como-estrella.html</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -116,6 +122,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/2026-08-05T10:36:30-no-nay-never-el-hijo-de-scat-daddy-que-sostiene-la-cria-veloz-en-coolmore.html</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260806-todd-pletcher-firma-cinco-victorias-en-saratoga-con-renegade-como-estrella.html</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -181,7 +193,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260806-jesus-borrego-firma-un-doblete-brillante-en-la-segunda-etapa-de-la-copa-promesas.html</loc>
+    <loc>https://www.galopealdia.com/noticias/2026-08-02T08:11:58-jesus-borrego-firma-un-doblete-brillante-en-la-segunda-etapa-de-la-copa-promesas.html</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
