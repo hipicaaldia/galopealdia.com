@@ -49,7 +49,25 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-10T10:12:33-chepstow-cumple-cien-anos-de-base-aerea-en-guerra-a-escenario-del-welsh-grand.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-10T10:13:22-exelmans-outsider-atractiva-del-quinte-de-este-lunes-en-clairefontaine.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-08-10T08:50:51-el-fin-de-semana-turf-prix-jean-romanet-y-seis-grupos-entre-francia-ee-uu-y.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-10T10:12:33-holmby-firma-el-primer-triunfo-de-grupo-para-el-semental-corniche-en-el-gii.html</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -223,13 +241,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-04T10:50:29-royal-ascot-la-cita-real-que-dicta-el-galope-britanico-desde-1711.html</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-04T10:14:28-a-la-montagne-primer-hijo-de-alpinista-debuta-en-catterick.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260810-a-la-montagne-primer-hijo-de-alpinista-debuta-en-catterick.html</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -253,13 +265,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20260810-royal-ascot-la-cita-real-que-dicta-el-galope-britanico-desde-1711.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-08-05T08:17:20-data-suma-otro-prix-six-perfections-para-head-y-boudot-en-deauville.html</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-05T08:17:20-gimme-a-nother-firma-su-tercer-grado-consecutivo-al-ganar-el-beverly-d-de.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260810-gimme-a-nother-firma-su-tercer-grado-consecutivo-al-ganar-el-beverly-d-de.html</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
