@@ -49,6 +49,24 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-17T10:11:08-deauville-clairefontaine-arranca-la-jornada-con-la-grande-course-de-haies.html</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-17T10:11:08-q-b-rocket-se-impone-en-su-debut-en-una-carrera-de-seis-furlongs.html</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-17T10:11:08-sweet-azteca-logra-su-tercer-triunfo-consecutivo-en-la-rancho-bernardo-stakes.html</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-08-17T08:14:35-dubawi-el-hijo-de-dubai-millennium-que-reina-en-la-cria-europea-desde-dalham.html</loc>
     <lastmod>2026-08-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -193,7 +211,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-11T10:47:27-pronostico-san-sebastian-miercoles-12-de-agosto-clasificacion-esperada-de-las-5.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260817-pronostico-san-sebastian-miercoles-12-de-agosto-clasificacion-esperada-de-las-5.html</loc>
     <lastmod>2026-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -205,7 +223,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-11T10:11:06-seleccion-de-caballos-destacados-en-la-jornada-de-clairefontaine-y-enghien.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260817-seleccion-de-caballos-destacados-en-la-jornada-de-clairefontaine-y-enghien.html</loc>
     <lastmod>2026-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -235,7 +253,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-10T15:57:07-el-sabado-turf-en-espana-copa-de-oro-y-uae-president-cup-animan-la-jornada.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260817-el-sabado-turf-en-espana-copa-de-oro-y-uae-president-cup-animan-la-jornada.html</loc>
     <lastmod>2026-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -2666,13 +2684,13 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/galope.html</loc>
-    <lastmod>2026-08-15</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/obstaculos_turf.html</loc>
-    <lastmod>2026-08-15</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
