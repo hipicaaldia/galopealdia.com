@@ -55,6 +55,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-18T11:05:31-man-o-war-el-big-red-que-redefinio-el-galope-americano-en-los-anos-veinte.html</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-18T11:05:31-la-historica-newmarket-town-plate-celebra-su-355a-edicion-este-sabado.html</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20260818-deauville-clairefontaine-arranca-la-jornada-con-la-grande-course-de-haies.html</loc>
     <lastmod>2026-08-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,13 +247,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-12T10:23:25-un-potro-de-into-mischief-alcanza-los-3-millones-de-dolares-en-subasta.html</loc>
-    <lastmod>2026-08-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-12T10:23:25-hermano-carnal-de-barnes-marca-record-de-subasta-en-saratoga-con-42-millones-de.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260818-hermano-carnal-de-barnes-marca-record-de-subasta-en-saratoga-con-42-millones-de.html</loc>
     <lastmod>2026-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -254,6 +260,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260818-un-hijo-de-gun-runner-alcanza-los-4-millones-de-dolares-en-subasta.html</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260818-un-potro-de-into-mischief-alcanza-los-3-millones-de-dolares-en-subasta.html</loc>
     <lastmod>2026-08-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
