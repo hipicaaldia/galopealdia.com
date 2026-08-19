@@ -177,6 +177,23 @@ h1 { font-size: 2rem; color: var(--c-primario); margin-top: 0; }
 h2 { font-size: 1.3rem; color: var(--c-secundario); }
 
 .lista-noticias { list-style: none; padding: 0; display: grid; gap: 1.4rem; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+
+/* Bloque temático del campeonato en curso (2026-08-18): agrupa arriba toda la
+   cobertura del evento. Cabecera con filete del color primario para que se lea
+   como un bloque y no como una tarjeta más del flujo. */
+.bloque-tematico { margin: 0 0 2.2rem; }
+.bloque-tematico-titulo {
+  color: var(--c-primario);
+  font-size: 1.15rem;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  margin: 2rem 0 1rem;
+  padding-bottom: .45rem;
+  border-bottom: 3px solid var(--c-primario);
+}
+@media (max-width: 600px) {
+  .bloque-tematico-titulo { font-size: 1rem; }
+}
 .tarjeta {
   background: #fff;
   border-left: 4px solid var(--c-acento);
