@@ -55,7 +55,31 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-25T11:30:46-las-carreras-de-sanlucar-cierran-con-exito-su-181-a-edicion-en-la-playa-gaditana.html</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-25T11:30:46-ultima-semana-de-agosto-cierran-cabourg-y-deauville-con-grupos-y-preparatorias-a.html</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-25T11:30:46-el-grand-prix-de-deauville-cierra-el-domingo-el-gran-meeting-normando-con-400.html</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-08-25T09:38:27-longchamp-el-hipodromo-del-bois-de-boulogne-que-corona-al-galope-europeo.html</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-25T11:30:46-golden-tempo-favorito-del-travers-stakes-de-saratoga-con-125-millones-en-juego.html</loc>
     <lastmod>2026-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -241,13 +265,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-19T10:14:53-counting-stars-disputa-el-sabado-el-alabama-stakes-de-saratoga.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260825-counting-stars-disputa-el-sabado-el-alabama-stakes-de-saratoga.html</loc>
     <lastmod>2026-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-19T10:14:53-libby-lloyd-protagonista-de-una-serie-editorial-sobre-jovenes-promesas-del-turf.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260825-libby-lloyd-protagonista-de-una-serie-editorial-sobre-jovenes-promesas-del-turf.html</loc>
     <lastmod>2026-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -259,13 +283,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-18T18:01:40-106-inscritos-en-la-cambridgeshire-y-94-en-la-cesarewitch-de-newmarket.html</loc>
-    <lastmod>2026-08-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-18T18:01:40-maximus-meridius-lidera-estadisticas-con-record-de-velocidad-en-parx-racing.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260825-106-inscritos-en-la-cambridgeshire-y-94-en-la-cesarewitch-de-newmarket.html</loc>
     <lastmod>2026-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -296,6 +314,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260825-man-o-war-el-big-red-que-redefinio-el-galope-americano-en-los-anos-veinte.html</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260825-maximus-meridius-lidera-estadisticas-con-record-de-velocidad-en-parx-racing.html</loc>
     <lastmod>2026-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
