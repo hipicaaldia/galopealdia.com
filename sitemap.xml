@@ -73,6 +73,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-29T11:37:54-fully-subscribed-y-scottish-lassie-revalidan-el-duelo-del-shuvee-en-el-personal.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-29T11:37:54-niederbronn-parte-favorito-en-el-quinte-del-domingo-del-prix-hotel-barriere-le.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-08-29T11:37:53-kentucky-downs-arranca-este-viernes-siete-jornadas-con-20-stakes-y-2575-millones.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-08-28T10:28:30-cabourg-cierra-sus-estivales-de-verano-con-ocho-carreras-y-quinte-este-viernes.html</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -217,24 +235,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-24T14:42:39-senorita-bonita-conquista-el-sumbe-prix-morny-y-sacude-la-clasificacion-de-dos.html</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-24T14:42:39-sumbe-arrasa-el-prix-kergorlay-de-deauville-por-nueve-cuerpos-y-apunta-a-los.html</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-24T10:14:46-tam-tam-conquista-el-grupo-i-del-mar-oaks-y-apunta-a-la-queen-elizabeth-ii-cup.html</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260829-bill-mott-espero-despierto-la-victoria-de-knightsbridge-en-saratoga.html</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,6 +254,24 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260829-proletariat-domina-de-principio-a-fin-en-el-del-mar-derby.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260829-senorita-bonita-conquista-el-sumbe-prix-morny-y-sacude-la-clasificacion-de-dos.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260829-sumbe-arrasa-el-prix-kergorlay-de-deauville-por-nueve-cuerpos-y-apunta-a-los.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260829-tam-tam-conquista-el-grupo-i-del-mar-oaks-y-apunta-a-la-queen-elizabeth-ii-cup.html</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
