@@ -79,19 +79,25 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-02T14:23:46-gran-bretana-programa-170-jornadas-premier-de-carreras-de-caballos-en-2026.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-09-02T11:31:59-hisa-suspende-provisionalmente-al-preparador-angel-quiroz-por-dos-nuevos.html</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-29T10:13:09-pronostico-san-sebastian-miercoles-2-de-septiembre-clasificacion-esperada-de-las.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260902-gun-runner-el-caballo-del-ano-2017-convertido-en-pilar-de-la-cria-en-three.html</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260902-gun-runner-el-caballo-del-ano-2017-convertido-en-pilar-de-la-cria-en-three.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260902-pronostico-san-sebastian-miercoles-2-de-septiembre-clasificacion-esperada-de-las.html</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3121,12 +3127,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260902-idao-de-tillard-e-inexess-bleu-conocen-sus-posiciones-de-salida-para-el-elitlopp.html</loc>
-    <lastmod>2026-09-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260902-paintello-afronta-su-debut-en-el-quinte-con-aspiraciones-tras-su-irregular.html</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -3134,6 +3134,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260902-comme-quoi-debuta-en-handicap-con-soumillon-y-ojeras-en-el-quinte-de-compiegne.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260902-idao-de-tillard-e-inexess-bleu-conocen-sus-posiciones-de-salida-para-el-elitlopp.html</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
