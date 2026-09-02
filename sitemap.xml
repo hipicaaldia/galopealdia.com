@@ -79,6 +79,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-02T11:31:59-hisa-suspende-provisionalmente-al-preparador-angel-quiroz-por-dos-nuevos.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-08-29T10:13:09-pronostico-san-sebastian-miercoles-2-de-septiembre-clasificacion-esperada-de-las.html</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -211,7 +217,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-08-29T10:13:09-cabourg-cierra-este-viernes-su-programa-de-verano-con-el-quinte-de-la-jornada.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260902-cabourg-cierra-este-viernes-su-programa-de-verano-con-el-quinte-de-la-jornada.html</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3109,12 +3115,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260902-comme-quoi-debuta-en-handicap-con-soumillon-y-ojeras-en-el-quinte-de-compiegne.html</loc>
-    <lastmod>2026-09-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260902-frankel-el-invicto-que-redefinio-la-excelencia-del-galope-moderno.html</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -3128,6 +3128,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260902-paintello-afronta-su-debut-en-el-quinte-con-aspiraciones-tras-su-irregular.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260902-comme-quoi-debuta-en-handicap-con-soumillon-y-ojeras-en-el-quinte-de-compiegne.html</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
