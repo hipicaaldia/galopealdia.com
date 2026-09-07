@@ -55,6 +55,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-07T11:58:09-friendly-soul-conquista-el-qatar-prix-vermeille-y-abre-la-puerta-del-arco.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-07T11:58:09-saddadd-conquista-el-grosser-preis-von-baden-y-le-regala-a-pinatubo-su-primer-g1.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-07T11:58:09-stellify-revalida-el-kentucky-downs-ladies-marathon-con-paseo-triunfal-de-51-2.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-09-07T10:15:26-vanta-estrena-el-palmares-de-su-padre-greatest-honour-con-victoria-en-del-mar.html</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -211,12 +229,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-09-02T10:08:52-olympic-message-solida-baza-para-el-quinte-del-martes-en-deauville.html</loc>
-    <lastmod>2026-09-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260907-cinco-caballos-a-seguir-en-la-rentree-francesa-de-galope-segun-leo-ganne.html</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,19 +247,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-09-02T14:23:46-gran-bretana-programa-170-jornadas-premier-de-carreras-de-caballos-en-2026.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260907-olympic-message-solida-baza-para-el-quinte-del-martes-en-deauville.html</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-09-02T11:31:59-hisa-suspende-provisionalmente-al-preparador-angel-quiroz-por-dos-nuevos.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260907-gran-bretana-programa-170-jornadas-premier-de-carreras-de-caballos-en-2026.html</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260907-gun-runner-el-caballo-del-ano-2017-convertido-en-pilar-de-la-cria-en-three.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260907-hisa-suspende-provisionalmente-al-preparador-angel-quiroz-por-dos-nuevos.html</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3115,13 +3133,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260907-hawk-mountain-encabeza-el-cartel-del-qatar-prix-du-jockey-club-en-chantilly.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260907-chantilly-se-consagra-como-capital-del-galope-en-la-jornada-del-prix-du-jockey.html</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260907-chantilly-se-consagra-como-capital-del-galope-en-la-jornada-del-prix-du-jockey.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260907-hawk-mountain-encabeza-el-cartel-del-qatar-prix-du-jockey-club-en-chantilly.html</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
