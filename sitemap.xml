@@ -67,6 +67,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-14T12:12:44-resultados-de-san-sebastian-13-09-velerin-ire-requejo-legend-ire-gast-a-gast-fr.html</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-09-13T10:15:34-forever-young-lidera-el-cartel-del-jockey-club-gold-cup-en-la-reapertura-de.html</loc>
     <lastmod>2026-09-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,12 +235,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-09-07T11:58:09-stellify-revalida-el-kentucky-downs-ladies-marathon-con-paseo-triunfal-de-51-2.html</loc>
-    <lastmod>2026-09-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260914-manny-franco-conquista-su-primer-titulo-de-jockey-en-saratoga-con-triunfo-en-la.html</loc>
     <lastmod>2026-09-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -242,6 +242,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260914-sea-the-stars-el-invicto-de-2009-que-preside-la-cria-del-aga-khan-en-gilltown.html</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260914-stellify-revalida-el-kentucky-downs-ladies-marathon-con-paseo-triunfal-de-51-2.html</loc>
     <lastmod>2026-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
