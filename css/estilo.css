@@ -165,6 +165,13 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
 .layout-grid.tiene-sidebar > .slot-sidebar {
   display: block;
 }
+/* La columna PROPIA del sitio (agenda) NO se pega al scroll: pegada, lo que
+   no cabe en la ventana se quedaba cortado por abajo y no había forma de
+   llegar a las últimas citas. Baja con la página y desaparece. El patrocinio
+   sí sigue pegado, que es un banner corto (2026-09-14). */
+.slot-sidebar--propio {
+  position: static;
+}
 @media (max-width: 1023px) {
   .layout-grid[data-layout="con-sidebar"] {
     grid-template-columns: 1fr !important;
@@ -172,7 +179,130 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
   .slot-sidebar {
     display: none !important;
   }
+  /* La columna PROPIA del sitio (agenda del calendario) no se esconde en
+     móvil: pasa debajo de las noticias, a ancho completo. La del patrocinio
+     sigue oculta, que es para lo que se escribió la regla de arriba. */
+  .slot-sidebar--propio {
+    display: block !important;
+    position: static;
+    margin-top: 2rem;
+  }
 }
+
+/* ============================================================ */
+/* AGENDA lateral: próximos concursos del calendario            */
+/* (2026-09-14, opción A de la maqueta — estilo WoSJ): fecha,   */
+/* nivel, país y los enlaces oficiales que tenga cada cita.     */
+/* ============================================================ */
+.agenda {
+  background: #FFFDF9;
+  border: 1px solid #E6DCCB;
+  border-top: 3px solid var(--c-primario);
+}
+.agenda-cabecera {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: .5rem;
+  padding: .7rem .8rem .5rem;
+}
+.agenda-titulo {
+  font-size: .82rem;
+  font-weight: 700;
+  letter-spacing: .13em;
+  text-transform: uppercase;
+  color: var(--c-primario);
+  margin: 0;
+}
+.agenda-todo {
+  font-size: .72rem;
+  letter-spacing: .06em;
+  color: var(--c-secundario);
+  white-space: nowrap;
+}
+.agenda-semana {
+  font-size: .7rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--c-muted);
+  background: #F3EADC;
+  padding: .3rem .8rem;
+  margin: 0;
+  border-top: 1px solid #E6DCCB;
+  border-bottom: 1px solid #E6DCCB;
+}
+.agenda-lista { list-style: none; margin: 0; padding: 0; }
+.agenda-item {
+  display: grid;
+  grid-template-columns: 42px 1fr;
+  gap: .6rem;
+  padding: .6rem .8rem;
+  border-bottom: 1px solid #E6DCCB;
+}
+.agenda-item:last-child { border-bottom: 0; }
+.agenda-item.destacado { background: #FBF3E7; }
+.agenda-fecha {
+  text-align: center;
+  line-height: 1.05;
+  padding-top: .1rem;
+  font-variant-numeric: tabular-nums;
+}
+.agenda-dia {
+  display: block;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--c-primario);
+}
+.agenda-mes {
+  display: block;
+  font-size: .62rem;
+  font-weight: 600;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--c-muted);
+}
+.agenda-nombre { font-size: .92rem; line-height: 1.25; margin: 0; }
+.agenda-nombre a { color: var(--c-texto); }
+.agenda-nombre a:hover { color: var(--c-primario); }
+.agenda-meta {
+  font-size: .72rem;
+  color: var(--c-muted);
+  margin: .2rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .3rem .5rem;
+  align-items: center;
+}
+.agenda-nivel { font-weight: 700; color: var(--c-primario); letter-spacing: .03em; }
+.agenda-disciplina { font-weight: 600; color: var(--c-secundario); }
+.agenda-pais {
+  font-weight: 600;
+  letter-spacing: .08em;
+  border: 1px solid #E6DCCB;
+  border-radius: 2px;
+  padding: 0 .25rem;
+}
+.agenda-enlaces {
+  font-size: .7rem;
+  margin: .3rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .45rem;
+}
+.agenda-enlaces a {
+  color: var(--c-secundario);
+  border-bottom: 1px solid rgba(139, 94, 60, .35);
+}
+.agenda-enlaces a:hover { border-bottom-color: currentColor; text-decoration: none; }
+.agenda-pie {
+  font-size: .68rem;
+  color: var(--c-muted);
+  padding: .5rem .8rem .6rem;
+  margin: 0;
+  border-top: 1px solid #E6DCCB;
+}
+
 h1 { font-size: 2rem; color: var(--c-primario); margin-top: 0; }
 h2 { font-size: 1.3rem; color: var(--c-secundario); }
 
@@ -249,15 +379,20 @@ h2 { font-size: 1.3rem; color: var(--c-secundario); }
 }
 .hero-destacado a { color: inherit; display: block; }
 .hero-destacado .hero-imagen { aspect-ratio: 16 / 9; overflow: hidden; background: var(--c-fondo); display: flex; align-items: center; justify-content: center; }
-/* 2026-05-30: idem tarjeta — contain para preservar caballo+jinete entero. */
-.hero-destacado .hero-imagen img { max-width: 100%; max-height: 100%; object-fit: contain; display: block; }
+/* 2026-09-14: la foto del hero manda. Ocupa TODO el ancho de la pieza (el
+   texto pasa debajo, ya no hay dos columnas) y la llena con `cover`, sin
+   franjas a los lados. Es un cambio deliberado sobre la norma de las tarjetas
+   —que siguen con `contain` desde el 2026-05-30 para no cortar al binomio—:
+   aqui se acepta el recorte a cambio del protagonismo de la imagen. */
+.hero-destacado .hero-imagen img { width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; }
 .hero-destacado .hero-texto { padding: 1.1rem 1.3rem 1.3rem; }
 .hero-destacado h1 { font-size: 1.7rem; margin: 0.2rem 0 0.5rem; line-height: 1.2; }
 .hero-destacado .entradilla { margin: 0; color: var(--c-texto); font-size: 1.05rem; }
 .hero-destacado .meta { margin: 0.6rem 0 0; font-size: 0.8rem; color: var(--c-muted); }
 @media (min-width: 760px) {
-  .hero-destacado a { display: grid; grid-template-columns: 1.5fr 1fr; align-items: stretch; }
-  .hero-destacado .hero-imagen { aspect-ratio: auto; height: 100%; min-height: 280px; }
+  /* Sin rejilla: una sola columna, imagen arriba a sangre y texto debajo. */
+  .hero-destacado h1 { font-size: 2rem; }
+  .hero-destacado .hero-texto { padding: 1.3rem 1.6rem 1.5rem; }
 }
 /* Grupos por tier: encabezado con barra de acento, estilo "sección" de WoSJ. */
 .tier-grupo { margin-bottom: 2rem; }
