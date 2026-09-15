@@ -153,6 +153,20 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
 .layout-grid[data-layout="con-sidebar"].tiene-sidebar {
   grid-template-columns: 1fr 300px;
 }
+/* PORTADA (2026-09-15): columna al ancho de WoSJ — 770 px de contenido + 300
+   de lateral, centrados. Antes la columna principal medía ~1060 px y la foto
+   del destacado salía a 1055x593, casi el doble que la suya (770x390). Con
+   este ancho la foto cae en su medida natural y las tarjetas de abajo quedan
+   en dos columnas de ~365, como las de 370 de WoSJ. Solo la portada: el resto
+   del sitio conserva su ancho. */
+.layout-grid.layout-portada.tiene-sidebar {
+  grid-template-columns: minmax(0, 775px) 300px;
+  justify-content: center;
+}
+.layout-grid.layout-portada:not(.tiene-sidebar) {
+  max-width: 775px;
+  margin-inline: auto;
+}
 .slot-sidebar {
   display: none;
   position: sticky;
@@ -295,6 +309,16 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
   border-bottom: 1px solid rgba(139, 94, 60, .35);
 }
 .agenda-enlaces a:hover { border-bottom-color: currentColor; text-decoration: none; }
+/* Enlace ANUNCIADO pero aún sin publicar (start lists que salen la víspera,
+   resultados que no existen hasta que se corre). Igual que en la cajita del
+   calendario y que en WoSJ: se ve, se entiende que llegará, y no se puede
+   pulsar. 2026-09-15. */
+.agenda-enlace-pendiente {
+  color: var(--c-muted);
+  opacity: .6;
+  border-bottom: 1px dotted rgba(139, 94, 60, .3);
+  cursor: default;
+}
 .agenda-pie {
   font-size: .68rem;
   color: var(--c-muted);
@@ -302,6 +326,89 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
   margin: 0;
   border-top: 1px solid #E6DCCB;
 }
+
+/* ============================================================ */
+/* RANKING FEI de salto, debajo de la agenda (2026-09-15),      */
+/* como el bloque "FEI Ranking" de la columna de WoSJ.          */
+/* ============================================================ */
+/* Texto solo para lectores de pantalla: la bandera es decorativa y el código
+   de federación (GER, SUI) es el que da el dato de verdad. */
+.visually-hidden {
+  position: absolute;
+  width: 1px; height: 1px;
+  margin: -1px; padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+.ranking-fei {
+  background: #FFFDF9;
+  border: 1px solid #E6DCCB;
+  border-top: 3px solid var(--c-primario);
+  margin-top: 1.2rem;
+}
+.ranking-edicion {
+  font-size: .68rem;
+  font-weight: 600;
+  letter-spacing: .06em;
+  color: var(--c-muted);
+  background: #F3EADC;
+  padding: .3rem .8rem;
+  margin: 0;
+  border-top: 1px solid #E6DCCB;
+  border-bottom: 1px solid #E6DCCB;
+}
+.ranking-tabla {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .78rem;
+}
+.ranking-tabla thead th {
+  font-size: .6rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--c-muted);
+  text-align: left;
+  padding: .35rem .5rem .3rem;
+  border-bottom: 1px solid #E6DCCB;
+}
+.ranking-tabla thead th:nth-child(3),
+.ranking-tabla thead th:nth-child(4) { text-align: right; }
+.ranking-tabla td {
+  padding: .32rem .5rem;
+  border-bottom: 1px solid #F0E7D9;
+  vertical-align: baseline;
+}
+.ranking-tabla tr:last-child td { border-bottom: 0; }
+.ranking-puesto {
+  width: 1.6rem;
+  font-weight: 700;
+  color: var(--c-primario);
+  font-variant-numeric: tabular-nums;
+}
+.ranking-jinete { line-height: 1.2; }
+.ranking-bandera { margin-right: .3rem; }
+.ranking-puntos {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  color: var(--c-texto);
+  white-space: nowrap;
+}
+/* Sube / baja: el color no va solo — el signo (+ / −) ya lo dice, para quien
+   no distinga los dos tonos. */
+.ranking-prog {
+  text-align: right;
+  font-size: .7rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  width: 2.2rem;
+}
+.ranking-prog.sube { color: #2F6B33; }
+.ranking-prog.baja { color: #9B2C2C; }
 
 h1 { font-size: 2rem; color: var(--c-primario); margin-top: 0; }
 h2 { font-size: 1.3rem; color: var(--c-secundario); }
@@ -370,15 +477,23 @@ h2 { font-size: 1.3rem; color: var(--c-secundario); }
 }
 /* Hero destacado: imagen grande con el texto debajo (apilado en móvil,
    lado a lado en pantallas anchas). */
+/* 2026-09-15 (decisión del usuario): CUATRO destacados apilados y con la foto
+   al tamaño de WoSJ — 770 px de ancho por 390 de alto, proporción 2:1. Antes
+   era uno solo y la foto salía a 1055x593, casi el doble de grande que la
+   suya, porque la columna de contenido del sitio mide ~1060 px y la de WoSJ
+   770. El tope de ancho va en la pieza, no en la imagen, para que el texto no
+   se quede colgando más ancho que la foto. */
 .hero-destacado {
   background: #fff;
   box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-  margin-bottom: 2.2rem;
+  margin-bottom: 1.6rem;
   overflow: hidden;
   border-left: 5px solid var(--c-acento);
+  max-width: 775px;   /* 770 de foto + los 5 del filete de la izquierda */
 }
+.hero-destacado:last-of-type { margin-bottom: 2.2rem; }
 .hero-destacado a { color: inherit; display: block; }
-.hero-destacado .hero-imagen { aspect-ratio: 16 / 9; overflow: hidden; background: var(--c-fondo); display: flex; align-items: center; justify-content: center; }
+.hero-destacado .hero-imagen { aspect-ratio: 770 / 390; overflow: hidden; background: var(--c-fondo); display: flex; align-items: center; justify-content: center; }
 /* 2026-09-14: la foto del hero manda. Ocupa TODO el ancho de la pieza (el
    texto pasa debajo, ya no hay dos columnas) y la llena con `cover`, sin
    franjas a los lados. Es un cambio deliberado sobre la norma de las tarjetas
@@ -386,12 +501,16 @@ h2 { font-size: 1.3rem; color: var(--c-secundario); }
    aqui se acepta el recorte a cambio del protagonismo de la imagen. */
 .hero-destacado .hero-imagen img { width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; }
 .hero-destacado .hero-texto { padding: 1.1rem 1.3rem 1.3rem; }
-.hero-destacado h1 { font-size: 1.7rem; margin: 0.2rem 0 0.5rem; line-height: 1.2; }
+/* Los cuatro destacados pesan lo mismo: el primero lleva el <h1> de la página
+   (solo puede haber uno) y los otros tres un <h2>, pero se ven idénticos. */
+.hero-destacado h1,
+.hero-destacado .hero-titular { font-size: 1.7rem; margin: 0.2rem 0 0.5rem; line-height: 1.2; color: var(--c-primario); }
 .hero-destacado .entradilla { margin: 0; color: var(--c-texto); font-size: 1.05rem; }
 .hero-destacado .meta { margin: 0.6rem 0 0; font-size: 0.8rem; color: var(--c-muted); }
 @media (min-width: 760px) {
   /* Sin rejilla: una sola columna, imagen arriba a sangre y texto debajo. */
-  .hero-destacado h1 { font-size: 2rem; }
+  .hero-destacado h1,
+  .hero-destacado .hero-titular { font-size: 1.85rem; }
   .hero-destacado .hero-texto { padding: 1.3rem 1.6rem 1.5rem; }
 }
 /* Grupos por tier: encabezado con barra de acento, estilo "sección" de WoSJ. */
