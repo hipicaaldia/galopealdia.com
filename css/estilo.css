@@ -3,6 +3,12 @@
   --c-secundario: #8B1E3F;
   --c-acento: #D4A44A;
   --c-fondo: #FBF5E6;
+  /* Fondo de la PÁGINA, separado de `--c-fondo` a propósito (2026-09-15).
+     `--c-fondo` no es solo el fondo: también es el color del texto sobre la
+     cabecera marrón, el marco de las fotos que no llenan su caja y el tinte de
+     las filas pares de las tablas. Ponerlo en blanco habría borrado las tres
+     cosas, así que el fondo de la web tiene su propio token. */
+  --c-pagina: #FBF5E6;
   --c-texto: #2A0C14;
   --c-muted: #8b6a5c;
 }
@@ -11,7 +17,7 @@
 body {
   margin: 0;
   font-family: Georgia, "Times New Roman", serif;
-  background: var(--c-fondo);
+  background: var(--c-pagina);
   color: var(--c-texto);
   line-height: 1.55;
 }
@@ -297,26 +303,52 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
   border-radius: 2px;
   padding: 0 .25rem;
 }
+/* Enlaces de la cita EN ICONO (2026-09-15). Con las siete etiquetas de texto
+   —Web, Programa, Horario, Start lists, Resultados, Live, Cómo llegar— en una
+   columna de 300 px cada cita ocupaba dos y tres líneas solo de enlaces. En
+   icono caben las siete en una fila. El nombre sigue estando en `title` y en
+   `aria-label`. */
 .agenda-enlaces {
-  font-size: .7rem;
-  margin: .3rem 0 0;
+  margin: .35rem 0 0;
   display: flex;
   flex-wrap: wrap;
-  gap: .45rem;
+  gap: .3rem;
 }
-.agenda-enlaces a {
+.agenda-enlaces a,
+.agenda-enlaces .agenda-enlace-pendiente {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.55rem;
+  height: 1.55rem;
+  border: 1px solid #E6DCCB;
+  border-radius: 4px;
+  background: #fff;
   color: var(--c-secundario);
-  border-bottom: 1px solid rgba(139, 94, 60, .35);
 }
-.agenda-enlaces a:hover { border-bottom-color: currentColor; text-decoration: none; }
+.agenda-enlaces svg {
+  width: .95rem;
+  height: .95rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.agenda-enlaces a:hover {
+  color: #fff;
+  background: var(--c-primario);
+  border-color: var(--c-primario);
+  text-decoration: none;
+}
 /* Enlace ANUNCIADO pero aún sin publicar (start lists que salen la víspera,
    resultados que no existen hasta que se corre). Igual que en la cajita del
    calendario y que en WoSJ: se ve, se entiende que llegará, y no se puede
-   pulsar. 2026-09-15. */
+   pulsar. El aspa lo distingue del disponible sin depender del color. */
 .agenda-enlace-pendiente {
   color: var(--c-muted);
-  opacity: .6;
-  border-bottom: 1px dotted rgba(139, 94, 60, .3);
+  opacity: .45;
+  border-style: dashed !important;
   cursor: default;
 }
 .agenda-pie {
