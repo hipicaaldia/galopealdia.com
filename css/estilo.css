@@ -217,29 +217,36 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
 .agenda {
   background: #FFFDF9;
   border: 1px solid #E6DCCB;
-  border-top: 3px solid var(--c-primario);
+  overflow: hidden;
+  border-radius: 4px;
 }
+/* 2026-09-15: cabecera MACIZA en el color de la marca, como la del sitio. Antes
+   era un titulillo marrón sobre crema y el widget no se veía; ahora abre la
+   columna y ata visualmente la agenda con el ranking de debajo. */
 .agenda-cabecera {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
   gap: .5rem;
-  padding: .7rem .8rem .5rem;
+  padding: .55rem .8rem;
+  background: var(--c-primario);
+  border-bottom: 3px solid var(--c-acento);
 }
 .agenda-titulo {
   font-size: .82rem;
   font-weight: 700;
   letter-spacing: .13em;
   text-transform: uppercase;
-  color: var(--c-primario);
+  color: var(--c-fondo);
   margin: 0;
 }
 .agenda-todo {
   font-size: .72rem;
   letter-spacing: .06em;
-  color: var(--c-secundario);
+  color: var(--c-acento);
   white-space: nowrap;
 }
+.agenda-todo:hover { color: #fff; }
 .agenda-semana {
   font-size: .7rem;
   font-weight: 700;
@@ -257,16 +264,21 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
   display: grid;
   grid-template-columns: 42px 1fr;
   gap: .6rem;
-  padding: .6rem .8rem;
+  padding: .6rem .8rem .6rem .65rem;
   border-bottom: 1px solid #E6DCCB;
+  /* Filete de color a la izquierda: lo pinta `.esc-*` según el escalón. */
+  border-left: 4px solid transparent;
 }
 .agenda-item:last-child { border-bottom: 0; }
 .agenda-item.destacado { background: #FBF3E7; }
 .agenda-fecha {
   text-align: center;
   line-height: 1.05;
-  padding-top: .1rem;
+  padding: .25rem .1rem .3rem;
   font-variant-numeric: tabular-nums;
+  background: #F3EADC;
+  border-radius: 3px;
+  align-self: start;
 }
 .agenda-dia {
   display: block;
@@ -294,8 +306,32 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
   gap: .3rem .5rem;
   align-items: center;
 }
-.agenda-nivel { font-weight: 700; color: var(--c-primario); letter-spacing: .03em; }
-.agenda-disciplina { font-weight: 600; color: var(--c-secundario); }
+/* La etiqueta de nivel, en PASTILLA de color (2026-09-15). El color no decora:
+   dice el escalón del concurso —campeonato › 5* › 4* › 3* › 2* › 1*— que es
+   justo el criterio por el que la columna está ordenada. La escala va de la
+   guinda de los campeonatos al arena de los CSI1*, dentro de la gama de la
+   casa. El texto de la sigla sigue ahí para quien no distinga los tonos. */
+.agenda-nivel, .agenda-disciplina {
+  font-weight: 700;
+  letter-spacing: .03em;
+  padding: .08rem .35rem;
+  border-radius: 3px;
+  background: #EFE5D6;
+  color: var(--c-primario);
+}
+.agenda-item.esc-ch  { border-left-color: #7A1E2F; }
+.agenda-item.esc-5   { border-left-color: #5C3A1E; }
+.agenda-item.esc-4   { border-left-color: #8B5E3C; }
+.agenda-item.esc-3   { border-left-color: #B08454; }
+.agenda-item.esc-2   { border-left-color: #D4A574; }
+.agenda-item.esc-1   { border-left-color: #E8D5B8; }
+.agenda-item.esc-ch .agenda-nivel,
+.agenda-item.esc-ch .agenda-disciplina { background: #7A1E2F; color: #fff; }
+.agenda-item.esc-5 .agenda-nivel { background: #5C3A1E; color: #fff; }
+.agenda-item.esc-4 .agenda-nivel { background: #8B5E3C; color: #fff; }
+.agenda-item.esc-3 .agenda-nivel { background: #D4A574; color: #4A2E16; }
+.agenda-item.esc-2 .agenda-nivel { background: #EFE5D6; color: #6B4A2A; }
+.agenda-item.esc-1 .agenda-nivel { background: #F6F0E6; color: #8a7358; }
 .agenda-pais {
   font-weight: 600;
   letter-spacing: .08em;
@@ -378,8 +414,9 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
 .ranking-fei {
   background: #FFFDF9;
   border: 1px solid #E6DCCB;
-  border-top: 3px solid var(--c-primario);
   margin-top: 1.2rem;
+  overflow: hidden;
+  border-radius: 4px;
 }
 .ranking-edicion {
   font-size: .68rem;
@@ -402,9 +439,10 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
   font-weight: 700;
   letter-spacing: .1em;
   text-transform: uppercase;
-  color: var(--c-muted);
+  color: var(--c-secundario);
   text-align: left;
   padding: .35rem .5rem .3rem;
+  background: #F3EADC;
   border-bottom: 1px solid #E6DCCB;
 }
 .ranking-tabla thead th:nth-child(3),
@@ -415,12 +453,39 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
   vertical-align: baseline;
 }
 .ranking-tabla tr:last-child td { border-bottom: 0; }
+/* El podio, con sus medallas (2026-09-15): oro, plata y bronce en el número
+   del puesto. Es el golpe de color que pedía el widget y además es información
+   —quién manda— legible de un vistazo. Del 4 en adelante, número pelado. */
 .ranking-puesto {
-  width: 1.6rem;
+  width: 1.9rem;
   font-weight: 700;
   color: var(--c-primario);
   font-variant-numeric: tabular-nums;
+  text-align: center;
 }
+.ranking-tabla tbody tr:nth-child(1) .ranking-puesto,
+.ranking-tabla tbody tr:nth-child(2) .ranking-puesto,
+.ranking-tabla tbody tr:nth-child(3) .ranking-puesto {
+  display: inline-block;
+  min-width: 1.35rem;
+  padding: .06rem 0;
+  border-radius: 999px;
+  color: #3A2410;
+  box-shadow: inset 0 0 0 1px rgba(0,0,0,.12);
+}
+.ranking-tabla tbody tr:nth-child(1) .ranking-puesto {
+  background: linear-gradient(160deg, #F4D98B 0%, #D9AE45 100%);
+}
+.ranking-tabla tbody tr:nth-child(2) .ranking-puesto {
+  background: linear-gradient(160deg, #E6E6E6 0%, #BFBFBF 100%);
+}
+.ranking-tabla tbody tr:nth-child(3) .ranking-puesto {
+  background: linear-gradient(160deg, #E0B48A 0%, #B87333 100%);
+  color: #fff;
+}
+/* Las tres primeras filas, con un punto más de peso: son las que se miran. */
+.ranking-tabla tbody tr:nth-child(-n+3) .ranking-jinete { font-weight: 600; }
+.ranking-tabla tbody tr:hover { background: #FBF3E7; }
 .ranking-jinete { line-height: 1.2; }
 .ranking-bandera { margin-right: .3rem; }
 .ranking-puntos {
