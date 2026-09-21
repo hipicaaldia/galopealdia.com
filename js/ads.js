@@ -11,11 +11,9 @@
 
     // TODO Sesión 3:
     //   const config = await fetch("/config/sponsors.json").then(r => r.json());
-    //   const consent = window.cmpConsent ? window.cmpConsent() : null;
     //   const sponsor = pickSponsor(config.sponsors, "C", seccion, hoy);
     //   if (sponsor) { ... activar y renderizar ... }
-    //   else if (consent && consent.publicidad) { ... AdSense placeholder ... }
-    //   else { ... hidden ... }
+    //   else { ... hidden; el hueco lo cubre AdSense ... }
     var haySponsorActivo = false;
 
     if (haySponsorActivo) {
@@ -28,15 +26,9 @@
     }
   }
 
-  // Reaccionar a cambios de consentimiento (definido en cmp.js).
-  function onConsentChanged() {
-    activarSidebarSiHaySponsor();
-  }
-
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", activarSidebarSiHaySponsor, false);
   } else {
     activarSidebarSiHaySponsor();
   }
-  document.addEventListener("cmp:consent-changed", onConsentChanged, false);
 })();

@@ -42,80 +42,11 @@
   ]
 }
 </script>
-<script defer src="../js/cmp.js"></script>
 <script defer src="../js/ads.js"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js"
         data-cf-beacon='{"token": "be6f09ceeb8d475ea29290d93973d515"}'></script>
 </head>
 <body>
-<!-- Banner CMP (consentimiento de cookies) — oculto por defecto, lo muestra cmp.js si no hay decisión. -->
-<div id="cmp-banner" class="cmp-banner" role="dialog"
-     aria-labelledby="cmp-banner-titulo"
-     aria-describedby="cmp-banner-desc"
-     hidden>
-  <p id="cmp-banner-titulo" class="cmp-banner__titulo">Aviso de cookies</p>
-  <p id="cmp-banner-desc" class="cmp-banner__texto">
-    Utilizamos cookies estrictamente necesarias para el funcionamiento del sitio web.
-    Con tu permiso, también podríamos usar cookies de terceros para mostrar
-    contenidos embebidos, publicidad y otras funcionalidades. Más información en nuestra
-    <a href="/legal/politica-cookies.html">Política de cookies</a>.
-  </p>
-  <div class="cmp-banner__acciones">
-    <button type="button" data-cmp-action="accept-all">Aceptar todas</button>
-    <button type="button" data-cmp-action="reject-all">Rechazar todas</button>
-    <button type="button" data-cmp-action="configure">Configurar</button>
-  </div>
-</div>
-
-<!-- Modal CMP — selector granular de categorías. -->
-<div id="cmp-modal" class="cmp-modal" role="dialog"
-     aria-labelledby="cmp-modal-titulo"
-     aria-describedby="cmp-modal-desc"
-     aria-modal="true"
-     hidden>
-  <div class="cmp-modal__contenido">
-    <h2 id="cmp-modal-titulo">Configura tus preferencias de cookies</h2>
-    <p id="cmp-modal-desc">
-      Puedes activar o desactivar cada categoría por separado. Tu decisión se recordará durante 12 meses.
-    </p>
-    <ul class="cmp-modal__categorias">
-      <li>
-        <label>
-          <input type="checkbox" name="necesarias" checked disabled>
-          <strong>Estrictamente necesarias</strong> (siempre activas)
-        </label>
-        <p>Imprescindibles para el funcionamiento del sitio. No pueden desactivarse.</p>
-      </li>
-      <li>
-        <label>
-          <input type="checkbox" name="embebidos">
-          <strong>Contenidos embebidos</strong>
-        </label>
-        <p>Vídeos (YouTube, Vimeo), redes sociales (X, Instagram), mapas (Google Maps).</p>
-      </li>
-      <li>
-        <label>
-          <input type="checkbox" name="publicidad">
-          <strong>Publicidad</strong>
-        </label>
-        <p>Anuncios y, en su caso, publicidad personalizada de redes publicitarias.</p>
-      </li>
-      <li>
-        <label>
-          <input type="checkbox" name="antispam">
-          <strong>Antispam</strong>
-        </label>
-        <p>Sistema antispam para formularios y comentarios cuando estén activos.</p>
-      </li>
-    </ul>
-    <div class="cmp-modal__acciones">
-      <button type="button" data-cmp-action="save">Guardar preferencias</button>
-      <button type="button" data-cmp-action="accept-all">Aceptar todas</button>
-      <button type="button" data-cmp-action="reject-all">Rechazar todas</button>
-    </div>
-  </div>
-</div>
-
 <header class="cabecera">
   <div class="marca">
     <a href="../index.html" class="logo">Galope al Día</a>
@@ -183,10 +114,11 @@
 <p>El Sitio Web puede contener enlaces a sitios web de terceros. El Titular no asume responsabilidad alguna sobre el contenido, exactitud, política de privacidad, prácticas comerciales o calidad de dichos sitios externos.</p>
 <p>La inclusión de un enlace no implica recomendación, asociación o respaldo del Titular respecto al sitio enlazado, salvo que se indique expresamente lo contrario.</p>
 <h2>7. Contenido patrocinado, publicidad y enlaces de afiliación</h2>
-<p>El Sitio Web puede incluir, en el presente o en el futuro:</p>
+<p>El Sitio Web <strong>muestra publicidad programática a través de Google AdSense</strong>. Los anuncios los selecciona Google en función de criterios técnicos, contextuales y de audiencia: el Titular no decide qué anuncio concreto ve cada usuario ni tiene acceso a los datos que Google emplee para seleccionarlo. Las cookies asociadas y el tratamiento de datos se detallan en la Política de Cookies y en la Política de Privacidad.</p>
+<p>Además, el Sitio Web puede incluir, en el presente o en el futuro:</p>
 <ul>
 <li><strong>Publicidad de marcas patrocinadoras</strong> (sponsorships), mediante banners o espacios publicitarios identificables.</li>
-<li><strong>Publicidad programática y redes publicitarias</strong> (como Google AdSense u otras), cuyos anuncios serán seleccionados por el proveedor en función de criterios técnicos y de audiencia.</li>
+<li><strong>Otras redes publicitarias programáticas</strong> distintas de Google AdSense, cuyos anuncios serían seleccionados por el proveedor correspondiente.</li>
 <li><strong>Contenido patrocinado o publirreportajes</strong>, claramente identificados como tales mediante etiqueta visible en la pieza (por ejemplo: «Contenido patrocinado» o «En colaboración con»), de conformidad con la Ley 34/1988, de 11 de noviembre, General de Publicidad, y la LSSI-CE.</li>
 <li><strong>Enlaces de afiliación</strong> a terceros (incluyendo, en su caso, casas de apuestas con licencia de la Dirección General de Ordenación del Juego, tiendas de equipamiento ecuestre y plataformas de comercio electrónico). Los enlaces de afiliación, cuando existan, serán declarados en la pieza correspondiente o en una sección habilitada al efecto.</li>
 </ul>
@@ -219,7 +151,7 @@
 <p>Para cualquier consulta relacionada con el presente aviso legal, puede dirigirse a info@galopealdia.com.</p>
   </div>
   <footer class="pagina-legal__meta">
-    <p>Última actualización: 2026-05-05</p>
+    <p>Última actualización: 2026-09-21</p>
   </footer>
 </article>
   </div>
@@ -232,7 +164,7 @@
     <a href="../legal/aviso-legal.html">Aviso legal</a>
     <a href="../legal/politica-privacidad.html">Política de privacidad</a>
     <a href="../legal/politica-cookies.html">Política de cookies</a>
-    <button type="button" class="footer-legal__cmp" data-cmp-open>Configuración de cookies</button>
+    <button type="button" class="footer-legal__cmp" data-cmp-revocar hidden>Configuración de cookies</button>
   </nav>
 </footer>
 <script src="../js/app.js"></script>
