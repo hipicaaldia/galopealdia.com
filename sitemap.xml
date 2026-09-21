@@ -61,6 +61,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-21T17:01:51-falling-petals-madre-de-saffron-beach-en-venta-prenada-de-night-of-thunder.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-09-21T11:30:52-nabati-conquista-el-mill-reef-stakes-g2-de-newbury-con-william-buick.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,12 +235,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-09-17T22:27:15-little-lodge-farm-dispersa-su-plantel-completo-en-la-subasta-de-doncaster.html</loc>
-    <lastmod>2026-09-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260921-belmont-park-reabre-este-viernes-tras-una-reforma-de-455-millones-de-dolares.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -242,6 +242,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260921-christmas-day-queda-noveno-en-el-st-leger-tras-notar-molestias-en-el-posterior.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260921-little-lodge-farm-dispersa-su-plantel-completo-en-la-subasta-de-doncaster.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3151,13 +3157,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260921-el-hipodromo-de-nantes-acoge-este-martes-una-reunion-con-ocho-carreras.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260921-maywood-stud-la-pequena-yeguada-galesa-que-crio-a-gstaad-ganador-de-las-irish-2.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260921-maywood-stud-la-pequena-yeguada-galesa-que-crio-a-gstaad-ganador-de-las-irish-2.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260921-el-hipodromo-de-nantes-acoge-este-martes-una-reunion-con-ocho-carreras.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
