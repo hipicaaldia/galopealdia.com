@@ -55,6 +55,42 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-21T11:30:51-sweet-caroline-revalida-su-triunfo-en-el-benitez-de-lugo.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-21T11:30:52-nabati-conquista-el-mill-reef-stakes-g2-de-newbury-con-william-buick.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-21T11:30:52-sweet-caroline-conquista-el-gp-ricardo-ruiz-benitez-de-lugo-en-la-zarzuela.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-21T11:30:51-dynamic-pricing-ire-conquista-la-forever-together-stakes-en-belmont-park.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-21T11:30:51-rockie-rockie-se-estrena-con-victoria-en-churchill-downs.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-21T11:30:51-general-salute-conquista-el-bill-ritchie-handicap-g3-de-randwick.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-09-21T08:15:05-el-fin-de-semana-turf-sprinters-stakes-g1-en-nakayama-y-gp-villamejor-en-la.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,19 +235,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-09-17T11:31:45-un-potro-de-nyquist-se-dispara-hasta-225-millones-y-marca-record-del-dia-3-en.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260921-belmont-park-reabre-este-viernes-tras-una-reforma-de-455-millones-de-dolares.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-09-17T11:31:44-belmont-park-reabre-este-viernes-tras-una-reforma-de-455-millones-de-dolares.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260921-christmas-day-queda-noveno-en-el-st-leger-tras-notar-molestias-en-el-posterior.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-09-17T11:31:44-christmas-day-queda-noveno-en-el-st-leger-tras-notar-molestias-en-el-posterior.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260921-un-potro-de-nyquist-se-dispara-hasta-225-millones-y-marca-record-del-dia-3-en.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -223,19 +259,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-09-16T11:47:02-florent-geroux-estable-en-la-uci-de-louisville-tras-la-caida-de-churchill-downs.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260921-el-keeneland-september-sale-abre-con-7177-millones-y-18-yearlings-por-encima-del.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-09-16T11:47:02-el-keeneland-september-sale-abre-con-7177-millones-y-18-yearlings-por-encima-del.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260921-florent-geroux-estable-en-la-uci-de-louisville-tras-la-caida-de-churchill-downs.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-09-16T11:47:02-tripadvisor-suspende-la-venta-de-entradas-en-hipodromos-y-desata-la-respuesta-de.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260921-tripadvisor-suspende-la-venta-de-entradas-en-hipodromos-y-desata-la-respuesta-de.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3139,6 +3175,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20260921-notable-speech-el-favorito-del-queen-anne-stakes-que-abrira-royal-ascot-2026.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20260921-east-avenue-arrebata-sobre-la-raya-el-salvator-mile-a-bishops-bay-en-monmouth.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -3146,12 +3188,6 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260921-el-quinto-circuito-vuelve-a-declarar-inconstitucional-la-ley-federal-hisa-del.html</loc>
-    <lastmod>2026-09-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20260921-notable-speech-el-favorito-del-queen-anne-stakes-que-abrira-royal-ascot-2026.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3896,13 +3932,13 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/galope.html</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/obstaculos_turf.html</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
