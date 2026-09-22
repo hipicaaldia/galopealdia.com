@@ -49,6 +49,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-22T19:14:49-pronostico-la-zarzuela-domingo-27-de-septiembre-clasificacion-esperada-de-las-7.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-09-21T08:15:04-pronostico-la-zarzuela-jueves-24-de-septiembre-clasificacion-esperada-de-las-5.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -241,7 +247,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-09-18T16:17:41-jockey-robbie-downey-comparecera-ante-el-panel-disciplinario-por-uso-de-fusta.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260922-jockey-robbie-downey-comparecera-ante-el-panel-disciplinario-por-uso-de-fusta.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3127,12 +3133,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260922-lili-star-busca-mejorar-su-tercer-puesto-del-ano-pasado-en-el-grand-prix-des.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260922-ptit-pedro-apunta-como-outsider-de-valor-en-el-quinte-de-nantes.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -3158,6 +3158,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260922-jamie-osborne-sancionado-por-incumplimiento-del-codigo-de-conducta-de-la-bha.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260922-lili-star-busca-mejorar-su-tercer-puesto-del-ano-pasado-en-el-grand-prix-des.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
