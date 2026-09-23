@@ -61,6 +61,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-23T12:35:57-newmarket-acogera-el-cambridgeshire-meeting-con-tres-carreras-destacadas.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-09-23T11:30:47-friendly-soul-llega-al-arc-con-el-aval-del-vermeille-tras-batir-a-pink-panthera.html</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -241,12 +247,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-09-18T16:17:41-newbury-abre-su-dubai-duty-free-international-weekend-con-el-cup-stakes-listed.html</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260923-jockey-robbie-downey-comparecera-ante-el-panel-disciplinario-por-uso-de-fusta.html</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,6 +254,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260923-michael-harris-nuevo-lider-del-equipo-de-steeplechase-de-la-bha.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260923-newbury-abre-su-dubai-duty-free-international-weekend-con-el-cup-stakes-listed.html</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
