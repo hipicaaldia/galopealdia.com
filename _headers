@@ -21,3 +21,10 @@
   # Cross-Origin policies. 2026-05-30: CORP cross-origin para Worker preview.
   Cross-Origin-Opener-Policy: same-origin
   Cross-Origin-Resource-Policy: cross-origin
+
+# 2026-09-30 (AdSense): las fichas individuales de estadísticas (caballo,
+# jinete, preparador, propietario) son páginas de <150 palabras. Fuera del
+# índice de Google, incluidas las ~400 viejas que ya no genera nadie pero
+# siguen en el repo. Los rankings (/estadisticas/<tipo>/) siguen indexables.
+/estadisticas/:tipo/:ficha
+  X-Robots-Tag: noindex, follow
