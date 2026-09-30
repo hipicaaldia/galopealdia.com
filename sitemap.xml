@@ -49,6 +49,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/2026-09-30T20:32:12-resultados-de-san-sebastian-30-09-sweet-wish-fr-ring-of-diamonds-ire-dapango-ger.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/2026-09-30T11:31:17-el-hipodromo-de-san-sebastian-cierra-la-temporada-2026-con-una-jornada-matinal.html</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -211,7 +217,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/2026-09-25T12:51:36-johanna-walsh-arrasa-en-las-irish-oaks-de-the-curragh.html</loc>
+    <loc>https://www.galopealdia.com/noticias/20260930-johanna-walsh-arrasa-en-las-irish-oaks-de-the-curragh.html</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3157,12 +3163,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260930-dieppe-abre-la-jornada-con-jess-livermore-y-royalwood-como-principales-apuestas.html</loc>
-    <lastmod>2026-09-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260930-maurizio-guarnieri-confia-en-el-progreso-de-bacchilide-en-dieppe.html</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -3176,6 +3176,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260930-christophe-soumillon-apelara-su-suspension-de-8-dias-ante-el-panel-disciplinario.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260930-dieppe-abre-la-jornada-con-jess-livermore-y-royalwood-como-principales-apuestas.html</loc>
     <lastmod>2026-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
