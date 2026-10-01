@@ -49,7 +49,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261001-france-galop-desvela-esta-noche-en-la-salle-wagram-los-cajones-de-la-104a</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261001-daryz-vuelve-a-por-el-arc-dieciseis-partantes-con-cajones-y-montas-ya-asignados</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261001-el-joe-hirsch-turf-classic-g1-encabeza-seis-stakes-graduados-en-belmont-park</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
