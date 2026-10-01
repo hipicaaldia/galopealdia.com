@@ -770,6 +770,31 @@ aside.podio h3, aside.premios h3 {
 aside.podio ul { list-style: none; padding: 0; margin: 0; }
 aside.podio li { padding: 0.3rem 0; }
 
+/* Enlaces internos (2026-10-01): relacionadas + fichas de estadística. */
+aside.relacionadas {
+  margin: 2rem 0 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e8e0d0;
+}
+aside.relacionadas h2 {
+  font-size: 1rem;
+  margin: 0 0 0.5rem;
+  color: var(--c-primario);
+}
+aside.relacionadas ul { list-style: none; padding: 0; margin: 0; }
+aside.relacionadas li {
+  padding: 0.35rem 0;
+  border-bottom: 1px solid #f0ead8;
+  overflow-wrap: anywhere;
+}
+aside.relacionadas li:last-child { border-bottom: 0; }
+p.fichas-estadistica {
+  font-size: 0.9rem;
+  color: var(--c-muted);
+  overflow-wrap: anywhere;
+}
+p.fichas-estadistica .ficha-tipo { font-size: 0.8rem; }
+
 .enlace-oficial a {
   display: inline-block;
   margin-top: 1rem;
