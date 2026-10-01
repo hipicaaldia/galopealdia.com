@@ -55,6 +55,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261001-siete-declarados-para-la-sun-chariot-stakes-grupo-1-del-sabado-en-newmarket</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261001-daryz-vuelve-a-por-el-arc-dieciseis-partantes-con-cajones-y-montas-ya-asignados</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -253,12 +259,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260925-nace-la-jockey-relief-alliance-para-cubrir-a-los-jockeys-en-activo-lesionados</loc>
-    <lastmod>2026-10-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260925-first-dude-referencia-del-stud-floridano-y-padre-de-shamrock-rose-fallece-a-los</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -272,6 +272,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260925-keeneland-september-cierra-el-book-5a-con-vekoma-como-reclamo-destacado</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260925-nace-la-jockey-relief-alliance-para-cubrir-a-los-jockeys-en-activo-lesionados</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
