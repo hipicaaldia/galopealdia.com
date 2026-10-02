@@ -975,3 +975,61 @@ footer {
   .cuerpo th,
   .editorial-cuerpo th { white-space: normal; }   /* el encabezado puede partir línea */
 }
+
+/* ---------------------------------------------------------------------------
+   Ajustes mínimos de móvil (2026-10-02, diagnóstico a 390 px). Solo ≤600 px y
+   sin tocar el diseño general; el rediseño va en TAREA-FUTURA-10.
+   --------------------------------------------------------------------------- */
+@media (max-width: 600px) {
+  /* Texto mínimo 13 px: etiquetas, agenda y crédito de foto. */
+  .chip-disciplina,
+  .agenda-semana, .agenda-mes, .agenda-nivel, .agenda-disciplina,
+  .agenda-pais, .agenda-meta, .agenda-todo, .agenda-pie,
+  .pie-licencia, .imagen-noticia figcaption,
+  .chip, .ficha-tipo, p.fichas-estadistica,
+  .tarjeta .meta, .hero-destacado .meta,
+  .ranking-edicion, .ranking-jinete, .ranking-bandera, .ranking-puntos,
+  .ranking-puesto, .ranking-prog {
+    font-size: 0.8125rem;
+  }
+  /* Zonas táctiles ≥24×24: iconos y nombres de la agenda, pie legal… (los
+     enlaces dentro de un párrafo quedan fuera, como permite WCAG 2.5.8). */
+  .agenda-enlaces a,
+  .agenda-enlaces .agenda-enlace-pendiente {
+    min-width: 24px;
+    min-height: 24px;
+  }
+  .agenda-nombre a, .agenda-todo,
+  .footer-legal a, .footer-legal button {
+    display: inline-block;
+    padding-block: 4px;
+    min-height: 24px;
+  }
+  /* …y enlaces del calendario, en una fila con aire entre ellos. */
+  .enlaces-evento {
+    gap: 0.25rem 0.9rem;
+    font-size: 0.8125rem;
+  }
+  .enlaces-evento a,
+  .enlaces-evento span {
+    display: inline-flex;
+    align-items: center;
+    min-height: 24px;
+  }
+  /* Titular de noticia a ~25 px. */
+  .noticia header h1,
+  article.noticia h1 {
+    font-size: 1.55rem;
+    line-height: 1.2;
+  }
+  /* Foto destacada: centrada arriba, para no cortar cabezas. */
+  .hero-destacado .hero-imagen img {
+    object-position: center top;
+  }
+  /* Tablas con scroll: degradado en el borde derecho mientras quede tabla
+     por ver (la clase la pone js/app.js según el scroll). */
+  .tabla-scroll.desliza:not(.al-final) {
+    -webkit-mask-image: linear-gradient(to right, #000 82%, transparent);
+    mask-image: linear-gradient(to right, #000 82%, transparent);
+  }
+}

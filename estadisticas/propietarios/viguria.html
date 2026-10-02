@@ -45,6 +45,7 @@ tbody td a{color:var(--granate);text-decoration:none}tbody td a:hover{text-decor
 .split .card .lbl{color:#7a7a7a;font-size:.85rem}
 .split .card .sd{color:#8a8a8a;font-size:.85rem;margin-top:.2rem}
 .tw{overflow-x:auto;-webkit-overflow-scrolling:touch;border-radius:12px}
+@media (max-width:600px){.tw.desliza:not(.al-final){-webkit-mask-image:linear-gradient(to right,#000 82%,transparent);mask-image:linear-gradient(to right,#000 82%,transparent)}}
 @media (max-width:640px){
   .wrap{padding:16px 13px 34px}
   .h1{font-size:1.6rem}.hsub{font-size:.95rem}
@@ -91,4 +92,4 @@ tbody td a{color:var(--granate);text-decoration:none}tbody td a:hover{text-decor
     <a href="/legal/contacto.html">Contacto</a>
     <button type="button" class="footer-legal__cmp" data-cmp-revocar hidden>Configuración de cookies</button>
   </nav>
-</footer></body></html>
+</footer><script>document.querySelectorAll('.tw').forEach(function(e){function m(){var s=e.scrollWidth>e.clientWidth+2;e.classList.toggle('desliza',s);e.classList.toggle('al-final',!s||e.scrollLeft+e.clientWidth>=e.scrollWidth-2)}m();e.addEventListener('scroll',m,{passive:true});window.addEventListener('resize',m)});</script></body></html>

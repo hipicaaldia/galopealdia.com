@@ -25,3 +25,26 @@
     },
   });
 })();
+
+// Tablas con scroll horizontal (2026-10-02): marca `.desliza` si la tabla no
+// cabe y `.al-final` cuando ya se ha deslizado hasta el borde, para que el CSS
+// pinte un degradado a la derecha solo mientras quede tabla por ver.
+(function () {
+  function marcar(el) {
+    var sobra = el.scrollWidth > el.clientWidth + 2;
+    el.classList.toggle('desliza', sobra);
+    el.classList.toggle('al-final', !sobra || el.scrollLeft + el.clientWidth >= el.scrollWidth - 2);
+  }
+  function iniciar() {
+    document.querySelectorAll('.tabla-scroll').forEach(function (el) {
+      marcar(el);
+      el.addEventListener('scroll', function () { marcar(el); }, { passive: true });
+      window.addEventListener('resize', function () { marcar(el); });
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', iniciar);
+  } else {
+    iniciar();
+  }
+})();
