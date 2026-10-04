@@ -55,6 +55,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261004-fairy-glen-se-lleva-el-prix-de-royallieu-por-un-cuello-corto-ante-la-favorita</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261004-caballo-de-mar-repite-en-el-prix-du-cadran-y-corta-la-racha-de-scandinavia-por</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261004-u-s-s-valor-gana-el-champagne-stakes-por-seis-cuerpos-y-medio-y-se-gana-plaza-en</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261003-time-tight-deja-a-majestad-sin-la-triple-corona-en-el-gran-premio-villamejor</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -241,12 +259,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260928-puro-magic-da-la-sorpresa-en-el-sprinters-stakes-g1-de-nakayama-con-iwata</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260928-chunk-of-gold-supera-el-millon-de-dolares-en-ganancias-con-un-segundo-puesto-en</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,6 +266,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260928-foxiest-se-impone-con-autoridad-en-churchill-downs</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260928-puro-magic-da-la-sorpresa-en-el-sprinters-stakes-g1-de-nakayama-con-iwata</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
