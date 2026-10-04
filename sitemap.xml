@@ -49,6 +49,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261004-annie-s-song-gana-el-premio-roberto-cocheteux-por-una-cabeza-ante-leyhaimur</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261004-sweet-caroline-defiende-su-corona-en-el-ricardo-ruiz-benitez-de-lugo-ante-la</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -247,12 +253,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260928-dos-entrenadores-britanicos-sancionados-por-incumplimiento-de-seguridad</loc>
-    <lastmod>2026-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260928-bracket-buster-arrasa-en-el-oklahoma-derby-y-vicki-oliver-hace-historia-en</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -260,6 +260,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20260928-chunk-of-gold-supera-el-millon-de-dolares-en-ganancias-con-un-segundo-puesto-en</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20260928-dos-entrenadores-britanicos-sancionados-por-incumplimiento-de-seguridad</loc>
     <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
