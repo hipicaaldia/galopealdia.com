@@ -14,3 +14,4 @@ User-agent: *
 Allow: /
 Disallow: /borradores/
 Sitemap: https://www.galopealdia.com/sitemap.xml
+Sitemap: https://www.galopealdia.com/news-sitemap.xml
