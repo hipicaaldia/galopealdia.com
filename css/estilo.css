@@ -8,7 +8,7 @@
      cabecera marrón, el marco de las fotos que no llenan su caja y el tinte de
      las filas pares de las tablas. Ponerlo en blanco habría borrado las tres
      cosas, así que el fondo de la web tiene su propio token. */
-  --c-pagina: #FBF5E6;
+  --c-pagina: #FFFFFF;
   --c-texto: #2A0C14;
   --c-muted: #8b6a5c;
 }
