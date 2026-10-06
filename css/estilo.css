@@ -1033,3 +1033,34 @@ footer {
     mask-image: linear-gradient(to right, #000 82%, transparent);
   }
 }
+
+/* ---------------------------------------------------------------------------
+   Fase 1 de diseño (2026-10-06)
+   --------------------------------------------------------------------------- */
+/* Noticia en columna de lectura: el texto ocupaba 1.400 px y costaba leerlo. */
+article.noticia {
+  max-width: 760px;
+  margin-inline: auto;
+}
+article.noticia .cuerpo { font-size: 1.06rem; line-height: 1.7; }
+/* Tarjetas: las franjas que deja una foto que no llena el hueco se rellenan
+   con la MISMA foto desenfocada. La foto sigue entera (`contain`): nunca se
+   corta caballo ni jinete (regla del usuario, 2026-05-30). */
+.tarjeta .tarjeta-imagen { position: relative; isolation: isolate; }
+.tarjeta .tarjeta-imagen[style*="--foto"]::before {
+  content: "";
+  position: absolute;
+  inset: -24px;
+  background: var(--foto) center / cover no-repeat;
+  filter: blur(20px) saturate(0.9) brightness(0.92);
+  z-index: -1;
+}
+.tarjeta .tarjeta-imagen img { position: relative; }
+/* Entradilla de tarjeta: tres líneas como mucho. */
+.tarjeta .entradilla {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
