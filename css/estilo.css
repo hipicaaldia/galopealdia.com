@@ -1058,3 +1058,66 @@ article.noticia .cuerpo { font-size: 1.06rem; line-height: 1.7; }
 .tarjeta .tarjeta-imagen img { position: relative; }
 /* Entradilla de tarjeta: la acorta el filtro `entradilla_tarjeta` a la última
    frase completa (sin «…», regla del usuario); aquí no se recorta. */
+
+/* ---------------------------------------------------------------------------
+   Fase 2 de diseño (2026-10-06)
+   --------------------------------------------------------------------------- */
+/* Destacados: 1 grande arriba + 3 medianos en fila. El mediano lleva la foto
+   ENTERA (`contain`) con los laterales desenfocados, como las tarjetas: nunca
+   se corta caballo ni jinete. */
+.heroes-secundarios {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: -0.6rem 0 2.2rem;
+  max-width: 775px;
+}
+.heroes-secundarios .hero-destacado { margin: 0; border-left-width: 4px; }
+.hero-mediano .hero-imagen { position: relative; isolation: isolate; aspect-ratio: 3 / 2; }
+.hero-mediano .hero-imagen[style*="--foto"]::before {
+  content: "";
+  position: absolute;
+  inset: -24px;
+  background: var(--foto) center / cover no-repeat;
+  filter: blur(20px) saturate(0.9) brightness(0.92);
+  z-index: -1;
+}
+.hero-destacado.hero-mediano .hero-imagen img { object-fit: contain; object-position: center; position: relative; }
+.hero-destacado.hero-mediano .hero-texto { padding: 0.75rem 0.9rem 0.9rem; }
+.hero-destacado.hero-mediano .hero-titular { font-size: 1.08rem; line-height: 1.28; margin: 0.15rem 0 0.35rem; }
+.hero-destacado.hero-mediano .chip-disciplina { font-size: 0.68rem; }
+@media (min-width: 760px) {
+  .heroes-secundarios { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .hero-destacado.hero-mediano .hero-titular { font-size: 1.08rem; }
+  .hero-destacado.hero-mediano .hero-texto { padding: 0.75rem 0.9rem 0.9rem; }
+}
+/* Móvil: los medianos en lista compacta, foto a la izquierda. */
+@media (max-width: 600px) {
+  .hero-mediano > a { display: grid; grid-template-columns: 40% 1fr; align-items: center; }
+  .hero-mediano .hero-imagen { aspect-ratio: 4 / 3; }
+  .hero-destacado.hero-mediano .hero-texto { padding: 0.5rem 0.75rem; }
+  .hero-destacado.hero-mediano .hero-titular { font-size: 0.98rem; }
+  .hero-destacado.hero-mediano .hero-imagen img { object-position: center; }
+}
+
+/* Autopromoción de los productos de la casa (2026-10-06). */
+.promo img { display: block; max-width: 100%; height: auto; }
+.promo a { display: block; border-radius: 6px; overflow: hidden; }
+.promo a:focus-visible { outline: 3px solid var(--c-acento); outline-offset: 2px; }
+.promo-etiqueta {
+  margin: 0 0 0.4rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--c-muted);
+}
+.promo-lateral { margin-bottom: 1.6rem; }
+.promo-horizontal { margin: 0 0 2rem; max-width: 775px; }
+.promo-horizontal img { width: 100%; }
+.promo-creadores {
+  margin-top: 2.2rem;
+  padding-top: 1.2rem;
+  border-top: 2px solid var(--c-acento);
+}
+.promo-creadores h2 { font-size: 1rem; margin: 0 0 0.8rem; color: var(--c-primario); }
+.promo-tarjetas { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 370px)); gap: 0.8rem; }

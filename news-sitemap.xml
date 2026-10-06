@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261011-pronostico-la-zarzuela-domingo-11-de-octubre-witiza-favorito-en-el-gran-premio</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-06T20:40:42+02:00</news:publication_date>
+      <news:title>Pronóstico La Zarzuela (domingo 11 de octubre): Witiza, favorito en el Gran Premio De La Hispanidad</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261006-las-marquesinas-de-torroja-la-zarzuela-el-hipodromo-que-es-tambien-un-monumento</loc>
     <news:news>
       <news:publication>
@@ -263,17 +274,6 @@
       </news:publication>
       <news:publication_date>2026-10-05T00:09:59+02:00</news:publication_date>
       <news:title>Resultados de La Zarzuela (04/10): Annie&amp;#39;S Song (FR) gana el Premio Roberto Cocheteux (Categoría C) y J. Gelabert firma un doblete</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261004-annie-s-song-gana-el-premio-roberto-cocheteux-por-una-cabeza-ante-leyhaimur</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-04T19:23:02+02:00</news:publication_date>
-      <news:title>Annie&amp;#39;s Song gana el Premio Roberto Cocheteux por una cabeza ante Leyhaimur</news:title>
     </news:news>
   </url>
   <url>
