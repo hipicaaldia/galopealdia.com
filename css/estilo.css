@@ -1056,11 +1056,5 @@ article.noticia .cuerpo { font-size: 1.06rem; line-height: 1.7; }
   z-index: -1;
 }
 .tarjeta .tarjeta-imagen img { position: relative; }
-/* Entradilla de tarjeta: tres líneas como mucho. */
-.tarjeta .entradilla {
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
+/* Entradilla de tarjeta: la acorta el filtro `entradilla_tarjeta` a la última
+   frase completa (sin «…», regla del usuario); aquí no se recorta. */
