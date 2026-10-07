@@ -1104,13 +1104,6 @@ article.noticia .cuerpo { font-size: 1.06rem; line-height: 1.7; }
 .promo img { display: block; max-width: 100%; height: auto; }
 .promo a { display: block; border-radius: 6px; overflow: hidden; }
 .promo a:focus-visible { outline: 3px solid var(--c-acento); outline-offset: 2px; }
-.promo-etiqueta {
-  margin: 0 0 0.4rem;
-  font-size: 0.68rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--c-muted);
-}
 .promo-lateral { margin-bottom: 1.6rem; }
 .promo-horizontal { margin: 0 0 2rem; max-width: 775px; }
 .promo-horizontal img { width: 100%; }
@@ -1119,5 +1112,4 @@ article.noticia .cuerpo { font-size: 1.06rem; line-height: 1.7; }
   padding-top: 1.2rem;
   border-top: 2px solid var(--c-acento);
 }
-.promo-creadores h2 { font-size: 1rem; margin: 0 0 0.8rem; color: var(--c-primario); }
 .promo-tarjetas { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 370px)); gap: 0.8rem; }
