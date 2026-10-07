@@ -1,2 +1,18 @@
 /editorial/* /pronosticos 301
 /noticias/20260627-resultados-de-la-zarzuela-27-06-belisa-bay-ire-annie-s-song-fr-encabezan-la.html /noticias/20260627-resultados-de-la-zarzuela-27-06-belisa-bay-ire-annie-s-song-fr-basco-bearnais.html 301
+
+# 2026-10-07: duplicados y noticias caducadas retiradas (auditoría de calidad).
+/noticias/20260922-the-puma-conquista-el-pennsylvania-derby-g1-de-parx-con-javier-castellano-en-la.html /noticias/20260920-the-puma-da-la-campanada-en-el-pennsylvania-derby-g1-con-javier-castellano-ante 301
+/noticias/20260922-the-puma-conquista-el-pennsylvania-derby-g1-de-parx-con-javier-castellano-en-la /noticias/20260920-the-puma-da-la-campanada-en-el-pennsylvania-derby-g1-con-javier-castellano-ante 301
+/noticias/20260921-sweet-caroline-conquista-el-gp-ricardo-ruiz-benitez-de-lugo-en-la-zarzuela.html /noticias/20260921-sweet-caroline-revalida-su-triunfo-en-el-benitez-de-lugo 301
+/noticias/20260921-sweet-caroline-conquista-el-gp-ricardo-ruiz-benitez-de-lugo-en-la-zarzuela /noticias/20260921-sweet-caroline-revalida-su-triunfo-en-el-benitez-de-lugo 301
+/noticias/20261005-una-cabeza-separa-a-annie-s-song-de-leyhaimur-en-el-premio-roberto-cocheteux.html /noticias/20261004-annie-s-song-gana-el-premio-roberto-cocheteux-por-una-cabeza-ante-leyhaimur 301
+/noticias/20261005-una-cabeza-separa-a-annie-s-song-de-leyhaimur-en-el-premio-roberto-cocheteux /noticias/20261004-annie-s-song-gana-el-premio-roberto-cocheteux-por-una-cabeza-ante-leyhaimur 301
+/noticias/20261005-sweet-caroline-repite-en-el-benitez-de-lugo-y-resiste-el-ataque-de-nerja.html /noticias/20260921-sweet-caroline-revalida-su-triunfo-en-el-benitez-de-lugo 301
+/noticias/20261005-sweet-caroline-repite-en-el-benitez-de-lugo-y-resiste-el-ataque-de-nerja /noticias/20260921-sweet-caroline-revalida-su-triunfo-en-el-benitez-de-lugo 301
+/noticias/20261004-sweet-caroline-defiende-su-corona-en-el-ricardo-ruiz-benitez-de-lugo-ante-la.html /noticias/20260921-sweet-caroline-revalida-su-triunfo-en-el-benitez-de-lugo 301
+/noticias/20261004-sweet-caroline-defiende-su-corona-en-el-ricardo-ruiz-benitez-de-lugo-ante-la /noticias/20260921-sweet-caroline-revalida-su-triunfo-en-el-benitez-de-lugo 301
+/noticias/20261003-time-tight-deja-a-majestad-sin-la-triple-corona-en-el-gran-premio-villamejor.html /noticias/20260927-time-tight-sorprende-en-el-gran-premio-villamejor-y-frustra-la-triple-corona 301
+/noticias/20261003-time-tight-deja-a-majestad-sin-la-triple-corona-en-el-gran-premio-villamejor /noticias/20260927-time-tight-sorprende-en-el-gran-premio-villamejor-y-frustra-la-triple-corona 301
+/noticias/20261003-la-zarzuela-reabre-el-10-de-septiembre-con-nueve-grandes-premios-hasta-noviembre.html /calendario 301
+/noticias/20261003-la-zarzuela-reabre-el-10-de-septiembre-con-nueve-grandes-premios-hasta-noviembre /calendario 301

@@ -115,18 +115,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261005-sweet-caroline-repite-en-el-benitez-de-lugo-y-resiste-el-ataque-de-nerja</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261005-una-cabeza-separa-a-annie-s-song-de-leyhaimur-en-el-premio-roberto-cocheteux</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261005-chepstow-cumple-cien-anos-de-base-de-la-raf-a-casa-del-welsh-grand-national</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -223,19 +211,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261004-sweet-caroline-defiende-su-corona-en-el-ricardo-ruiz-benitez-de-lugo-ante-la</loc>
+    <loc>https://www.galopealdia.com/noticias/20261004-fairy-glen-se-lleva-el-prix-de-royallieu-por-un-cuello-corto-ante-la-favorita</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261004-caballo-de-mar-repite-en-el-prix-du-cadran-y-corta-la-racha-de-scandinavia-por</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261004-fairy-glen-se-lleva-el-prix-de-royallieu-por-un-cuello-corto-ante-la-favorita</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -248,18 +230,6 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261004-u-s-s-valor-gana-el-champagne-stakes-por-seis-cuerpos-y-medio-y-se-gana-plaza-en</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261003-la-zarzuela-reabre-el-10-de-septiembre-con-nueve-grandes-premios-hasta-noviembre</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261003-time-tight-deja-a-majestad-sin-la-triple-corona-en-el-gran-premio-villamejor</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -577,19 +547,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20260922-the-puma-conquista-el-pennsylvania-derby-g1-de-parx-con-javier-castellano-en-la</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20260921-el-fin-de-semana-turf-sprinters-stakes-g1-en-nakayama-y-gp-villamejor-en-la</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20260921-sweet-caroline-conquista-el-gp-ricardo-ruiz-benitez-de-lugo-en-la-zarzuela</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -4316,13 +4274,13 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/galope</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/obstaculos_turf</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
