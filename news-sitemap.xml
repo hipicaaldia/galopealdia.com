@@ -13,6 +13,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261007-justify-de-la-triple-corona-a-padre-de-city-of-troy-y-scandinavia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T08:13:40+02:00</news:publication_date>
+      <news:title>Justify, de la Triple Corona a padre de City of Troy y Scandinavia</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261007-la-cria-espanola-brilla-fuera-roncal-firma-un-2o-en-dax</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-07T08:13:40+02:00</news:publication_date>
+      <news:title>La cría española brilla fuera: RONCAL firma un 2º en Dax</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261006-las-marquesinas-de-torroja-la-zarzuela-el-hipodromo-que-es-tambien-un-monumento</loc>
     <news:news>
       <news:publication>
@@ -274,17 +296,6 @@
       </news:publication>
       <news:publication_date>2026-10-05T10:12:38+02:00</news:publication_date>
       <news:title>Good to be King caza a Regent&amp;#39;s Park en los últimos trancos y gana el Futurity de Belmont</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261004-resultados-de-la-zarzuela-04-10-annie-s-song-fr-gana-el-premio-roberto-cocheteux</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-05T00:09:59+02:00</news:publication_date>
-      <news:title>Resultados de La Zarzuela (04/10): Annie&amp;#39;S Song (FR) gana el Premio Roberto Cocheteux (Categoría C) y J. Gelabert firma un doblete</news:title>
     </news:news>
   </url>
   <url>
