@@ -191,18 +191,6 @@ decoding="async">
     </div>
   </a>
 </li>
-<li class="tarjeta">
-  <a href="noticias/20261002-la-zarzuela-abre-octubre-con-el-cocheteux-preparatoria-del-85-aniversario-y-el">
-    <div class="tarjeta-imagen" style="--foto:url('https://www.galopealdia.com/og-marca.jpg')">
-      <img src="https://www.galopealdia.com/og-marca.jpg" alt="" loading="lazy">
-    </div>
-    <div class="tarjeta-texto">
-      <h2>La Zarzuela abre octubre con el Cocheteux, preparatoria del 85 Aniversario, y el sprint del Ramón Mendoza</h2>
-      <p class="entradilla">El Hipódromo de la Zarzuela celebra este domingo 4 de octubre una nueva jornada de la temporada de otoño, con seis carreras desde las 11:15.</p>
-      <p class="meta">2 oct 2026</p>
-    </div>
-  </a>
-</li>
     </ul>
   </section>
   <section class="tier-grupo tier-europa">
@@ -434,30 +422,6 @@ decoding="async">
     </div>
   </a>
 </li>
-<li class="tarjeta">
-  <a href="noticias/20261002-la-bha-inhabilita-indefinidamente-a-melvyn-power-por-vulnerar-sus-normas-de">
-    <div class="tarjeta-imagen" style="--foto:url('https://www.galopealdia.com/og-marca.jpg')">
-      <img src="https://www.galopealdia.com/og-marca.jpg" alt="" loading="lazy">
-    </div>
-    <div class="tarjeta-texto">
-      <h2>La BHA inhabilita indefinidamente a Melvyn Power por vulnerar sus normas de salvaguarda</h2>
-      <p class="entradilla">El Panel Disciplinario independiente concluyó que Power infringió el reglamento de protección de menores y adultos en situación de riesgo y le prohíbe</p>
-      <p class="meta">2 oct 2026</p>
-    </div>
-  </a>
-</li>
-<li class="tarjeta">
-  <a href="noticias/20261002-la-bha-reajusta-el-calendario-de-obstaculos-britanico-por-la-falta-de-lluvia">
-    <div class="tarjeta-imagen" style="--foto:url('https://www.galopealdia.com/og-marca.jpg')">
-      <img src="https://www.galopealdia.com/og-marca.jpg" alt="" loading="lazy">
-    </div>
-    <div class="tarjeta-texto">
-      <h2>La BHA reajusta el calendario de obstáculos británico por la falta de lluvia</h2>
-      <p class="entradilla">Exeter pierde su jornada del 15 de octubre, que pasa a Fontwell; Perth suma una reunión extra y Wincanton se traslada a Market Rasen. Kempton Park, en revisión.</p>
-      <p class="meta">2 oct 2026</p>
-    </div>
-  </a>
-</li>
     </ul>
   </section>
 
@@ -477,6 +441,31 @@ decoding="async">
   <aside class="slot-sidebar" data-slot="sidebar" hidden></aside>
 </div>
 </main>
+<section class="newsletter" aria-labelledby="newsletter-titulo">
+  <h2 id="newsletter-titulo">Lo mejor de la semana en las carreras, cada domingo</h2>
+  <form class="newsletter-form" action="/api/newsletter" method="post">
+    <label class="visually-hidden" for="nl-email">Tu email</label>
+    <input id="nl-email" type="email" name="email" required placeholder="Tu email" autocomplete="email">
+    <input type="text" name="web" tabindex="-1" autocomplete="off" class="visually-hidden" aria-hidden="true">
+    <label class="newsletter-priv"><input type="checkbox" name="privacidad" value="si" required>
+      Acepto la <a href="legal/politica-privacidad">política de privacidad</a>.</label>
+    <button type="submit">Suscribirme</button>
+    <p class="newsletter-msg" role="status"></p>
+  </form>
+  <script>
+  document.querySelector('.newsletter-form').addEventListener('submit', async function (ev) {
+    ev.preventDefault();
+    var f = ev.target, msg = f.querySelector('.newsletter-msg');
+    var datos = Object.fromEntries(new FormData(f));
+    datos.origen = 'pie';
+    try {
+      var r = await fetch('/api/newsletter', {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(datos)});
+      var j = await r.json(); msg.textContent = j.mensaje || '';
+      if (r.ok) f.reset();
+    } catch (e) { msg.textContent = 'No se pudo enviar. Inténtalo de nuevo.'; }
+  });
+  </script>
+</section>
 <footer>
   <p>&copy; 2026 Galope al Día. Medio digital independiente.</p>
   <nav class="footer-legal" aria-label="Enlaces legales">

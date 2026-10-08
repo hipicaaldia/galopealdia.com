@@ -151,18 +151,6 @@
       </a>
     </li>
     <li class="tarjeta">
-      <a href="noticias/20260927-resultados-de-la-zarzuela-27-09-carambola-ire-nordeste-fr-madrid-encabezan-la">
-        <div class="tarjeta-imagen" style="--foto:url('https://www.galopealdia.com/og-marca.jpg')">
-          <img src="https://www.galopealdia.com/og-marca.jpg" alt="" loading="lazy">
-        </div>
-        <div class="tarjeta-texto">
-          <h2>Resultados de La Zarzuela (27/09): CARAMBOLA (IRE), NORDESTE (FR), MADRID encabezan la jornada</h2>
-          <p class="entradilla">La Zarzuela disputó una reunión de 7 carreras. Repasamos cada prueba con su vídeo oficial y cómo quedó nuestro pronóstico.</p>
-          <p class="meta">27 sep 2026</p>
-        </div>
-      </a>
-    </li>
-    <li class="tarjeta">
       <a href="noticias/20261002-la-zarzuela-abre-octubre-con-el-cocheteux-preparatoria-del-85-aniversario-y-el">
         <div class="tarjeta-imagen" style="--foto:url('https://www.galopealdia.com/og-marca.jpg')">
           <img src="https://www.galopealdia.com/og-marca.jpg" alt="" loading="lazy">
@@ -187,18 +175,6 @@
       </a>
     </li>
     <li class="tarjeta">
-      <a href="noticias/20260927-time-tight-sorprende-en-el-gran-premio-villamejor-y-frustra-la-triple-corona">
-        <div class="tarjeta-imagen" style="--foto:url('https://www.galopealdia.com/imagenes_archivo/eventos/time-tight-sorprende-en-el-gran-premio-villamejor-y-frustra/time-tight-sorprende-en-el-gran-premio-villamejor-y-frustra-la-triple-corona.webp')">
-          <img src="https://www.galopealdia.com/imagenes_archivo/eventos/time-tight-sorprende-en-el-gran-premio-villamejor-y-frustra/time-tight-sorprende-en-el-gran-premio-villamejor-y-frustra-la-triple-corona.webp" alt="" loading="lazy">
-        </div>
-        <div class="tarjeta-texto">
-          <h2>Time Tight sorprende en el Gran Premio Villamejor y frustra la Triple Corona</h2>
-          <p class="entradilla">El caballo de la Cuadra Mediterráneo se impuso en la prueba reina del domingo en La Zarzuela, mientras su compañero de cuadra Majestad, invicto hasta</p>
-          <p class="meta">27 sep 2026</p>
-        </div>
-      </a>
-    </li>
-    <li class="tarjeta">
       <a href="noticias/20260930-pronostico-san-sebastian-miercoles-30-de-septiembre-clasificacion-esperada-de">
         <div class="tarjeta-imagen" style="--foto:url('https://www.galopealdia.com/imagenes_archivo/genericos/pronosticos-cabecera.jpg')">
           <img src="https://www.galopealdia.com/imagenes_archivo/genericos/pronosticos-cabecera.jpg" alt="" loading="lazy">
@@ -210,24 +186,37 @@
         </div>
       </a>
     </li>
-    <li class="tarjeta">
-      <a href="noticias/20260927-pronostico-la-zarzuela-domingo-27-de-septiembre-clasificacion-esperada-de-las-7">
-        <div class="tarjeta-imagen" style="--foto:url('https://www.galopealdia.com/imagenes_archivo/genericos/pronosticos-cabecera.jpg')">
-          <img src="https://www.galopealdia.com/imagenes_archivo/genericos/pronosticos-cabecera.jpg" alt="" loading="lazy">
-        </div>
-        <div class="tarjeta-texto">
-          <h2>Pronóstico La Zarzuela, domingo 27 de septiembre: clasificación esperada de las 7 carreras</h2>
-          <p class="entradilla">La Zarzuela celebra el domingo 27 de septiembre una reunión de 7 carreras. Debajo puedes votar tu propio podio y comparar con el pronóstico de los lectores.</p>
-          <p class="meta">27 sep 2026</p>
-        </div>
-      </a>
-    </li>
   </ul>
 </section>
   </div>
   <aside class="slot-sidebar" data-slot="sidebar" hidden></aside>
 </div>
 </main>
+<section class="newsletter" aria-labelledby="newsletter-titulo">
+  <h2 id="newsletter-titulo">Lo mejor de la semana en las carreras, cada domingo</h2>
+  <form class="newsletter-form" action="/api/newsletter" method="post">
+    <label class="visually-hidden" for="nl-email">Tu email</label>
+    <input id="nl-email" type="email" name="email" required placeholder="Tu email" autocomplete="email">
+    <input type="text" name="web" tabindex="-1" autocomplete="off" class="visually-hidden" aria-hidden="true">
+    <label class="newsletter-priv"><input type="checkbox" name="privacidad" value="si" required>
+      Acepto la <a href="legal/politica-privacidad">política de privacidad</a>.</label>
+    <button type="submit">Suscribirme</button>
+    <p class="newsletter-msg" role="status"></p>
+  </form>
+  <script>
+  document.querySelector('.newsletter-form').addEventListener('submit', async function (ev) {
+    ev.preventDefault();
+    var f = ev.target, msg = f.querySelector('.newsletter-msg');
+    var datos = Object.fromEntries(new FormData(f));
+    datos.origen = 'pie';
+    try {
+      var r = await fetch('/api/newsletter', {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(datos)});
+      var j = await r.json(); msg.textContent = j.mensaje || '';
+      if (r.ok) f.reset();
+    } catch (e) { msg.textContent = 'No se pudo enviar. Inténtalo de nuevo.'; }
+  });
+  </script>
+</section>
 <footer>
   <p>&copy; 2026 Galope al Día. Medio digital independiente.</p>
   <nav class="footer-legal" aria-label="Enlaces legales">

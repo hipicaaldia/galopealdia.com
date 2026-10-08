@@ -259,18 +259,6 @@
       </a>
     </li>
     <li class="tarjeta">
-      <a href="noticias/20260927-freddie-mitchell-gana-el-betfred-nifty-50-jump-jockeys-derby-en-epsom-downs">
-        <div class="tarjeta-imagen" style="--foto:url('https://www.galopealdia.com/imagenes_archivo/eventos/freddie-mitchell-gana-el-betfred-nifty-50-jump-jockeys-derby/freddie-mitchell-gana-el-betfred-nifty-50-jump-jockeys-derby-en-epsom-downs.jpg')">
-          <img src="https://www.galopealdia.com/imagenes_archivo/eventos/freddie-mitchell-gana-el-betfred-nifty-50-jump-jockeys-derby/freddie-mitchell-gana-el-betfred-nifty-50-jump-jockeys-derby-en-epsom-downs.jpg" alt="" loading="lazy">
-        </div>
-        <div class="tarjeta-texto">
-          <h2>Freddie Mitchell gana el Betfred &#39;Nifty 50&#39; Jump Jockeys Derby en Epsom Downs</h2>
-          <p class="entradilla">El jockey de 31 años logró su primera victoria en el icónico hipódromo donde creció, montando a Zarakerjack en la jornada de cierre de temporada</p>
-          <p class="meta">27 sep 2026</p>
-        </div>
-      </a>
-    </li>
-    <li class="tarjeta">
       <a href="noticias/20261004-fairy-glen-se-lleva-el-prix-de-royallieu-por-un-cuello-corto-ante-la-favorita">
         <div class="tarjeta-imagen" style="--foto:url('https://www.galopealdia.com/og-marca.jpg')">
           <img src="https://www.galopealdia.com/og-marca.jpg" alt="" loading="lazy">
@@ -291,18 +279,6 @@
           <h2>Chally Chute conquista el Irish Cesarewitch del Curragh con Sam Coen</h2>
           <p class="entradilla">Chally Chute se llevó el Friends of the Curragh Irish Cesarewitch, un hándicap de 500.000 euros disputado el domingo 27 de septiembre sobre 3.400 metros en</p>
           <p class="meta">28 sep 2026</p>
-        </div>
-      </a>
-    </li>
-    <li class="tarjeta">
-      <a href="noticias/20260927-sun-goddess-bate-record-y-pierre-royal-logra-un-historico-triunfo-irlandes">
-        <div class="tarjeta-imagen" style="--foto:url('https://www.galopealdia.com/imagenes_archivo/eventos/sun-goddess-bate-record-y-pierre-royal-logra-un-historico-tr/sun-goddess-bate-record-y-pierre-royal-logra-un-historico-triunfo-irlandes.jpg')">
-          <img src="https://www.galopealdia.com/imagenes_archivo/eventos/sun-goddess-bate-record-y-pierre-royal-logra-un-historico-tr/sun-goddess-bate-record-y-pierre-royal-logra-un-historico-triunfo-irlandes.jpg" alt="" loading="lazy">
-        </div>
-        <div class="tarjeta-texto">
-          <h2>Sun Goddess bate récord y Pierre Royal logra un histórico triunfo irlandés</h2>
-          <p class="entradilla">La potra de Aidan O&#39;Brien firmó su sexta victoria de 2026 con nuevo récord en Newmarket, mientras el veterano hipódromo vivió una jornada memorable con</p>
-          <p class="meta">27 sep 2026</p>
         </div>
       </a>
     </li>
@@ -468,6 +444,31 @@
   <aside class="slot-sidebar" data-slot="sidebar" hidden></aside>
 </div>
 </main>
+<section class="newsletter" aria-labelledby="newsletter-titulo">
+  <h2 id="newsletter-titulo">Lo mejor de la semana en las carreras, cada domingo</h2>
+  <form class="newsletter-form" action="/api/newsletter" method="post">
+    <label class="visually-hidden" for="nl-email">Tu email</label>
+    <input id="nl-email" type="email" name="email" required placeholder="Tu email" autocomplete="email">
+    <input type="text" name="web" tabindex="-1" autocomplete="off" class="visually-hidden" aria-hidden="true">
+    <label class="newsletter-priv"><input type="checkbox" name="privacidad" value="si" required>
+      Acepto la <a href="legal/politica-privacidad">política de privacidad</a>.</label>
+    <button type="submit">Suscribirme</button>
+    <p class="newsletter-msg" role="status"></p>
+  </form>
+  <script>
+  document.querySelector('.newsletter-form').addEventListener('submit', async function (ev) {
+    ev.preventDefault();
+    var f = ev.target, msg = f.querySelector('.newsletter-msg');
+    var datos = Object.fromEntries(new FormData(f));
+    datos.origen = 'pie';
+    try {
+      var r = await fetch('/api/newsletter', {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(datos)});
+      var j = await r.json(); msg.textContent = j.mensaje || '';
+      if (r.ok) f.reset();
+    } catch (e) { msg.textContent = 'No se pudo enviar. Inténtalo de nuevo.'; }
+  });
+  </script>
+</section>
 <footer>
   <p>&copy; 2026 Galope al Día. Medio digital independiente.</p>
   <nav class="footer-legal" aria-label="Enlaces legales">

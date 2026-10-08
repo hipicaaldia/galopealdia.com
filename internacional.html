@@ -288,6 +288,31 @@
   <aside class="slot-sidebar" data-slot="sidebar" hidden></aside>
 </div>
 </main>
+<section class="newsletter" aria-labelledby="newsletter-titulo">
+  <h2 id="newsletter-titulo">Lo mejor de la semana en las carreras, cada domingo</h2>
+  <form class="newsletter-form" action="/api/newsletter" method="post">
+    <label class="visually-hidden" for="nl-email">Tu email</label>
+    <input id="nl-email" type="email" name="email" required placeholder="Tu email" autocomplete="email">
+    <input type="text" name="web" tabindex="-1" autocomplete="off" class="visually-hidden" aria-hidden="true">
+    <label class="newsletter-priv"><input type="checkbox" name="privacidad" value="si" required>
+      Acepto la <a href="legal/politica-privacidad">política de privacidad</a>.</label>
+    <button type="submit">Suscribirme</button>
+    <p class="newsletter-msg" role="status"></p>
+  </form>
+  <script>
+  document.querySelector('.newsletter-form').addEventListener('submit', async function (ev) {
+    ev.preventDefault();
+    var f = ev.target, msg = f.querySelector('.newsletter-msg');
+    var datos = Object.fromEntries(new FormData(f));
+    datos.origen = 'pie';
+    try {
+      var r = await fetch('/api/newsletter', {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(datos)});
+      var j = await r.json(); msg.textContent = j.mensaje || '';
+      if (r.ok) f.reset();
+    } catch (e) { msg.textContent = 'No se pudo enviar. Inténtalo de nuevo.'; }
+  });
+  </script>
+</section>
 <footer>
   <p>&copy; 2026 Galope al Día. Medio digital independiente.</p>
   <nav class="footer-legal" aria-label="Enlaces legales">

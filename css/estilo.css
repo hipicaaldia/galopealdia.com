@@ -488,6 +488,32 @@ main { max-width: 1500px; margin: 2rem auto; padding: 0 1.5rem; }
 .ranking-tabla tbody tr:hover { background: #FBF3E7; }
 .ranking-jinete { line-height: 1.2; }
 .ranking-bandera { margin-right: .3rem; }
+/* Página completa del ranking (/ranking-fei, 2026-10-07): 5 columnas (con País),
+   letra de lectura y columna de 760 px como las noticias. */
+.pagina-ranking { max-width: 760px; margin: 0 auto; }
+.pagina-ranking h1 { margin-bottom: .4rem; }
+.ranking-tabla--completa { font-size: .95rem; margin: 1rem 0; }
+.ranking-tabla--completa thead th { font-size: .7rem; }
+.ranking-tabla--completa thead th:nth-child(3) { text-align: left; }
+.ranking-tabla--completa thead th:nth-child(5) { text-align: right; }
+.ranking-tabla--completa td { padding: .45rem .6rem; }
+.ranking-tabla--completa .ranking-prog { font-size: .8rem; width: 3rem; }
+.ranking-nf { color: var(--c-secundario); font-size: .8rem; letter-spacing: .05em; }
+/* Página por concurso (2026-10-07): lectura simple, columna de 760 px. */
+.pagina-concurso { max-width: 760px; margin: 0 auto; }
+.pagina-concurso h2 { margin-top: 1.6rem; font-size: 1.15rem; }
+.concurso-ganadores, .concurso-noticias { padding-left: 1.1rem; line-height: 1.5; }
+.concurso-ganadores li, .concurso-noticias li { margin: .35rem 0; }
+/* Enlace al final de la noticia hacia la página del concurso. */
+.enlace-concurso { margin: 1.4rem 0 .4rem; font-weight: 600; }
+/* Newsletter en el pie (2026-10-07; apagada hasta F2). */
+.newsletter { max-width: 760px; margin: 2rem auto 0; padding: 1.2rem 1rem; border-top: 3px solid var(--c-primario); }
+.newsletter h2 { font-size: 1.1rem; margin: 0 0 .6rem; }
+.newsletter-form { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; }
+.newsletter-form input[type=email] { flex: 1 1 220px; padding: .55rem .7rem; font-size: 1rem; }
+.newsletter-form button { padding: .55rem 1rem; font-weight: 700; cursor: pointer; }
+.newsletter-priv { flex-basis: 100%; font-size: .85rem; }
+.newsletter-msg { flex-basis: 100%; margin: 0; font-size: .9rem; }
 .ranking-puntos {
   text-align: right;
   font-variant-numeric: tabular-nums;

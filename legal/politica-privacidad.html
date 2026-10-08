@@ -111,10 +111,10 @@
 <li><strong>Conservación:</strong> los datos se conservarán durante el tiempo necesario para gestionar la consulta y, una vez resuelta, durante un máximo de 12 meses adicionales para fines de trazabilidad y atención de eventuales reclamaciones derivadas, salvo que el usuario solicite antes su supresión.</li>
 </ul>
 <h3>3.3. Suscripción a newsletter</h3>
-<p>Si el Sitio Web ofrece servicio de newsletter y el usuario decide suscribirse (cuando esté habilitado):</p>
+<p>Si el usuario decide suscribirse a la newsletter desde el formulario del Sitio Web:</p>
 <ul>
-<li><strong>Datos:</strong> dirección de correo electrónico y, opcionalmente, nombre o alias.</li>
-<li><strong>Finalidad:</strong> envío periódico de informaciones editoriales, novedades, resúmenes y, en su caso, comunicaciones comerciales o publicitarias del propio medio o de terceros patrocinadores.</li>
+<li><strong>Datos:</strong> dirección de correo electrónico.</li>
+<li><strong>Finalidad:</strong> envío de un boletín semanal con un resumen de los contenidos publicados en el Sitio Web y su agenda. No se envían comunicaciones comerciales de terceros. Para mejorar el boletín se miden de forma agregada las aperturas y los clics en sus enlaces.</li>
 <li><strong>Base jurídica:</strong> consentimiento del usuario (artículo 6.1.a RGPD), prestado mediante doble verificación (double opt-in) durante el alta.</li>
 <li><strong>Conservación:</strong> mientras el usuario mantenga su suscripción activa. El usuario puede darse de baja en cualquier momento mediante el enlace incluido en cada comunicación o solicitándolo a info@galopealdia.com.</li>
 </ul>
@@ -173,12 +173,15 @@
   <dt><strong>MailChannels</strong></dt>
   <dd>Envío del correo de bienvenida a los participantes de la encuesta de pronósticos (cuando dicha funcionalidad está activa). Ubicación: EE. UU. / internacional.</dd>
 
+  <dt><strong>Sendinblue SAS (Brevo)</strong></dt>
+  <dd>Gestión de la lista de suscriptores de la newsletter, doble verificación del alta y envío del boletín. Ubicación: Francia (Unión Europea).</dd>
+
   <dt><strong>Google Ireland Limited</strong></dt>
   <dd>Publicidad programática mediante Google AdSense. Ubicación: Irlanda (Unión Europea), con posible transferencia a Google LLC en EE. UU. Garantías: adhesión al EU-U.S. Data Privacy Framework y Cláusulas Contractuales Tipo. Política de privacidad: <a href="https://policies.google.com/privacy" rel="noopener">https://policies.google.com/privacy</a>. Cómo Google usa los datos de los sitios que emplean sus servicios: <a href="https://policies.google.com/technologies/partner-sites" rel="noopener">https://policies.google.com/technologies/partner-sites</a>.</dd>
 </dl>
 
 <p><strong>Importante:</strong> los servicios de inteligencia artificial (Anthropic, OpenAI) y verificación (Tavily) se utilizan exclusivamente para el flujo editorial interno del medio. <strong>No procesan datos personales de los usuarios del Sitio Web.</strong> Únicamente procesan contenido editorial de carácter público (URLs, textos de eventos, información de competiciones).</p>
-<p>Si en el futuro se incorporasen nuevos encargados de tratamiento (por ejemplo, proveedores de newsletter o sistemas de pago), esta política se actualizará en consecuencia.</p>
+<p>Si en el futuro se incorporasen nuevos encargados de tratamiento (por ejemplo, sistemas de pago), esta política se actualizará en consecuencia.</p>
 <h2>6. Transferencias internacionales de datos</h2>
 <p>Algunos de los proveedores indicados en el apartado anterior están ubicados fuera del Espacio Económico Europeo (EEE), principalmente en Estados Unidos.</p>
 <p>Estas transferencias se realizan con las garantías exigidas por el RGPD:</p>
@@ -246,13 +249,38 @@
 <p><strong>info@galopealdia.com</strong></p>
   </div>
   <footer class="pagina-legal__meta">
-    <p>Última actualización: 2026-09-21</p>
+    <p>Última actualización: 2026-10-08</p>
   </footer>
 </article>
   </div>
   <aside class="slot-sidebar" data-slot="sidebar" hidden></aside>
 </div>
 </main>
+<section class="newsletter" aria-labelledby="newsletter-titulo">
+  <h2 id="newsletter-titulo">Lo mejor de la semana en las carreras, cada domingo</h2>
+  <form class="newsletter-form" action="/api/newsletter" method="post">
+    <label class="visually-hidden" for="nl-email">Tu email</label>
+    <input id="nl-email" type="email" name="email" required placeholder="Tu email" autocomplete="email">
+    <input type="text" name="web" tabindex="-1" autocomplete="off" class="visually-hidden" aria-hidden="true">
+    <label class="newsletter-priv"><input type="checkbox" name="privacidad" value="si" required>
+      Acepto la <a href="../legal/politica-privacidad">política de privacidad</a>.</label>
+    <button type="submit">Suscribirme</button>
+    <p class="newsletter-msg" role="status"></p>
+  </form>
+  <script>
+  document.querySelector('.newsletter-form').addEventListener('submit', async function (ev) {
+    ev.preventDefault();
+    var f = ev.target, msg = f.querySelector('.newsletter-msg');
+    var datos = Object.fromEntries(new FormData(f));
+    datos.origen = 'pie';
+    try {
+      var r = await fetch('/api/newsletter', {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(datos)});
+      var j = await r.json(); msg.textContent = j.mensaje || '';
+      if (r.ok) f.reset();
+    } catch (e) { msg.textContent = 'No se pudo enviar. Inténtalo de nuevo.'; }
+  });
+  </script>
+</section>
 <footer>
   <p>&copy; 2026 Galope al Día. Medio digital independiente.</p>
   <nav class="footer-legal" aria-label="Enlaces legales">
