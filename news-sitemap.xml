@@ -2,17 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261011-pronostico-la-zarzuela-domingo-11-de-octubre-witiza-favorito-en-el-gran-premio</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T20:40:42+02:00</news:publication_date>
-      <news:title>Pronóstico La Zarzuela (domingo 11 de octubre): Witiza, favorito en el Gran Premio De La Hispanidad</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261008-san-sebastian-echa-el-cierre-a-2026-con-91-carreras-y-su-mejor-entrada-en-anos</loc>
     <news:news>
       <news:publication>
@@ -32,6 +21,39 @@
       </news:publication>
       <news:publication_date>2026-10-08T12:15:09+02:00</news:publication_date>
       <news:title>Racingclub.com patrocinará dos carreras en la jornada de la Haldon Gold Cup en Exeter</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261008-al-hamaad-y-jolivette-frente-a-frente-en-la-recta-del-criterium-de-maisons</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T22:36:10+02:00</news:publication_date>
+      <news:title>Al Hamaad y Jolivette, frente a frente en la recta del Critérium de Maisons-Laffitte</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261008-yamana-favorita-de-15-millones-de-guineas-se-queda-en-la-septima-plaza-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T22:36:10+02:00</news:publication_date>
+      <news:title>Yamana, favorita de 1,5 millones de guineas, se queda en la séptima plaza de Salisbury</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261008-un-potro-de-night-of-thunder-cierra-el-book-1-de-tattersalls-por-22-millones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T22:36:10+02:00</news:publication_date>
+      <news:title>Un potro de Night Of Thunder cierra el Book 1 de Tattersalls por 2,2 millones</news:title>
     </news:news>
   </url>
   <url>
@@ -76,6 +98,17 @@
       </news:publication>
       <news:publication_date>2026-10-08T09:56:11+02:00</news:publication_date>
       <news:title>Jean-Philippe Bresler, jinete de trabajo de Daryz: «Verlo ganar es una explosión de alegría»</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261008-el-gotham-pasa-a-nueve-furlongs-en-el-invierno-de-belmont-park</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T22:36:10+02:00</news:publication_date>
+      <news:title>El Gotham pasa a nueve furlongs en el invierno de Belmont Park</news:title>
     </news:news>
   </url>
   <url>
@@ -153,17 +186,6 @@
       </news:publication>
       <news:publication_date>2026-10-07T08:13:40+02:00</news:publication_date>
       <news:title>La cría española brilla fuera: RONCAL firma un 2º en Dax</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261006-46-millones-por-un-hijo-de-night-of-thunder-godolphin-manda-en-la-book-one-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T20:42:36+02:00</news:publication_date>
-      <news:title>4,6 millones por un hijo de Night Of Thunder: Godolphin manda en la Book One de Tattersalls</news:title>
     </news:news>
   </url>
 </urlset>
