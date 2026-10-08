@@ -35,6 +35,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261008-ed-bethell-busca-su-segundo-grupo-1-con-rogue-passion-en-la-fillies-mile</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T20:17:53+02:00</news:publication_date>
+      <news:title>Ed Bethell busca su segundo Grupo 1 con Rogue Passion en la Fillies&amp;#39; Mile</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261008-rossa-ryan-confia-en-rogue-passion-para-el-fillies-mile-de-newmarket</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T20:17:53+02:00</news:publication_date>
+      <news:title>Rossa Ryan confía en Rogue Passion para el Fillies&amp;#39; Mile de Newmarket</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261008-la-falta-de-lluvia-deja-a-kempton-sin-su-primera-jornada-de-obstaculos</loc>
     <news:news>
       <news:publication>
@@ -142,61 +164,6 @@
       </news:publication>
       <news:publication_date>2026-10-06T20:42:36+02:00</news:publication_date>
       <news:title>4,6 millones por un hijo de Night Of Thunder: Godolphin manda en la Book One de Tattersalls</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261006-cheltenham-vuelve-a-abrir-el-23-de-octubre-tras-renovar-el-drenaje-de-la-recta</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T14:50:26+02:00</news:publication_date>
-      <news:title>Cheltenham vuelve a abrir el 23 de octubre tras renovar el drenaje de la recta final</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261006-spartan-debuta-en-kempton-con-tres-cuerpos-y-tres-cuartos-de-ventaja-para-los</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T14:50:26+02:00</news:publication_date>
-      <news:title>Spartan debuta en Kempton con tres cuerpos y tres cuartos de ventaja para los Gosden</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261006-los-baffert-subastan-a-bottle-of-rouge-ganadora-de-grado-i-prenada-de-gun-runner</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T14:50:26+02:00</news:publication_date>
-      <news:title>Los Baffert subastan a Bottle of Rouge, ganadora de Grado I, preñada de Gun Runner</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261006-witiza-y-maximum-scepticism-entre-los-diez-que-siguen-en-el-gran-premio-de-la</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T14:50:25+02:00</news:publication_date>
-      <news:title>Witiza y Maximum Scepticism, entre los diez que siguen en el Gran Premio de la Hispanidad</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261006-tattersalls-abre-el-book-1-con-un-medio-hermano-de-blue-bolt-en-el-ring</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T14:50:25+02:00</news:publication_date>
-      <news:title>Tattersalls abre el Book 1 con un medio hermano de Blue Bolt en el ring</news:title>
     </news:news>
   </url>
 </urlset>
