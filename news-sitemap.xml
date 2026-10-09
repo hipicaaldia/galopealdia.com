@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261009-dos-de-o-brien-y-dos-de-appleby-el-dewhurst-de-newmarket-enfrenta-a-darkness</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T10:23:14+02:00</news:publication_date>
+      <news:title>Dos de O&amp;#39;Brien y dos de Appleby: el Dewhurst de Newmarket enfrenta a Darkness Falls y Desert Castle</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261009-sharadd-regresa-en-york-con-seis-libras-de-penalizacion-tras-su-debut-ganador</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T10:23:14+02:00</news:publication_date>
+      <news:title>Sharadd regresa en York con seis libras de penalización tras su debut ganador</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261008-san-sebastian-echa-el-cierre-a-2026-con-91-carreras-y-su-mejor-entrada-en-anos</loc>
     <news:news>
       <news:publication>
@@ -164,28 +186,6 @@
       </news:publication>
       <news:publication_date>2026-10-07T13:06:55+02:00</news:publication_date>
       <news:title>Irlanda sube un 3 % el dinero público para el turf y mantiene el impuesto de apuestas en el 2 %</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261007-justify-de-la-triple-corona-a-padre-de-city-of-troy-y-scandinavia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T08:13:40+02:00</news:publication_date>
-      <news:title>Justify, de la Triple Corona a padre de City of Troy y Scandinavia</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261007-la-cria-espanola-brilla-fuera-roncal-firma-un-2o-en-dax</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T08:13:40+02:00</news:publication_date>
-      <news:title>La cría española brilla fuera: RONCAL firma un 2º en Dax</news:title>
     </news:news>
   </url>
 </urlset>
