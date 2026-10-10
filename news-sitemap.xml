@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-ninja-de-l-envol-estrena-la-cuerda-a-derechas-en-el-saint-leger-des-trotteurs-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T20:42:24+02:00</news:publication_date>
+      <news:title>Ninja de l&amp;#39;Envol estrena la cuerda a derechas en el Saint-Léger des Trotteurs de Caen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-alphonse-le-grande-repite-en-el-cesarewitch-de-newmarket-arrancando-la-victoria</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T20:42:24+02:00</news:publication_date>
+      <news:title>Alphonse Le Grande repite en el Cesarewitch de Newmarket arrancando la victoria en la raya</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261010-darkness-falls-resiste-a-desert-castle-en-el-dewhurst-y-despierta-el-sueno-de-la</loc>
     <news:news>
       <news:publication>
@@ -76,6 +98,17 @@
       </news:publication>
       <news:publication_date>2026-10-10T15:22:15+02:00</news:publication_date>
       <news:title>Lola De Valence da la sorpresa a 40/1 en el Oh So Sharp Stakes de Newmarket</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-cavalli-de-flightline-caza-a-ferrous-en-la-raya-y-gana-a-la-primera-en-keeneland</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T20:42:24+02:00</news:publication_date>
+      <news:title>Cavalli, de Flightline, caza a Ferrous en la raya y gana a la primera en Keeneland</news:title>
     </news:news>
   </url>
   <url>

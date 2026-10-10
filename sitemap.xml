@@ -55,6 +55,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-ninja-de-l-envol-estrena-la-cuerda-a-derechas-en-el-saint-leger-des-trotteurs-de</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-alphonse-le-grande-repite-en-el-cesarewitch-de-newmarket-arrancando-la-victoria</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261010-darkness-falls-resiste-a-desert-castle-en-el-dewhurst-y-despierta-el-sueno-de-la</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -92,6 +104,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261010-lola-de-valence-da-la-sorpresa-a-40-1-en-el-oh-so-sharp-stakes-de-newmarket</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-cavalli-de-flightline-caza-a-ferrous-en-la-raya-y-gana-a-la-primera-en-keeneland</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -193,13 +211,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261008-la-falta-de-lluvia-deja-a-kempton-sin-su-primera-jornada-de-obstaculos</loc>
+    <loc>https://www.galopealdia.com/noticias/20261008-jean-philippe-bresler-jinete-de-trabajo-de-daryz-verlo-ganar-es-una-explosion-de</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261008-jean-philippe-bresler-jinete-de-trabajo-de-daryz-verlo-ganar-es-una-explosion-de</loc>
+    <loc>https://www.galopealdia.com/noticias/20261008-la-falta-de-lluvia-deja-a-kempton-sin-su-primera-jornada-de-obstaculos</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
