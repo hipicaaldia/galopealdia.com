@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-darkness-falls-gana-el-dewhurst-y-abre-el-sueno-de-la-triple-corona-para-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T19:07:20+02:00</news:publication_date>
+      <news:title>Darkness Falls gana el Dewhurst y abre el sueño de la Triple Corona para 2027</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261010-mathieu-mottier-maestro-vrie-puede-estar-entre-los-tres-primeros-en-la-final-de</loc>
     <news:news>
       <news:publication>
