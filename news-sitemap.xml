@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-rock-montreal-caza-a-sergei-diaghilev-en-los-ultimos-50-metros-del-emirates</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T22:27:25+02:00</news:publication_date>
+      <news:title>Rock Montreal caza a Sergei Diaghilev en los últimos 50 metros del Emirates Autumn Stakes</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261010-ninja-de-l-envol-estrena-la-cuerda-a-derechas-en-el-saint-leger-des-trotteurs-de</loc>
     <news:news>
       <news:publication>
