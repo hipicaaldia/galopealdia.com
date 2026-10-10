@@ -2,6 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-mathieu-mottier-maestro-vrie-puede-estar-entre-los-tres-primeros-en-la-final-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T15:22:15+02:00</news:publication_date>
+      <news:title>Mathieu Mottier: «Maestro Vrie puede estar entre los tres primeros» en la final de Turín</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-160-escolares-de-newmarket-pasan-una-semana-dentro-de-la-industria-del-turf-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T15:22:15+02:00</news:publication_date>
+      <news:title>160 escolares de Newmarket pasan una semana dentro de la industria del turf de la mano de Godolphin</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-musical-times-sale-del-trafico-y-gana-la-fillies-mile-g1-por-un-cuerpo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T15:22:15+02:00</news:publication_date>
+      <news:title>Musical Times sale del tráfico y gana la Fillies&amp;#39; Mile (G1) por un cuerpo</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-nakila-sun-sale-en-cabeza-y-ya-no-la-suelta-en-la-british-ebf-final-de-york</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T15:22:15+02:00</news:publication_date>
+      <news:title>Nakila Sun sale en cabeza y ya no la suelta en la British EBF Final de York</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-lola-de-valence-da-la-sorpresa-a-40-1-en-el-oh-so-sharp-stakes-de-newmarket</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-10T15:22:15+02:00</news:publication_date>
+      <news:title>Lola De Valence da la sorpresa a 40/1 en el Oh So Sharp Stakes de Newmarket</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261009-calandagan-vuelve-a-ascot-para-defender-el-champion-stakes-con-soumillon-en-la</loc>
     <news:news>
       <news:publication>
@@ -101,17 +156,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261008-racingclub-com-patrocinara-dos-carreras-en-la-jornada-de-la-haldon-gold-cup-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T12:15:09+02:00</news:publication_date>
-      <news:title>Racingclub.com patrocinará dos carreras en la jornada de la Haldon Gold Cup en Exeter</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261008-al-hamaad-y-jolivette-frente-a-frente-en-la-recta-del-criterium-de-maisons</loc>
     <news:news>
       <news:publication>
@@ -164,39 +208,6 @@
       </news:publication>
       <news:publication_date>2026-10-08T22:36:10+02:00</news:publication_date>
       <news:title>El Gotham pasa a nueve furlongs en el invierno de Belmont Park</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261008-sandman-ganador-del-arkansas-derby-se-retira-y-cubrira-en-rockridge-por-10-000</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T12:15:09+02:00</news:publication_date>
-      <news:title>Sandman, ganador del Arkansas Derby, se retira y cubrirá en Rockridge por 10.000 dólares</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261008-silver-ratio-gana-el-japan-dirt-classic-por-un-cuerpo-y-deja-sin-triple-corona-a</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T12:15:09+02:00</news:publication_date>
-      <news:title>Silver Ratio gana el Japan Dirt Classic por un cuerpo y deja sin Triple Corona a Finger</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261008-curlin-volvera-a-cubrir-en-2027-en-hill-n-dale-tras-dejar-prenadas-a-dos-yeguas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T12:15:08+02:00</news:publication_date>
-      <news:title>Curlin volverá a cubrir en 2027 en Hill &amp;#39;n&amp;#39; Dale tras dejar preñadas a dos yeguas de prueba</news:title>
     </news:news>
   </url>
 </urlset>
