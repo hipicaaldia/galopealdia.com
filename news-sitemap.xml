@@ -24,6 +24,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261012-el-everest-de-randwick-vuelve-el-sabado-con-20-millones-de-dolares-australianos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T12:01:51+02:00</news:publication_date>
+      <news:title>El Everest de Randwick vuelve el sábado con 20 millones de dólares australianos para doce slots</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261010-rock-montreal-caza-a-sergei-diaghilev-en-los-ultimos-50-metros-del-emirates</loc>
     <news:news>
       <news:publication>
