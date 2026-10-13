@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261013-kind-of-blue-vuelve-a-ascot-con-los-pies-en-el-suelo-frente-a-almeraq</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T20:38:54+02:00</news:publication_date>
+      <news:title>Kind Of Blue vuelve a Ascot con los pies en el suelo frente a Almeraq</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261013-cinco-grupo-i-y-un-debate-puede-ascot-medirse-ya-con-el-fin-de-semana-del-arc</loc>
     <news:news>
       <news:publication>
@@ -76,6 +87,17 @@
       </news:publication>
       <news:publication_date>2026-10-13T11:29:53+02:00</news:publication_date>
       <news:title>Goffs publica el catálogo de su subasta GoffsGo de octubre</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261013-gordon-elliott-vuelve-a-far-hills-para-defender-el-american-grand-national-con</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T20:38:54+02:00</news:publication_date>
+      <news:title>Gordon Elliott vuelve a Far Hills para defender el American Grand National con Zanahiyr y Western Fold</news:title>
     </news:news>
   </url>
   <url>
