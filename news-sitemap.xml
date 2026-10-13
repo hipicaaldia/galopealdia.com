@@ -57,6 +57,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261013-ocho-anos-de-inhabilitacion-y-5-000-libras-de-multa-para-el-entrenador-maurice</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T16:10:42+02:00</news:publication_date>
+      <news:title>Ocho años de inhabilitación y 5.000 libras de multa para el entrenador Maurice Barnes</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261012-alexei-adelanta-su-vuelta-molyneux-hurdle-de-aintree-el-7-de-noviembre</loc>
     <news:news>
       <news:publication>
