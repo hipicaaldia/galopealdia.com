@@ -49,6 +49,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261013-hyperion-el-pequeno-caballo-de-lord-derby-que-firmo-el-doble-clasico-de-1933</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261013-goffs-publica-el-catalogo-de-su-subasta-goffsgo-de-octubre</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261012-alexei-adelanta-su-vuelta-molyneux-hurdle-de-aintree-el-7-de-noviembre</loc>
     <lastmod>2026-10-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,12 +247,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261008-un-potro-de-night-of-thunder-cierra-el-book-1-de-tattersalls-por-22-millones</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261008-ed-bethell-busca-su-segundo-grupo-1-con-rogue-passion-en-la-fillies-mile</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -259,13 +265,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261008-el-gotham-pasa-a-nueve-furlongs-en-el-invierno-de-belmont-park</loc>
+    <loc>https://www.galopealdia.com/noticias/20261008-un-potro-de-night-of-thunder-cierra-el-book-1-de-tattersalls-por-22-millones</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261008-curlin-volvera-a-cubrir-en-2027-en-hill-n-dale-tras-dejar-prenadas-a-dos-yeguas</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261008-el-gotham-pasa-a-nueve-furlongs-en-el-invierno-de-belmont-park</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
