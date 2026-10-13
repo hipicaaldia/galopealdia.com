@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261018-pronostico-la-zarzuela-domingo-18-de-octubre-majestad-ire-favorito-en-el-gran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T20:13:45+02:00</news:publication_date>
+      <news:title>Pronóstico La Zarzuela (domingo 18 de octubre): Majestad (IRE), favorito en el Gran Premio Memorial Duque De Toledo</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261013-la-bha-reparte-las-16-jornadas-de-chelmsford-city-entre-jockey-club-racecourses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-13T20:13:44+02:00</news:publication_date>
+      <news:title>La BHA reparte las 16 jornadas de Chelmsford City entre Jockey Club Racecourses y ARC</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261013-rayif-llega-a-la-queen-elizabeth-ii-stakes-sin-correr-desde-el-jacques-le-marois</loc>
     <news:news>
       <news:publication>
