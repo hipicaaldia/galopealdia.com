@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261014-into-mischief-el-septimo-titulo-consecutivo-de-lider-general-sire-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T10:36:24+02:00</news:publication_date>
+      <news:title>Into Mischief, el séptimo título consecutivo de líder general sire en Norteamérica</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261013-kind-of-blue-vuelve-a-ascot-con-los-pies-en-el-suelo-frente-a-almeraq</loc>
     <news:news>
       <news:publication>
@@ -131,28 +142,6 @@
       </news:publication>
       <news:publication_date>2026-10-13T16:10:42+02:00</news:publication_date>
       <news:title>Ocho años de inhabilitación y 5.000 libras de multa para el entrenador Maurice Barnes</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261012-alexei-adelanta-su-vuelta-molyneux-hurdle-de-aintree-el-7-de-noviembre</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-12T10:24:01+02:00</news:publication_date>
-      <news:title>Alexei adelanta su vuelta: Molyneux Hurdle de Aintree el 7 de noviembre</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261012-una-cabeza-corta-da-a-princess-child-el-garnet-stakes-de-naas-y-un-triplete-a</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-12T10:24:01+02:00</news:publication_date>
-      <news:title>Una cabeza corta da a Princess Child el Garnet Stakes de Naas y un triplete a Joseph O&amp;#39;Brien</news:title>
     </news:news>
   </url>
   <url>
