@@ -13,6 +13,39 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261014-un-potro-de-lope-de-vega-lidera-el-martes-de-tattersalls-book-2-por-650-000</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T14:34:10+02:00</news:publication_date>
+      <news:title>Un potro de Lope de Vega lidera el martes de Tattersalls Book 2 por 650.000 guineas</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261014-mindframe-encabeza-el-roster-2027-de-claiborne-farm-con-una-monta-de-40-000</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T14:34:10+02:00</news:publication_date>
+      <news:title>Mindframe encabeza el roster 2027 de Claiborne Farm con una monta de 40.000 dólares</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261014-oxbow-ganador-del-preakness-de-2013-se-traslada-a-breakway-farm-indiana-por-2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-14T14:34:10+02:00</news:publication_date>
+      <news:title>Oxbow, ganador del Preakness de 2013, se traslada a Breakway Farm (Indiana) por 2.000 dólares de monta</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261014-into-mischief-el-septimo-titulo-consecutivo-de-lider-general-sire-en</loc>
     <news:news>
       <news:publication>
@@ -142,28 +175,6 @@
       </news:publication>
       <news:publication_date>2026-10-13T16:10:42+02:00</news:publication_date>
       <news:title>Ocho años de inhabilitación y 5.000 libras de multa para el entrenador Maurice Barnes</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261012-la-bha-multa-a-william-mullins-y-descalifica-a-final-demand-por-mepivacaina</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-12T14:02:47+02:00</news:publication_date>
-      <news:title>La BHA multa a William Mullins y descalifica a Final Demand por mepivacaína</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261012-el-everest-de-randwick-vuelve-el-sabado-con-20-millones-de-dolares-australianos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-12T12:01:51+02:00</news:publication_date>
-      <news:title>El Everest de Randwick vuelve el sábado con 20 millones de dólares australianos para doce slots</news:title>
     </news:news>
   </url>
   <url>
