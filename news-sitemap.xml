@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261015-calandagan-defiende-en-ascot-las-champion-stakes-que-gano-esperando-atras</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T20:46:13+02:00</news:publication_date>
+      <news:title>Calandagan defiende en Ascot las Champion Stakes que ganó esperando atrás</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261015-goliath-du-rheu-favorito-del-prix-heros-xii-antes-del-grand-steeple-de-otono-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T20:46:14+02:00</news:publication_date>
+      <news:title>Goliath du Rheu, favorito del Prix Heros XII antes del Grand Steeple de otoño en Auteuil</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261015-cuatro-toques-y-solo-por-delante-de-la-cincha-francia-acota-la-fusta-de-los</loc>
     <news:news>
       <news:publication>
