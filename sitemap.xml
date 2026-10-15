@@ -61,6 +61,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261015-ian-power-recurre-la-suspension-de-diez-dias-por-su-monta-de-rose-warrior-en</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261015-echo-town-continuara-su-carrera-de-semental-en-iran</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -223,12 +229,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261010-darkness-falls-resiste-a-desert-castle-en-el-dewhurst-y-despierta-el-sueno-de-la</loc>
-    <lastmod>2026-10-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261010-160-escolares-de-newmarket-pasan-una-semana-dentro-de-la-industria-del-turf-de</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -236,6 +236,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261010-darkness-falls-gana-el-dewhurst-y-abre-el-sueno-de-la-triple-corona-para-2027</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-darkness-falls-resiste-a-desert-castle-en-el-dewhurst-y-despierta-el-sueno-de-la</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
