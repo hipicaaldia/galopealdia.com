@@ -2,14 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261018-pronostico-la-zarzuela-domingo-18-de-octubre-majestad-ire-favorito-en-el-gran</loc>
+    <loc>https://www.galopealdia.com/noticias/20261015-cuatro-toques-y-solo-por-delante-de-la-cincha-francia-acota-la-fusta-de-los</loc>
     <news:news>
       <news:publication>
         <news:name>Galope al Día</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-10-13T20:13:45+02:00</news:publication_date>
-      <news:title>Pronóstico La Zarzuela (domingo 18 de octubre): Majestad (IRE), favorito en el Gran Premio Memorial Duque De Toledo</news:title>
+      <news:publication_date>2026-10-15T20:41:32+02:00</news:publication_date>
+      <news:title>Cuatro toques y solo por delante de la cincha: Francia acota la fusta de los aficionados</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261015-aidan-o-brien-llega-a-ascot-con-el-noveno-titulo-britanico-en-juego-y-balding-al</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T20:41:32+02:00</news:publication_date>
+      <news:title>Aidan O&amp;#39;Brien llega a Ascot con el noveno título británico en juego y Balding al acecho</news:title>
     </news:news>
   </url>
   <url>
@@ -32,6 +43,17 @@
       </news:publication>
       <news:publication_date>2026-10-15T11:34:40+02:00</news:publication_date>
       <news:title>Diez días de suspensión a Kieren Fox por no rematar su monta en Wolverhampton</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261015-disco-time-rompe-su-racha-negativa-en-belmont-con-3-3-4-cuerpos-de-ventaja</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T20:41:32+02:00</news:publication_date>
+      <news:title>Disco Time rompe su racha negativa en Belmont con 3 ¾ cuerpos de ventaja</news:title>
     </news:news>
   </url>
   <url>
@@ -120,61 +142,6 @@
       </news:publication>
       <news:publication_date>2026-10-14T10:36:24+02:00</news:publication_date>
       <news:title>Into Mischief, el séptimo título consecutivo de líder general sire en Norteamérica</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261013-kind-of-blue-vuelve-a-ascot-con-los-pies-en-el-suelo-frente-a-almeraq</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T20:38:54+02:00</news:publication_date>
-      <news:title>Kind Of Blue vuelve a Ascot con los pies en el suelo frente a Almeraq</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261013-cinco-grupo-i-y-un-debate-puede-ascot-medirse-ya-con-el-fin-de-semana-del-arc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T20:36:22+02:00</news:publication_date>
-      <news:title>Cinco Grupo I y un debate: ¿puede Ascot medirse ya con el fin de semana del Arc?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261013-la-bha-reparte-las-16-jornadas-de-chelmsford-city-entre-jockey-club-racecourses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T20:13:44+02:00</news:publication_date>
-      <news:title>La BHA reparte las 16 jornadas de Chelmsford City entre Jockey Club Racecourses y ARC</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261013-gordon-elliott-vuelve-a-far-hills-para-defender-el-american-grand-national-con</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T20:38:54+02:00</news:publication_date>
-      <news:title>Gordon Elliott vuelve a Far Hills para defender el American Grand National con Zanahiyr y Western Fold</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261013-time-to-dazzle-repite-en-el-franklin-stakes-de-keeneland-por-un-hocico</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T20:37:33+02:00</news:publication_date>
-      <news:title>Time to Dazzle repite en el Franklin Stakes de Keeneland por un hocico</news:title>
     </news:news>
   </url>
 </urlset>

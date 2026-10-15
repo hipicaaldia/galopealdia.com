@@ -55,6 +55,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261015-cuatro-toques-y-solo-por-delante-de-la-cincha-francia-acota-la-fusta-de-los</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261015-aidan-o-brien-llega-a-ascot-con-el-noveno-titulo-britanico-en-juego-y-balding-al</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261015-whitewinewednesday-y-doagh-comparten-el-precio-mas-alto-de-la-goffsgo-october</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -62,6 +74,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261015-diez-dias-de-suspension-a-kieren-fox-por-no-rematar-su-monta-en-wolverhampton</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261015-disco-time-rompe-su-racha-negativa-en-belmont-con-3-3-4-cuerpos-de-ventaja</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -217,18 +235,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261010-rock-montreal-caza-a-sergei-diaghilev-en-los-ultimos-50-metros-del-emirates</loc>
-    <lastmod>2026-10-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261010-ninja-de-l-envol-estrena-la-cuerda-a-derechas-en-el-saint-leger-des-trotteurs-de</loc>
-    <lastmod>2026-10-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261010-160-escolares-de-newmarket-pasan-una-semana-dentro-de-la-industria-del-turf-de</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -272,6 +278,18 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261010-nakila-sun-sale-en-cabeza-y-ya-no-la-suelta-en-la-british-ebf-final-de-york</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-ninja-de-l-envol-estrena-la-cuerda-a-derechas-en-el-saint-leger-des-trotteurs-de</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261010-rock-montreal-caza-a-sergei-diaghilev-en-los-ultimos-50-metros-del-emirates</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
