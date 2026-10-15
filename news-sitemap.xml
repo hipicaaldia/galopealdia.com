@@ -13,6 +13,39 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261015-diez-dias-de-suspension-a-kieren-fox-por-no-rematar-su-monta-en-wolverhampton</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T11:34:40+02:00</news:publication_date>
+      <news:title>Diez días de suspensión a Kieren Fox por no rematar su monta en Wolverhampton</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261015-echo-town-continuara-su-carrera-de-semental-en-iran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T11:34:40+02:00</news:publication_date>
+      <news:title>Echo Town continuará su carrera de semental en Irán</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261015-nyquist-encabeza-el-roster-2027-de-darley-a-225-000-dolares</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-15T11:34:40+02:00</news:publication_date>
+      <news:title>Nyquist encabeza el roster 2027 de Darley a 225.000 dólares</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261014-green-falcon-gana-la-colwick-cup-y-completa-el-doblete-de-saffie-osborne-en</loc>
     <news:news>
       <news:publication>
@@ -112,39 +145,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261013-haggas-respalda-a-andrew-balding-en-su-pulso-por-el-titulo-ante-aidan-o-brien</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T11:32:15+02:00</news:publication_date>
-      <news:title>Haggas respalda a Andrew Balding en su pulso por el título ante Aidan O&amp;#39;Brien</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261013-hyperion-el-pequeno-caballo-de-lord-derby-que-firmo-el-doble-clasico-de-1933</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T11:29:53+02:00</news:publication_date>
-      <news:title>Hyperion, el pequeño caballo de Lord Derby que firmó el doble clásico de 1933</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261013-goffs-publica-el-catalogo-de-su-subasta-goffsgo-de-octubre</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T11:29:53+02:00</news:publication_date>
-      <news:title>Goffs publica el catálogo de su subasta GoffsGo de octubre</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261013-gordon-elliott-vuelve-a-far-hills-para-defender-el-american-grand-national-con</loc>
     <news:news>
       <news:publication>
@@ -186,17 +186,6 @@
       </news:publication>
       <news:publication_date>2026-10-13T16:10:42+02:00</news:publication_date>
       <news:title>Ocho años de inhabilitación y 5.000 libras de multa para el entrenador Maurice Barnes</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261011-skytree-se-impone-en-el-gran-premio-de-la-hispanidad-en-la-zarzuela</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-13T09:06:21+02:00</news:publication_date>
-      <news:title>Skytree se impone en el Gran Premio de la Hispanidad en La Zarzuela</news:title>
     </news:news>
   </url>
 </urlset>
