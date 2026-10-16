@@ -13,6 +13,39 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-ascot-afronta-un-champions-day-sin-cabeza-de-cartel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T14:36:35+02:00</news:publication_date>
+      <news:title>Ascot afronta un Champions Day sin cabeza de cartel</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-la-lluvia-del-viernes-deja-en-bueno-la-pista-de-ascot-para-el-qatar-racing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T14:36:35+02:00</news:publication_date>
+      <news:title>La lluvia del viernes deja en &amp;#39;bueno&amp;#39; la pista de Ascot para el Qatar Racing British Champions Day</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-billy-loughnane-campeon-de-jockeys-a-los-20-anos-ha-costado-mucho-trabajo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T14:36:35+02:00</news:publication_date>
+      <news:title>Billy Loughnane, campeón de jockeys a los 20 años: «Ha costado mucho trabajo»</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261016-cheltenham-cancela-el-glenfarclas-cross-country-chase-de-noviembre-por-el</loc>
     <news:news>
       <news:publication>
@@ -186,39 +219,6 @@
       </news:publication>
       <news:publication_date>2026-10-14T19:03:23+02:00</news:publication_date>
       <news:title>Green Falcon gana la Colwick Cup y completa el doblete de Saffie Osborne en Nottingham</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261014-un-potro-de-lope-de-vega-lidera-el-martes-de-tattersalls-book-2-por-650-000</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T14:34:10+02:00</news:publication_date>
-      <news:title>Un potro de Lope de Vega lidera el martes de Tattersalls Book 2 por 650.000 guineas</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261014-mindframe-encabeza-el-roster-2027-de-claiborne-farm-con-una-monta-de-40-000</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T14:34:10+02:00</news:publication_date>
-      <news:title>Mindframe encabeza el roster 2027 de Claiborne Farm con una monta de 40.000 dólares</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261014-oxbow-ganador-del-preakness-de-2013-se-traslada-a-breakway-farm-indiana-por-2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T14:34:10+02:00</news:publication_date>
-      <news:title>Oxbow, ganador del Preakness de 2013, se traslada a Breakway Farm (Indiana) por 2.000 dólares de monta</news:title>
     </news:news>
   </url>
 </urlset>
