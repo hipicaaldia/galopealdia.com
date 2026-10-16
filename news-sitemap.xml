@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-cheltenham-cancela-el-glenfarclas-cross-country-chase-de-noviembre-por-el</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T12:55:28+02:00</news:publication_date>
+      <news:title>Cheltenham cancela el Glenfarclas Cross Country Chase de noviembre por el terreno firme</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261016-talk-of-new-york-llega-como-favorito-a-ascot-con-more-thunder-y-zavateri-al</loc>
     <news:news>
       <news:publication>
@@ -208,17 +219,6 @@
       </news:publication>
       <news:publication_date>2026-10-14T14:34:10+02:00</news:publication_date>
       <news:title>Oxbow, ganador del Preakness de 2013, se traslada a Breakway Farm (Indiana) por 2.000 dólares de monta</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261014-into-mischief-el-septimo-titulo-consecutivo-de-lider-general-sire-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T10:36:24+02:00</news:publication_date>
-      <news:title>Into Mischief, el séptimo título consecutivo de líder general sire en Norteamérica</news:title>
     </news:news>
   </url>
 </urlset>
