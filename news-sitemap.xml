@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-el-lote-de-aga-khan-studs-encabeza-el-catalogo-de-la-autumn-hit-sale-de-goffs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T20:39:31+02:00</news:publication_date>
+      <news:title>El lote de Aga Khan Studs encabeza el catálogo de la Autumn HIT Sale de Goffs</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261016-ascot-afronta-un-champions-day-sin-cabeza-de-cartel</loc>
     <news:news>
       <news:publication>
@@ -208,17 +219,6 @@
       </news:publication>
       <news:publication_date>2026-10-15T11:34:40+02:00</news:publication_date>
       <news:title>Nyquist encabeza el roster 2027 de Darley a 225.000 dólares</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261014-green-falcon-gana-la-colwick-cup-y-completa-el-doblete-de-saffie-osborne-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-14T19:03:23+02:00</news:publication_date>
-      <news:title>Green Falcon gana la Colwick Cup y completa el doblete de Saffie Osborne en Nottingham</news:title>
     </news:news>
   </url>
 </urlset>
