@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-drongo-y-mariana-d-id-estrenan-su-palmares-y-dan-un-doblete-a-ramon-avial-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T20:47:16+02:00</news:publication_date>
+      <news:title>DRONGO y MARIANA D&amp;#39;ID estrenan su palmarés y dan un doblete a Ramón Avial en Toulouse</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261016-giro-en-ballydoyle-constitution-river-ira-al-champion-stakes-y-gstaad-se-queda</loc>
     <news:news>
       <news:publication>
@@ -10,6 +21,39 @@
       </news:publication>
       <news:publication_date>2026-10-16T09:51:43+02:00</news:publication_date>
       <news:title>Giro en Ballydoyle: Constitution River irá al Champion Stakes y Gstaad se queda en la milla</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-ryan-moore-sobre-constitution-river-estara-bien-sobre-diez-furlongs-en-ascot</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T20:47:17+02:00</news:publication_date>
+      <news:title>Ryan Moore, sobre Constitution River: «Estará bien sobre diez furlongs en Ascot»</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-lapotheose-busca-en-el-prix-du-conseil-de-paris-la-revancha-del-vermeille</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T20:47:17+02:00</news:publication_date>
+      <news:title>Lapothéose busca en el Prix du Conseil de Paris la revancha del Vermeille</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-taranga-medio-hermana-de-tarnawa-y-tahiyra-se-estrena-este-sabado-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-16T20:47:16+02:00</news:publication_date>
+      <news:title>Taranga, medio hermana de Tarnawa y Tahiyra, se estrena este sábado en Leopardstown</news:title>
     </news:news>
   </url>
   <url>

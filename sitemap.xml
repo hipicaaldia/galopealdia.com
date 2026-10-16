@@ -55,7 +55,31 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-drongo-y-mariana-d-id-estrenan-su-palmares-y-dan-un-doblete-a-ramon-avial-en</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261016-giro-en-ballydoyle-constitution-river-ira-al-champion-stakes-y-gstaad-se-queda</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-ryan-moore-sobre-constitution-river-estara-bien-sobre-diez-furlongs-en-ascot</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-lapotheose-busca-en-el-prix-du-conseil-de-paris-la-revancha-del-vermeille</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-taranga-medio-hermana-de-tarnawa-y-tahiyra-se-estrena-este-sabado-en</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -205,12 +229,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261013-kind-of-blue-vuelve-a-ascot-con-los-pies-en-el-suelo-frente-a-almeraq</loc>
-    <lastmod>2026-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261013-cinco-grupo-i-y-un-debate-puede-ascot-medirse-ya-con-el-fin-de-semana-del-arc</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -230,6 +248,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261013-hyperion-el-pequeno-caballo-de-lord-derby-que-firmo-el-doble-clasico-de-1933</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261013-kind-of-blue-vuelve-a-ascot-con-los-pies-en-el-suelo-frente-a-almeraq</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -259,13 +283,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261013-time-to-dazzle-repite-en-el-franklin-stakes-de-keeneland-por-un-hocico</loc>
+    <loc>https://www.galopealdia.com/noticias/20261013-ocho-anos-de-inhabilitacion-y-5-000-libras-de-multa-para-el-entrenador-maurice</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261013-ocho-anos-de-inhabilitacion-y-5-000-libras-de-multa-para-el-entrenador-maurice</loc>
+    <loc>https://www.galopealdia.com/noticias/20261013-time-to-dazzle-repite-en-el-franklin-stakes-de-keeneland-por-un-hocico</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
