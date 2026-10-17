@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261017-un-hocico-da-a-night-in-vegas-la-two-year-old-conditions-stakes-de-ascot</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:46:27+02:00</news:publication_date>
+      <news:title>Un hocico da a Night In Vegas la Two-Year-Old Conditions Stakes de Ascot</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261017-yedsit-hazlewood-operado-del-codo-derecho-estara-de-baja-unos-meses</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:46:27+02:00</news:publication_date>
+      <news:title>Yedsit Hazlewood, operado del codo derecho, estará de baja «unos meses»</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261017-nevada-remonta-desde-la-cola-y-gana-en-su-debut-en-belmont-park</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T14:46:27+02:00</news:publication_date>
+      <news:title>Nevada remonta desde la cola y gana en su debut en Belmont Park</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261017-france-galop-prohibe-el-latigo-detras-de-la-cincha-en-las-carreras-de-amateurs</loc>
     <news:news>
       <news:publication>
@@ -252,17 +285,6 @@
       </news:publication>
       <news:publication_date>2026-10-15T20:41:32+02:00</news:publication_date>
       <news:title>Disco Time rompe su racha negativa en Belmont con 3 ¾ cuerpos de ventaja</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261015-ian-power-recurre-la-suspension-de-diez-dias-por-su-monta-de-rose-warrior-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T13:02:32+02:00</news:publication_date>
-      <news:title>Ian Power recurre la suspensión de diez días por su monta de Rose Warrior en Uttoxeter</news:title>
     </news:news>
   </url>
 </urlset>
