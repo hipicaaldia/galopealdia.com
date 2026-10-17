@@ -2,14 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261017-ombudsman-deja-sin-respuesta-a-calandagan-en-la-champion-stakes-de-ascot</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
+      <news:title>Ombudsman deja sin respuesta a Calandagan en la Champion Stakes de Ascot</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261017-un-hocico-da-a-night-in-vegas-la-two-year-old-conditions-stakes-de-ascot</loc>
     <news:news>
       <news:publication>
         <news:name>Galope al Día</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T14:46:27+02:00</news:publication_date>
+      <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
       <news:title>Un hocico da a Night In Vegas la Two-Year-Old Conditions Stakes de Ascot</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261017-ombudsman-invierte-el-orden-de-2025-y-deja-a-calandagan-a-tres-cuerpos-y-tres</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
+      <news:title>Ombudsman invierte el orden de 2025 y deja a Calandagan a tres cuerpos y tres cuartos en Ascot</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261017-almeraq-caza-a-paborus-en-los-ultimos-metros-y-suma-su-tercer-grupo-i-del-ano-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
+      <news:title>Almeraq caza a Paborus en los últimos metros y suma su tercer Grupo I del año en Ascot</news:title>
     </news:news>
   </url>
   <url>
@@ -19,7 +52,7 @@
         <news:name>Galope al Día</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T14:46:27+02:00</news:publication_date>
+      <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
       <news:title>Yedsit Hazlewood, operado del codo derecho, estará de baja «unos meses»</news:title>
     </news:news>
   </url>
@@ -30,7 +63,7 @@
         <news:name>Galope al Día</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-10-17T14:46:27+02:00</news:publication_date>
+      <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
       <news:title>Nevada remonta desde la cola y gana en su debut en Belmont Park</news:title>
     </news:news>
   </url>
@@ -263,17 +296,6 @@
       </news:publication>
       <news:publication_date>2026-10-15T20:41:32+02:00</news:publication_date>
       <news:title>Aidan O&amp;#39;Brien llega a Ascot con el noveno título británico en juego y Balding al acecho</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261015-whitewinewednesday-y-doagh-comparten-el-precio-mas-alto-de-la-goffsgo-october</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T19:47:00+02:00</news:publication_date>
-      <news:title>Whitewinewednesday y Doagh comparten el precio más alto de la GoffsGo October Sale</news:title>
     </news:news>
   </url>
   <url>
