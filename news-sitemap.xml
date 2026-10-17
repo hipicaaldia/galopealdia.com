@@ -13,6 +13,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261017-mount-atlas-se-cuela-entre-los-de-ballydoyle-y-gana-la-long-distance-cup-del</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T21:21:58+02:00</news:publication_date>
+      <news:title>Mount Atlas se cuela entre los de Ballydoyle y gana la Long Distance Cup del Champions Day</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261017-talk-of-new-york-abre-su-cuenta-en-el-grupo-i-con-el-queen-elizabeth-ii-stakes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T21:21:58+02:00</news:publication_date>
+      <news:title>Talk Of New York abre su cuenta en el Grupo I con el Queen Elizabeth II Stakes de Ascot</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261017-un-hocico-da-a-night-in-vegas-la-two-year-old-conditions-stakes-de-ascot</loc>
     <news:news>
       <news:publication>
@@ -252,61 +274,6 @@
       </news:publication>
       <news:publication_date>2026-10-16T09:51:43+02:00</news:publication_date>
       <news:title>Ka Ying Rising vuelve a Randwick a por su segundo Everest y su 22.ª victoria seguida</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261015-calandagan-defiende-en-ascot-las-champion-stakes-que-gano-esperando-atras</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T20:46:13+02:00</news:publication_date>
-      <news:title>Calandagan defiende en Ascot las Champion Stakes que ganó esperando atrás</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261015-goliath-du-rheu-favorito-del-prix-heros-xii-antes-del-grand-steeple-de-otono-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T20:46:14+02:00</news:publication_date>
-      <news:title>Goliath du Rheu, favorito del Prix Heros XII antes del Grand Steeple de otoño en Auteuil</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261015-cuatro-toques-y-solo-por-delante-de-la-cincha-francia-acota-la-fusta-de-los</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T20:41:32+02:00</news:publication_date>
-      <news:title>Cuatro toques y solo por delante de la cincha: Francia acota la fusta de los aficionados</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261015-aidan-o-brien-llega-a-ascot-con-el-noveno-titulo-britanico-en-juego-y-balding-al</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T20:41:32+02:00</news:publication_date>
-      <news:title>Aidan O&amp;#39;Brien llega a Ascot con el noveno título británico en juego y Balding al acecho</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261015-disco-time-rompe-su-racha-negativa-en-belmont-con-3-3-4-cuerpos-de-ventaja</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T20:41:32+02:00</news:publication_date>
-      <news:title>Disco Time rompe su racha negativa en Belmont con 3 ¾ cuerpos de ventaja</news:title>
     </news:news>
   </url>
 </urlset>
