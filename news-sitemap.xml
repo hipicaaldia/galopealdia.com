@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261017-france-galop-prohibe-el-latigo-detras-de-la-cincha-en-las-carreras-de-amateurs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:01:52+02:00</news:publication_date>
+      <news:title>France Galop prohíbe el látigo detrás de la cincha en las carreras de amateurs desde el 15 de noviembre</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261017-metronomique-completa-en-el-prix-orcada-el-camino-al-prix-maurice-gillois-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:01:52+02:00</news:publication_date>
+      <news:title>Métronomique completa en el Prix Orcada el camino al Prix Maurice Gillois en Auteuil</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261017-rose-lake-hija-de-frankel-y-sea-la-rosa-debuta-este-domingo-en-parislongchamp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-17T12:01:52+02:00</news:publication_date>
+      <news:title>Rose Lake, hija de Frankel y Sea La Rosa, debuta este domingo en ParisLongchamp con Godolphin y Fabre</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261016-drongo-y-mariana-d-id-estrenan-su-palmares-y-dan-un-doblete-a-ramon-avial-en</loc>
     <news:news>
       <news:publication>
@@ -211,17 +244,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261015-diez-dias-de-suspension-a-kieren-fox-por-no-rematar-su-monta-en-wolverhampton</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:34:40+02:00</news:publication_date>
-      <news:title>Diez días de suspensión a Kieren Fox por no rematar su monta en Wolverhampton</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261015-disco-time-rompe-su-racha-negativa-en-belmont-con-3-3-4-cuerpos-de-ventaja</loc>
     <news:news>
       <news:publication>
@@ -241,28 +263,6 @@
       </news:publication>
       <news:publication_date>2026-10-15T13:02:32+02:00</news:publication_date>
       <news:title>Ian Power recurre la suspensión de diez días por su monta de Rose Warrior en Uttoxeter</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261015-echo-town-continuara-su-carrera-de-semental-en-iran</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:34:40+02:00</news:publication_date>
-      <news:title>Echo Town continuará su carrera de semental en Irán</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261015-nyquist-encabeza-el-roster-2027-de-darley-a-225-000-dolares</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-15T11:34:40+02:00</news:publication_date>
-      <news:title>Nyquist encabeza el roster 2027 de Darley a 225.000 dólares</news:title>
     </news:news>
   </url>
 </urlset>
