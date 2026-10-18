@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261018-capability-brown-lleva-a-aidan-o-brien-a-su-17a-killavullan-stakes-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T14:42:15+02:00</news:publication_date>
+      <news:title>Capability Brown lleva a Aidan O&amp;#39;Brien a su 17ª Killavullan Stakes en Leopardstown</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261018-rose-lake-la-frankel-de-500-000-guineas-se-estrena-el-domingo-en-parislongchamp</loc>
     <news:news>
       <news:publication>
@@ -10,6 +21,17 @@
       </news:publication>
       <news:publication_date>2026-10-18T14:40:30+02:00</news:publication_date>
       <news:title>Rose Lake, la Frankel de 500.000 guineas, se estrena el domingo en ParisLongchamp</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261018-un-cuello-de-revancha-tempted-derrota-a-ka-ying-rising-en-the-everest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T14:42:15+02:00</news:publication_date>
+      <news:title>Un cuello de revancha: Tempted derrota a Ka Ying Rising en The Everest</news:title>
     </news:news>
   </url>
   <url>
