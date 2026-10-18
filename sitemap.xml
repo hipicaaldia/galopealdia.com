@@ -49,6 +49,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261018-rose-lake-la-frankel-de-500-000-guineas-se-estrena-el-domingo-en-parislongchamp</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261018-magnitude-y-stradale-marcan-los-mejores-cronos-de-la-manana-en-keeneland-antes</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261018-tempted-frena-a-ka-ying-rising-en-el-everest-y-da-a-godolphin-su-primer-triunfo</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -223,13 +235,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261015-cuatro-toques-y-solo-por-delante-de-la-cincha-francia-acota-la-fusta-de-los</loc>
+    <loc>https://www.galopealdia.com/noticias/20261015-aidan-o-brien-llega-a-ascot-con-el-noveno-titulo-britanico-en-juego-y-balding-al</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261015-aidan-o-brien-llega-a-ascot-con-el-noveno-titulo-britanico-en-juego-y-balding-al</loc>
+    <loc>https://www.galopealdia.com/noticias/20261015-cuatro-toques-y-solo-por-delante-de-la-cincha-francia-acota-la-fusta-de-los</loc>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
