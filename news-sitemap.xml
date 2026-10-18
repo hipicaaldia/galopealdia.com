@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261018-tempted-frena-a-ka-ying-rising-en-el-everest-y-da-a-godolphin-su-primer-triunfo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T11:33:04+02:00</news:publication_date>
+      <news:title>Tempted frena a Ka Ying Rising en el Everest y da a Godolphin su primer triunfo en Randwick</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261017-ombudsman-deja-sin-respuesta-a-calandagan-en-la-champion-stakes-de-ascot</loc>
     <news:news>
       <news:publication>
@@ -134,17 +145,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261016-giro-en-ballydoyle-constitution-river-ira-al-champion-stakes-y-gstaad-se-queda</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T09:51:43+02:00</news:publication_date>
-      <news:title>Giro en Ballydoyle: Constitution River irá al Champion Stakes y Gstaad se queda en la milla</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261016-ryan-moore-sobre-constitution-river-estara-bien-sobre-diez-furlongs-en-ascot</loc>
     <news:news>
       <news:publication>
@@ -230,50 +230,6 @@
       </news:publication>
       <news:publication_date>2026-10-16T12:55:28+02:00</news:publication_date>
       <news:title>Cheltenham cancela el Glenfarclas Cross Country Chase de noviembre por el terreno firme</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261016-talk-of-new-york-llega-como-favorito-a-ascot-con-more-thunder-y-zavateri-al</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T09:51:43+02:00</news:publication_date>
-      <news:title>Talk Of New York llega como favorito a Ascot, con More Thunder y Zavateri al acecho</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261016-aventure-se-retira-con-dos-grupo-i-y-pasa-a-la-reproduccion-en-el-haras-de-saint</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T09:51:43+02:00</news:publication_date>
-      <news:title>Aventure se retira con dos Grupo I y pasa a la reproducción en el Haras de Saint-Léonard</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261016-kalpana-busca-en-ascot-su-tercera-fillies-mares-trece-dias-despues-del-arc</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T09:51:43+02:00</news:publication_date>
-      <news:title>Kalpana busca en Ascot su tercera Fillies &amp;amp; Mares, trece días después del Arc</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261016-ka-ying-rising-vuelve-a-randwick-a-por-su-segundo-everest-y-su-22-a-victoria</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T09:51:43+02:00</news:publication_date>
-      <news:title>Ka Ying Rising vuelve a Randwick a por su segundo Everest y su 22.ª victoria seguida</news:title>
     </news:news>
   </url>
 </urlset>
