@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261018-resultados-de-la-zarzuela-18-10-majestad-ire-gana-el-gran-premio-memorial-duque</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-18T23:39:14+02:00</news:publication_date>
+      <news:title>Resultados de La Zarzuela (18/10): Majestad (IRE) gana el Gran Premio Memorial Duque de Toledo y J. Gelabert firma un doblete</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261018-majestad-gana-el-memorial-duque-de-toledo-en-el-dia-de-los-campeones-de-la</loc>
     <news:news>
       <news:publication>
@@ -186,61 +197,6 @@
       </news:publication>
       <news:publication_date>2026-10-17T12:01:52+02:00</news:publication_date>
       <news:title>Rose Lake, hija de Frankel y Sea La Rosa, debuta este domingo en ParisLongchamp con Godolphin y Fabre</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261016-drongo-y-mariana-d-id-estrenan-su-palmares-y-dan-un-doblete-a-ramon-avial-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:47:16+02:00</news:publication_date>
-      <news:title>DRONGO y MARIANA D&amp;#39;ID estrenan su palmarés y dan un doblete a Ramón Avial en Toulouse</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261016-ryan-moore-sobre-constitution-river-estara-bien-sobre-diez-furlongs-en-ascot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:47:17+02:00</news:publication_date>
-      <news:title>Ryan Moore, sobre Constitution River: «Estará bien sobre diez furlongs en Ascot»</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261016-lapotheose-busca-en-el-prix-du-conseil-de-paris-la-revancha-del-vermeille</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:47:17+02:00</news:publication_date>
-      <news:title>Lapothéose busca en el Prix du Conseil de Paris la revancha del Vermeille</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261016-taranga-medio-hermana-de-tarnawa-y-tahiyra-se-estrena-este-sabado-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:47:16+02:00</news:publication_date>
-      <news:title>Taranga, medio hermana de Tarnawa y Tahiyra, se estrena este sábado en Leopardstown</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261016-el-lote-de-aga-khan-studs-encabeza-el-catalogo-de-la-autumn-hit-sale-de-goffs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-16T20:39:31+02:00</news:publication_date>
-      <news:title>El lote de Aga Khan Studs encabeza el catálogo de la Autumn HIT Sale de Goffs</news:title>
     </news:news>
   </url>
 </urlset>
