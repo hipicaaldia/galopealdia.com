@@ -55,6 +55,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261019-ernst-blofeld-carga-con-el-peso-maximo-en-el-arranque-de-los-all-weather</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261019-soumillon-se-rinde-ante-ombudsman-pocas-veces-he-visto-una-actuacion-asi</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,6 +86,18 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261019-western-fold-resiste-a-fil-dor-por-un-hocico-en-el-american-grand-national</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261019-forever-young-cierra-en-belmont-su-puesta-a-punto-para-la-breeders-cup</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261019-running-in-time-sale-ultimo-y-gana-por-una-cabeza-su-debut-en-belmont-park</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -229,18 +247,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261016-lapotheose-busca-en-el-prix-du-conseil-de-paris-la-revancha-del-vermeille</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261016-taranga-medio-hermana-de-tarnawa-y-tahiyra-se-estrena-este-sabado-en</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261016-ascot-afronta-un-champions-day-sin-cabeza-de-cartel</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -283,7 +289,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-lapotheose-busca-en-el-prix-du-conseil-de-paris-la-revancha-del-vermeille</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261016-talk-of-new-york-llega-como-favorito-a-ascot-con-more-thunder-y-zavateri-al</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-taranga-medio-hermana-de-tarnawa-y-tahiyra-se-estrena-este-sabado-en</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

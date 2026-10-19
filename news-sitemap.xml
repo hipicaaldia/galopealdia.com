@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261019-ernst-blofeld-carga-con-el-peso-maximo-en-el-arranque-de-los-all-weather</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T14:37:49+02:00</news:publication_date>
+      <news:title>Ernst Blofeld carga con el peso máximo en el arranque de los All-Weather Championships</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261019-soumillon-se-rinde-ante-ombudsman-pocas-veces-he-visto-una-actuacion-asi</loc>
     <news:news>
       <news:publication>
@@ -65,6 +76,28 @@
       </news:publication>
       <news:publication_date>2026-10-19T11:03:12+02:00</news:publication_date>
       <news:title>Western Fold resiste a Fil Dor por un hocico en el American Grand National</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261019-forever-young-cierra-en-belmont-su-puesta-a-punto-para-la-breeders-cup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T14:37:49+02:00</news:publication_date>
+      <news:title>Forever Young cierra en Belmont su puesta a punto para la Breeders&amp;#39; Cup</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261019-running-in-time-sale-ultimo-y-gana-por-una-cabeza-su-debut-en-belmont-park</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T14:37:49+02:00</news:publication_date>
+      <news:title>Running In Time sale último y gana por una cabeza su debut en Belmont Park</news:title>
     </news:news>
   </url>
   <url>
@@ -252,39 +285,6 @@
       </news:publication>
       <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
       <news:title>Nevada remonta desde la cola y gana en su debut en Belmont Park</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261017-france-galop-prohibe-el-latigo-detras-de-la-cincha-en-las-carreras-de-amateurs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T12:01:52+02:00</news:publication_date>
-      <news:title>France Galop prohíbe el látigo detrás de la cincha en las carreras de amateurs desde el 15 de noviembre</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261017-metronomique-completa-en-el-prix-orcada-el-camino-al-prix-maurice-gillois-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T12:01:52+02:00</news:publication_date>
-      <news:title>Métronomique completa en el Prix Orcada el camino al Prix Maurice Gillois en Auteuil</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261017-rose-lake-hija-de-frankel-y-sea-la-rosa-debuta-este-domingo-en-parislongchamp</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T12:01:52+02:00</news:publication_date>
-      <news:title>Rose Lake, hija de Frankel y Sea La Rosa, debuta este domingo en ParisLongchamp con Godolphin y Fabre</news:title>
     </news:news>
   </url>
 </urlset>
