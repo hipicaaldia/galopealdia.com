@@ -13,6 +13,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261019-dan-skelton-suma-cien-ganadores-y-se-acerca-a-los-243-de-martin-pipe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T20:41:58+02:00</news:publication_date>
+      <news:title>Dan Skelton suma cien ganadores y se acerca a los 243 de Martin Pipe</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261019-gaelic-warrior-encabeza-las-quinielas-para-la-temporada-de-saltos-2026-27</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T20:41:58+02:00</news:publication_date>
+      <news:title>Gaelic Warrior encabeza las quinielas para la temporada de saltos 2026/27</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261019-ernst-blofeld-carga-con-el-peso-maximo-en-el-arranque-de-los-all-weather</loc>
     <news:news>
       <news:publication>
@@ -76,6 +98,17 @@
       </news:publication>
       <news:publication_date>2026-10-19T11:03:12+02:00</news:publication_date>
       <news:title>Western Fold resiste a Fil Dor por un hocico en el American Grand National</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261019-norteamerica-tendra-16-500-potros-en-2027-500-menos-y-un-56-por-debajo-de-hace</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19T20:41:58+02:00</news:publication_date>
+      <news:title>Norteamérica tendrá 16.500 potros en 2027: 500 menos y un 56 % por debajo de hace veinte años</news:title>
     </news:news>
   </url>
   <url>
@@ -200,17 +233,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261017-ombudsman-deja-sin-respuesta-a-calandagan-en-la-champion-stakes-de-ascot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
-      <news:title>Ombudsman deja sin respuesta a Calandagan en la Champion Stakes de Ascot</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261017-mount-atlas-se-cuela-entre-los-de-ballydoyle-y-gana-la-long-distance-cup-del</loc>
     <news:news>
       <news:publication>
@@ -230,61 +252,6 @@
       </news:publication>
       <news:publication_date>2026-10-17T21:21:58+02:00</news:publication_date>
       <news:title>Talk Of New York abre su cuenta en el Grupo I con el Queen Elizabeth II Stakes de Ascot</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261017-un-hocico-da-a-night-in-vegas-la-two-year-old-conditions-stakes-de-ascot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
-      <news:title>Un hocico da a Night In Vegas la Two-Year-Old Conditions Stakes de Ascot</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261017-ombudsman-invierte-el-orden-de-2025-y-deja-a-calandagan-a-tres-cuerpos-y-tres</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
-      <news:title>Ombudsman invierte el orden de 2025 y deja a Calandagan a tres cuerpos y tres cuartos en Ascot</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261017-almeraq-caza-a-paborus-en-los-ultimos-metros-y-suma-su-tercer-grupo-i-del-ano-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
-      <news:title>Almeraq caza a Paborus en los últimos metros y suma su tercer Grupo I del año en Ascot</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261017-yedsit-hazlewood-operado-del-codo-derecho-estara-de-baja-unos-meses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
-      <news:title>Yedsit Hazlewood, operado del codo derecho, estará de baja «unos meses»</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261017-nevada-remonta-desde-la-cola-y-gana-en-su-debut-en-belmont-park</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-17T20:38:26+02:00</news:publication_date>
-      <news:title>Nevada remonta desde la cola y gana en su debut en Belmont Park</news:title>
     </news:news>
   </url>
 </urlset>

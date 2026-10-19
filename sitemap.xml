@@ -55,6 +55,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261019-dan-skelton-suma-cien-ganadores-y-se-acerca-a-los-243-de-martin-pipe</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261019-gaelic-warrior-encabeza-las-quinielas-para-la-temporada-de-saltos-2026-27</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261019-ernst-blofeld-carga-con-el-peso-maximo-en-el-arranque-de-los-all-weather</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -86,6 +98,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261019-western-fold-resiste-a-fil-dor-por-un-hocico-en-el-american-grand-national</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261019-norteamerica-tendra-16-500-potros-en-2027-500-menos-y-un-56-por-debajo-de-hace</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -241,12 +259,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261016-ryan-moore-sobre-constitution-river-estara-bien-sobre-diez-furlongs-en-ascot</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261016-ascot-afronta-un-champions-day-sin-cabeza-de-cartel</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -290,6 +302,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261016-lapotheose-busca-en-el-prix-du-conseil-de-paris-la-revancha-del-vermeille</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261016-ryan-moore-sobre-constitution-river-estara-bien-sobre-diez-furlongs-en-ascot</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
