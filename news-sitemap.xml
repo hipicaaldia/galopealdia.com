@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261020-hukum-deja-japon-y-cubrira-en-overbury-stud-a-partir-de-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T09:45:53+02:00</news:publication_date>
+      <news:title>Hukum deja Japón y cubrirá en Overbury Stud a partir de 2027</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261020-once-de-diecisiete-aidan-o-brien-copa-el-futurity-trophy-de-doncaster</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T09:45:53+02:00</news:publication_date>
+      <news:title>Once de diecisiete: Aidan O&amp;#39;Brien copa el Futurity Trophy de Doncaster</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261020-idao-de-tillard-llega-invicto-a-toulouse-e-inexess-bleu-busca-la-revancha</loc>
     <news:news>
       <news:publication>
@@ -219,28 +241,6 @@
       </news:publication>
       <news:publication_date>2026-10-19T11:03:11+02:00</news:publication_date>
       <news:title>Monroe Walk aguanta a Garavogue por un cuello y gana invicta el Shuka Sho</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261019-j-gelabert-encabeza-el-balance-del-cuarto-trimestre-del-turf-de-espana-con-5</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T09:03:47+02:00</news:publication_date>
-      <news:title>J. GELABERT encabeza el balance del cuarto trimestre del turf de España con 5 victorias</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261018-resultados-de-la-zarzuela-18-10-majestad-ire-gana-el-gran-premio-memorial-duque</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-18T23:39:14+02:00</news:publication_date>
-      <news:title>Resultados de La Zarzuela (18/10): Majestad (IRE) gana el Gran Premio Memorial Duque de Toledo y J. Gelabert firma un doblete</news:title>
     </news:news>
   </url>
   <url>
