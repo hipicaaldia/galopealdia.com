@@ -57,6 +57,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261020-lovcen-busca-en-el-kikuka-sho-la-triple-corona-que-no-gana-nadie-en-japon-desde</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20T11:31:54+02:00</news:publication_date>
+      <news:title>Lovcen busca en el Kikuka Sho la Triple Corona que no gana nadie en Japón desde 2020</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261019-el-fin-de-semana-turf-gran-criterium-en-la-zarzuela-cox-plate-y-kikuka-sho</loc>
     <news:news>
       <news:publication>
@@ -230,17 +241,6 @@
       </news:publication>
       <news:publication_date>2026-10-19T14:37:49+02:00</news:publication_date>
       <news:title>Running In Time sale último y gana por una cabeza su debut en Belmont Park</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261019-monroe-walk-aguanta-a-garavogue-por-un-cuello-y-gana-invicta-el-shuka-sho</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-19T11:03:11+02:00</news:publication_date>
-      <news:title>Monroe Walk aguanta a Garavogue por un cuello y gana invicta el Shuka Sho</news:title>
     </news:news>
   </url>
   <url>
