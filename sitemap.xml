@@ -67,6 +67,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261022-aidan-o-brien-busca-su-13-a-futurity-trophy-con-tres-de-los-siete-en-doncaster</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261022-auteuil-abre-jueves-de-quinte-con-el-prix-andre-adele-y-ocho-carreras</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261022-wilful-gana-el-panoramic-hurdle-en-carlisle-y-apunta-al-fighting-fifth</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -86,6 +98,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261022-chattering-classes-deja-de-ser-maiden-en-el-group-3-staffordstown-stud-stakes</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261022-notable-speech-se-despedira-de-la-pista-en-la-breeders-cup-mile-de-keeneland</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -223,12 +241,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261019-norteamerica-tendra-16-500-potros-en-2027-500-menos-y-un-56-por-debajo-de-hace</loc>
-    <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261019-forever-young-cierra-en-belmont-su-puesta-a-punto-para-la-breeders-cup</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -242,6 +254,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261019-monroe-walk-aguanta-a-garavogue-por-un-cuello-y-gana-invicta-el-shuka-sho</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261019-norteamerica-tendra-16-500-potros-en-2027-500-menos-y-un-56-por-debajo-de-hace</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -325,14 +343,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261018-movie-night-caza-a-mythical-en-la-recta-y-estrena-su-palmares-en-grupos-en-el</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20261018-magnitude-y-stradale-marcan-los-mejores-cronos-de-la-manana-en-keeneland-antes</loc>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261018-magnitude-y-stradale-marcan-los-mejores-cronos-de-la-manana-en-keeneland-antes</loc>
-    <lastmod>2026-10-18</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20261018-movie-night-caza-a-mythical-en-la-recta-y-estrena-su-palmares-en-grupos-en-el</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
