@@ -2,17 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261025-pronostico-la-zarzuela-domingo-25-de-octubre-dragon-force-ire-favorito-en-el</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T19:13:14+02:00</news:publication_date>
-      <news:title>Pronóstico La Zarzuela (domingo 25 de octubre): Dragon Force (IRE), favorito en el Premio Gran Criterium</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261022-la-zarzuela-fija-47-jornadas-para-2027-y-suma-el-12-de-octubre-al-calendario</loc>
     <news:news>
       <news:publication>
@@ -32,6 +21,17 @@
       </news:publication>
       <news:publication_date>2026-10-22T14:46:27+02:00</news:publication_date>
       <news:title>Lasarte tendrá 18 jornadas en 2027, con la Copa de Oro el 15 de agosto</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261022-wilful-gana-el-panoramic-hurdle-en-carlisle-y-apunta-al-fighting-fifth</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T20:05:21+02:00</news:publication_date>
+      <news:title>Wilful gana el Panoramic Hurdle en Carlisle y apunta al Fighting Fifth</news:title>
     </news:news>
   </url>
   <url>
