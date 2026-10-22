@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261022-cheltenham-declara-72-participantes-para-la-segunda-jornada-del-william-hill</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T14:08:57+02:00</news:publication_date>
+      <news:title>Cheltenham declara 72 participantes para la segunda jornada del William Hill Showcase</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261022-toulouse-abre-el-quinte-con-cuatro-nombres-que-merecen-atencion</loc>
     <news:news>
       <news:publication>
@@ -35,6 +46,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261022-kieren-fox-recurre-ante-el-panel-disciplinario-su-suspension-de-10-dias-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22T14:08:57+02:00</news:publication_date>
+      <news:title>Kieren Fox recurre ante el Panel Disciplinario su suspensión de 10 días en Wolverhampton</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261022-bay-city-roller-sigue-adelante-hacia-la-breeders-cup-turf-de-keeneland</loc>
     <news:news>
       <news:publication>
@@ -54,17 +76,6 @@
       </news:publication>
       <news:publication_date>2026-10-21T09:34:51+02:00</news:publication_date>
       <news:title>Flavian Prat montará a Libertango en la Breeders&amp;#39; Cup en lugar de Billy Loughnane</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261020-lovcen-busca-en-el-kikuka-sho-la-triple-corona-que-no-gana-nadie-en-japon-desde</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-20T11:31:54+02:00</news:publication_date>
-      <news:title>Lovcen busca en el Kikuka Sho la Triple Corona que no gana nadie en Japón desde 2020</news:title>
     </news:news>
   </url>
 </urlset>
