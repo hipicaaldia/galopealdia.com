@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261023-goffs-cierra-el-lunes-las-inscripciones-para-su-showcase-de-nh-en-doncaster</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T17:02:31+02:00</news:publication_date>
+      <news:title>Goffs cierra el lunes las inscripciones para su Showcase de NH en Doncaster</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261022-san-sebastian-fija-18-jornadas-para-2027-con-la-copa-de-oro-el-15-de-agosto</loc>
     <news:news>
       <news:publication>
@@ -307,17 +318,6 @@
       </news:publication>
       <news:publication_date>2026-10-23T08:29:36+02:00</news:publication_date>
       <news:title>La cría británica e irlandesa cae a 11.312 potros, un 2,4% menos que en 2025, con Starman al frente de los sementales</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261021-flavian-prat-montara-a-libertango-en-la-breeders-cup-en-lugar-de-billy-loughnane</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-21T09:34:51+02:00</news:publication_date>
-      <news:title>Flavian Prat montará a Libertango en la Breeders&amp;#39; Cup en lugar de Billy Loughnane</news:title>
     </news:news>
   </url>
 </urlset>
