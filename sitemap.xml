@@ -2,55 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.galopealdia.com/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/espana</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/actualidad</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/pronosticos</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/estadistica</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/europa</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/internacional</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/cria</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261025-pronostico-la-zarzuela-domingo-25-de-octubre-dragon-force-ire-favorito-en-el</loc>
     <lastmod>2026-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261022-san-sebastian-fija-18-jornadas-para-2027-con-la-copa-de-oro-el-15-de-agosto</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261022-ombudsman-no-viajara-a-la-breeders-cup-la-japan-cup-sigue-en-el-aire</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -63,6 +75,18 @@
   <url>
     <loc>https://www.galopealdia.com/noticias/20261022-lasarte-tendra-18-jornadas-en-2027-con-la-copa-de-oro-el-15-de-agosto</loc>
     <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261022-la-tormenta-austen-deja-a-newbury-sin-reunion-del-viernes-y-pone-en-el-aire-el</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261022-france-galop-permite-las-mantas-de-terapia-en-los-hipodromos-de-galop-los-dias</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -103,6 +127,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261022-record-historico-de-la-breeders-cup-255-preinscripciones-y-79-extranjeros-para</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261022-notable-speech-se-despedira-de-la-pista-en-la-breeders-cup-mile-de-keeneland</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -121,6 +151,78 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261021-almeraq-tres-grupo-i-en-2026-se-retira-y-sera-semental-en-beech-house-stud</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261021-ben-pauling-llega-a-2026-27-con-94-ganadores-record-de-premios-y-the-jukebox-man</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261021-lucio-vero-gana-por-cuerpo-y-medio-los-3-000-metros-del-prix-de-la-societe-des</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261021-auteuil-se-viste-de-estacion-de-esqui-para-los-48h-de-l-obstacle</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261021-ralph-fiennes-protagonizara-unbeaten-el-biopic-sobre-sir-henry-cecil-y-frankel</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261021-la-william-hill-showcase-abre-cheltenham-con-22-ganadores-del-festival-en-su</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261021-cheltenham-abre-el-william-hill-showcase-con-siete-carreras-y-un-grado-2-de</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261021-la-bha-aplaza-el-arranque-de-fakenham-y-reajusta-el-calendario-de-obstaculos</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261021-blue-bolt-llega-a-las-preinscripciones-de-la-breeders-cup-con-dos-opciones-en</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261021-danehill-el-hijo-de-danzig-que-fundo-una-dinastia-global-entre-coolmore-y</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261021-al-riffa-y-my-prospero-refuerzan-la-nomina-de-capital-stud-para-la-cubricion-de</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261021-la-cria-britanica-e-irlandesa-cae-a-11-312-potros-un-24-menos-que-en-2025-con</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261021-flavian-prat-montara-a-libertango-en-la-breeders-cup-en-lugar-de-billy-loughnane</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -128,12 +230,6 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261020-hukum-deja-japon-y-cubrira-en-overbury-stud-a-partir-de-2027</loc>
-    <lastmod>2026-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261020-once-de-diecisiete-aidan-o-brien-copa-el-futurity-trophy-de-doncaster</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -157,6 +253,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261020-once-de-diecisiete-aidan-o-brien-copa-el-futurity-trophy-de-doncaster</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261020-lovcen-busca-en-el-kikuka-sho-la-triple-corona-que-no-gana-nadie-en-japon-desde</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -169,14 +271,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261019-el-vertem-futurity-trophy-de-doncaster-cierra-el-sabado-el-calendario-britanico</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20261019-dan-skelton-suma-cien-ganadores-y-se-acerca-a-los-243-de-martin-pipe</loc>
+    <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261019-dan-skelton-suma-cien-ganadores-y-se-acerca-a-los-243-de-martin-pipe</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20261019-el-vertem-futurity-trophy-de-doncaster-cierra-el-sabado-el-calendario-britanico</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -223,14 +325,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261019-la-fasig-tipton-october-sale-abre-esta-tarde-en-lexington-con-un-cuadro-de-1-189</loc>
-    <lastmod>2026-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261019-malibu-smart-paga-14-1-y-se-lleva-el-dowager-stakes-de-keeneland</loc>
-    <lastmod>2026-10-20</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20261019-forever-young-cierra-en-belmont-su-puesta-a-punto-para-la-breeders-cup</loc>
+    <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -241,14 +337,20 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261019-forever-young-cierra-en-belmont-su-puesta-a-punto-para-la-breeders-cup</loc>
+    <loc>https://www.galopealdia.com/noticias/20261019-j-gelabert-encabeza-el-balance-del-cuarto-trimestre-del-turf-de-espana-con-5</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261019-j-gelabert-encabeza-el-balance-del-cuarto-trimestre-del-turf-de-espana-con-5</loc>
-    <lastmod>2026-10-19</lastmod>
+    <loc>https://www.galopealdia.com/noticias/20261019-la-fasig-tipton-october-sale-abre-esta-tarde-en-lexington-con-un-cuadro-de-1-189</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261019-malibu-smart-paga-14-1-y-se-lleva-el-dowager-stakes-de-keeneland</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -295,7 +397,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261018-mount-atlas-un-grupo-i-criado-y-preparado-en-casa-por-los-balding-en-ascot</loc>
+    <loc>https://www.galopealdia.com/noticias/20261018-capability-brown-lleva-a-aidan-o-brien-a-su-17a-killavullan-stakes-en</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261018-come-what-may-saca-seis-cuerpos-en-el-trigo-stakes-y-alarga-la-racha-de-lordan</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -307,14 +415,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261018-come-what-may-saca-seis-cuerpos-en-el-trigo-stakes-y-alarga-la-racha-de-lordan</loc>
+    <loc>https://www.galopealdia.com/noticias/20261018-mount-atlas-un-grupo-i-criado-y-preparado-en-casa-por-los-balding-en-ascot</loc>
     <lastmod>2026-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261018-capability-brown-lleva-a-aidan-o-brien-a-su-17a-killavullan-stakes-en</loc>
-    <lastmod>2026-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -332,12 +434,6 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261018-kingswood-se-lleva-la-150-a-edicion-del-caulfield-cup-en-una-tarde-marcada-por</loc>
-    <lastmod>2026-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261018-un-cuello-y-a-24-1-dr-kapur-sorprende-en-el-perryville-stakes-de-keeneland</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -363,6 +459,12 @@
   <url>
     <loc>https://www.galopealdia.com/noticias/20261018-tempted-frena-a-ka-ying-rising-en-el-everest-y-da-a-godolphin-su-primer-triunfo</loc>
     <lastmod>2026-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261018-un-cuello-y-a-24-1-dr-kapur-sorprende-en-el-perryville-stakes-de-keeneland</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5132,37 +5234,37 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/galope</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/obstaculos_turf</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/estadisticas/caballos/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/estadisticas/jinetes/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/estadisticas/preparadores/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/estadisticas/propietarios/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
