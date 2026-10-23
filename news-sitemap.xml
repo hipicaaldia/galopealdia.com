@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261023-entrust-primer-hijo-de-enable-en-pista-gana-en-su-debut-en-doncaster-y-ya-es-20</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T23:38:33+02:00</news:publication_date>
+      <news:title>Entrust, primer hijo de Enable en pista, gana en su debut en Doncaster y ya es 20/1 para el Derby</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261023-goffs-cierra-el-lunes-las-inscripciones-para-su-showcase-de-nh-en-doncaster</loc>
     <news:news>
       <news:publication>
@@ -10,6 +21,17 @@
       </news:publication>
       <news:publication_date>2026-10-23T17:02:31+02:00</news:publication_date>
       <news:title>Goffs cierra el lunes las inscripciones para su Showcase de NH en Doncaster</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261023-far-bridge-trabaja-cuatro-furlongs-en-belmont-antes-de-la-breeders-cup-turf</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-23T23:38:33+02:00</news:publication_date>
+      <news:title>Far Bridge trabaja cuatro furlongs en Belmont antes de la Breeders&amp;#39; Cup Turf</news:title>
     </news:news>
   </url>
   <url>
@@ -175,17 +197,6 @@
       </news:publication>
       <news:publication_date>2026-10-22T14:08:57+02:00</news:publication_date>
       <news:title>Kieren Fox recurre ante el Panel Disciplinario su suspensión de 10 días en Wolverhampton</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261022-bay-city-roller-sigue-adelante-hacia-la-breeders-cup-turf-de-keeneland</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T09:48:23+02:00</news:publication_date>
-      <news:title>Bay City Roller sigue adelante hacia la Breeders&amp;#39; Cup Turf de Keeneland</news:title>
     </news:news>
   </url>
   <url>
