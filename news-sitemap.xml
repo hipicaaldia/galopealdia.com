@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261024-splendora-built-y-las-dos-de-cox-ultiman-en-churchill-el-camino-a-la-breeders</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T14:37:55+02:00</news:publication_date>
+      <news:title>Splendora, Built y las dos de Cox ultiman en Churchill el camino a la Breeders&amp;#39; Cup</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261023-entrust-primer-hijo-de-enable-en-pista-gana-en-su-debut-en-doncaster-y-ya-es-20</loc>
     <news:news>
       <news:publication>
@@ -134,39 +145,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261022-cheltenham-declara-72-participantes-para-la-segunda-jornada-del-william-hill</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:08:57+02:00</news:publication_date>
-      <news:title>Cheltenham declara 72 participantes para la segunda jornada del William Hill Showcase</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261022-toulouse-abre-el-quinte-con-cuatro-nombres-que-merecen-atencion</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T09:48:23+02:00</news:publication_date>
-      <news:title>Toulouse abre el Quinté+ con cuatro nombres que merecen atención</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261022-chattering-classes-deja-de-ser-maiden-en-el-group-3-staffordstown-stud-stakes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T09:48:23+02:00</news:publication_date>
-      <news:title>Chattering Classes deja de ser maiden en el Group 3 Staffordstown Stud Stakes</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261022-record-historico-de-la-breeders-cup-255-preinscripciones-y-79-extranjeros-para</loc>
     <news:news>
       <news:publication>
@@ -186,17 +164,6 @@
       </news:publication>
       <news:publication_date>2026-10-22T21:21:49+02:00</news:publication_date>
       <news:title>Notable Speech se despedirá de la pista en la Breeders&amp;#39; Cup Mile de Keeneland</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261022-kieren-fox-recurre-ante-el-panel-disciplinario-su-suspension-de-10-dias-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:08:57+02:00</news:publication_date>
-      <news:title>Kieren Fox recurre ante el Panel Disciplinario su suspensión de 10 días en Wolverhampton</news:title>
     </news:news>
   </url>
   <url>
