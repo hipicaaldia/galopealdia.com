@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261024-magnitude-abre-el-desfile-de-trabajos-en-keeneland-a-una-semana-de-la-breeders</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-24T20:37:22+02:00</news:publication_date>
+      <news:title>Magnitude abre el desfile de trabajos en Keeneland a una semana de la Breeders&amp;#39; Cup</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261024-splendora-built-y-las-dos-de-cox-ultiman-en-churchill-el-camino-a-la-breeders</loc>
     <news:news>
       <news:publication>
@@ -68,28 +79,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261022-la-zarzuela-fija-47-jornadas-para-2027-y-suma-el-12-de-octubre-al-calendario</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:46:27+02:00</news:publication_date>
-      <news:title>La Zarzuela fija 47 jornadas para 2027 y suma el 12 de octubre al calendario</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261022-lasarte-tendra-18-jornadas-en-2027-con-la-copa-de-oro-el-15-de-agosto</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:46:27+02:00</news:publication_date>
-      <news:title>Lasarte tendrá 18 jornadas en 2027, con la Copa de Oro el 15 de agosto</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261022-la-tormenta-austen-deja-a-newbury-sin-reunion-del-viernes-y-pone-en-el-aire-el</loc>
     <news:news>
       <news:publication>
@@ -131,17 +120,6 @@
       </news:publication>
       <news:publication_date>2026-10-22T21:21:49+02:00</news:publication_date>
       <news:title>Auteuil abre jueves de Quinté+ con el Prix André Adèle y ocho carreras</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261022-wilful-gana-el-panoramic-hurdle-en-carlisle-y-apunta-al-fighting-fifth</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T20:05:21+02:00</news:publication_date>
-      <news:title>Wilful gana el Panoramic Hurdle en Carlisle y apunta al Fighting Fifth</news:title>
     </news:news>
   </url>
   <url>
