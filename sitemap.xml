@@ -49,6 +49,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261101-pronostico-la-zarzuela-domingo-1-de-noviembre-going-commando-ire-favorito-en-el</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261025-dan-skelton-llega-al-millon-de-libras-en-premios-mas-rapido-que-nadie-en</loc>
     <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -247,12 +253,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261022-france-galop-permite-las-mantas-de-terapia-en-los-hipodromos-de-galop-los-dias</loc>
-    <lastmod>2026-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261022-aidan-o-brien-busca-su-13-a-futurity-trophy-con-tres-de-los-siete-en-doncaster</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -273,6 +273,12 @@
   <url>
     <loc>https://www.galopealdia.com/noticias/20261022-cheltenham-declara-72-participantes-para-la-segunda-jornada-del-william-hill</loc>
     <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261022-france-galop-permite-las-mantas-de-terapia-en-los-hipodromos-de-galop-los-dias</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
