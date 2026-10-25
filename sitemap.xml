@@ -49,6 +49,24 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261025-dan-skelton-llega-al-millon-de-libras-en-premios-mas-rapido-que-nadie-en</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261025-game-of-storm-pone-en-juego-su-titulo-en-el-grand-steeple-chase-de-compiegne</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261025-classic-q-llega-a-la-breeders-cup-con-tres-grupos-y-una-venta-en-el-horizonte</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261025-pronostico-la-zarzuela-domingo-25-de-octubre-dragon-force-ire-favorito-en-el</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -295,12 +313,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261021-lucio-vero-gana-por-cuerpo-y-medio-los-3-000-metros-del-prix-de-la-societe-des</loc>
-    <lastmod>2026-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261021-auteuil-se-viste-de-estacion-de-esqui-para-los-48h-de-l-obstacle</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -319,25 +331,25 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261021-lucio-vero-gana-por-cuerpo-y-medio-los-3-000-metros-del-prix-de-la-societe-des</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261021-ralph-fiennes-protagonizara-unbeaten-el-biopic-sobre-sir-henry-cecil-y-frankel</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261021-la-bha-aplaza-el-arranque-de-fakenham-y-reajusta-el-calendario-de-obstaculos</loc>
+    <loc>https://www.galopealdia.com/noticias/20261021-al-riffa-y-my-prospero-refuerzan-la-nomina-de-capital-stud-para-la-cubricion-de</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261021-blue-bolt-llega-a-las-preinscripciones-de-la-breeders-cup-con-dos-opciones-en</loc>
-    <lastmod>2026-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261021-al-riffa-y-my-prospero-refuerzan-la-nomina-de-capital-stud-para-la-cubricion-de</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -351,6 +363,12 @@
   <url>
     <loc>https://www.galopealdia.com/noticias/20261021-flavian-prat-montara-a-libertango-en-la-breeders-cup-en-lugar-de-billy-loughnane</loc>
     <lastmod>2026-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261021-la-bha-aplaza-el-arranque-de-fakenham-y-reajusta-el-calendario-de-obstaculos</loc>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5366,13 +5384,13 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/galope</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.galopealdia.com/calendario/obstaculos_turf</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

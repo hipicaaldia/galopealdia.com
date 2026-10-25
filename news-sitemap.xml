@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261025-dan-skelton-llega-al-millon-de-libras-en-premios-mas-rapido-que-nadie-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T08:38:46+01:00</news:publication_date>
+      <news:title>Dan Skelton llega al millón de libras en premios más rápido que nadie en obstáculos</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261025-game-of-storm-pone-en-juego-su-titulo-en-el-grand-steeple-chase-de-compiegne</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T08:38:46+01:00</news:publication_date>
+      <news:title>Game of Storm pone en juego su título en el Grand Steeple-Chase de Compiègne</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261025-classic-q-llega-a-la-breeders-cup-con-tres-grupos-y-una-venta-en-el-horizonte</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T08:38:46+01:00</news:publication_date>
+      <news:title>Classic Q llega a la Breeders&amp;#39; Cup con tres Grupos y una venta en el horizonte</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261024-un-bono-de-10-000-libras-premiara-a-los-criadores-de-caballos-de-obstaculos</loc>
     <news:news>
       <news:publication>
