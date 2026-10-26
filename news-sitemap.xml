@@ -13,6 +13,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261026-drumbeat-da-a-aidan-o-brien-su-septimo-criterium-de-saint-cloud</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T09:03:38+01:00</news:publication_date>
+      <news:title>Drumbeat da a Aidan O&amp;#39;Brien su séptimo Critérium de Saint-Cloud</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261026-stingray-gana-en-solitario-el-premio-del-jockey-club-de-milan-constitution-hill</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T09:03:38+01:00</news:publication_date>
+      <news:title>Stingray gana en solitario el Premio del Jockey Club de Milán; Constitution Hill, quinto</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261025-dan-skelton-llega-al-millon-de-libras-en-premios-mas-rapido-que-nadie-en</loc>
     <news:news>
       <news:publication>
@@ -222,17 +244,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261023-entrust-primer-hijo-de-enable-en-pista-gana-en-su-debut-en-doncaster-y-ya-es-20</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T23:38:33+02:00</news:publication_date>
-      <news:title>Entrust, primer hijo de Enable en pista, gana en su debut en Doncaster y ya es 20/1 para el Derby</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261023-donald-mccain-comparece-el-lunes-ante-el-panel-disciplinario-de-la-bha-por</loc>
     <news:news>
       <news:publication>
@@ -285,17 +296,6 @@
       </news:publication>
       <news:publication_date>2026-10-25T08:26:28+01:00</news:publication_date>
       <news:title>255 inscripciones previas, récord para la Breeders&amp;#39; Cup de Keeneland</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261023-far-bridge-trabaja-cuatro-furlongs-en-belmont-antes-de-la-breeders-cup-turf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-23T23:38:33+02:00</news:publication_date>
-      <news:title>Far Bridge trabaja cuatro furlongs en Belmont antes de la Breeders&amp;#39; Cup Turf</news:title>
     </news:news>
   </url>
 </urlset>
