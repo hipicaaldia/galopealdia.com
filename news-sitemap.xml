@@ -24,6 +24,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261026-buckley-sale-en-defensa-de-constitution-hill-que-se-metan-el-cuello-dentro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T19:47:36+01:00</news:publication_date>
+      <news:title>Buckley sale en defensa de Constitution Hill: «Que se metan el cuello dentro»</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261026-queenstown-manda-de-cabo-a-rabo-en-el-prix-royal-oak-y-da-a-galileo-su-grupo-i</loc>
     <news:news>
       <news:publication>
@@ -54,6 +65,17 @@
       </news:publication>
       <news:publication_date>2026-10-26T09:03:38+01:00</news:publication_date>
       <news:title>Stingray gana en solitario el Premio del Jockey Club de Milán; Constitution Hill, quinto</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261026-comanche-brave-ira-a-por-bacio-en-la-breeders-cup-turf-sprint</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-26T19:47:36+01:00</news:publication_date>
+      <news:title>Comanche Brave irá a por Bacio en la Breeders&amp;#39; Cup Turf Sprint</news:title>
     </news:news>
   </url>
   <url>
@@ -186,17 +208,6 @@
       </news:publication>
       <news:publication_date>2026-10-24T20:37:22+02:00</news:publication_date>
       <news:title>Magnitude abre el desfile de trabajos en Keeneland a una semana de la Breeders&amp;#39; Cup</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261024-splendora-built-y-las-dos-de-cox-ultiman-en-churchill-el-camino-a-la-breeders</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T14:37:55+02:00</news:publication_date>
-      <news:title>Splendora, Built y las dos de Cox ultiman en Churchill el camino a la Breeders&amp;#39; Cup</news:title>
     </news:news>
   </url>
   <url>
