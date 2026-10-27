@@ -61,6 +61,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261027-haiti-couleurs-unico-aspirante-britanico-en-la-champion-chase-de-down-royal</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261027-idaho-sun-favorito-entre-los-44-inscritos-del-greatwood-hurdle-de-cheltenham</loc>
     <lastmod>2026-10-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -217,12 +223,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261023-newbury-suspende-la-jornada-del-viernes-y-deja-en-el-aire-la-del-sabado</loc>
-    <lastmod>2026-10-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261023-entrust-primer-hijo-de-enable-en-pista-gana-en-su-debut-en-doncaster-y-ya-es-20</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -231,6 +231,12 @@
   <url>
     <loc>https://www.galopealdia.com/noticias/20261023-goffs-cierra-el-lunes-las-inscripciones-para-su-showcase-de-nh-en-doncaster</loc>
     <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261023-newbury-suspende-la-jornada-del-viernes-y-deja-en-el-aire-la-del-sabado</loc>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
