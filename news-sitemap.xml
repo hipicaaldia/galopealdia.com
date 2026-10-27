@@ -2,14 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261101-pronostico-la-zarzuela-domingo-1-de-noviembre-going-commando-ire-favorito-en-el</loc>
+    <loc>https://www.galopealdia.com/noticias/20261101-pronostico-la-zarzuela-domingo-1-de-noviembre-la-llosa-fr-favorita-en-el-gran</loc>
     <news:news>
       <news:publication>
         <news:name>Galope al Día</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-10-25T20:21:42+01:00</news:publication_date>
-      <news:title>Pronóstico La Zarzuela (domingo 1 de noviembre): Going Commando (IRE), favorito en el Premio 213. Premio Roque Nublo</news:title>
+      <news:publication_date>2026-10-27T19:28:18+01:00</news:publication_date>
+      <news:title>Pronóstico La Zarzuela (domingo 1 de noviembre): La Llosa (FR), favorita en el Gran Premio 85º Aniversario Del Hipódromo De La Zarzuela (1941-2026) (Categoría A)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261027-idaho-sun-favorito-entre-los-44-inscritos-del-greatwood-hurdle-de-cheltenham</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T19:28:18+01:00</news:publication_date>
+      <news:title>Idaho Sun, favorito entre los 44 inscritos del Greatwood Hurdle de Cheltenham</news:title>
     </news:news>
   </url>
   <url>
@@ -76,259 +87,6 @@
       </news:publication>
       <news:publication_date>2026-10-26T19:47:36+01:00</news:publication_date>
       <news:title>Comanche Brave irá a por Bacio en la Breeders&amp;#39; Cup Turf Sprint</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261025-dan-skelton-llega-al-millon-de-libras-en-premios-mas-rapido-que-nadie-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:38:46+01:00</news:publication_date>
-      <news:title>Dan Skelton llega al millón de libras en premios más rápido que nadie en obstáculos</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261025-game-of-storm-pone-en-juego-su-titulo-en-el-grand-steeple-chase-de-compiegne</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:38:46+01:00</news:publication_date>
-      <news:title>Game of Storm pone en juego su título en el Grand Steeple-Chase de Compiègne</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261025-sierra-leone-y-fierceness-repiten-duelo-en-el-classic-antes-de-pasar-juntos-a</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T12:36:14+01:00</news:publication_date>
-      <news:title>Sierra Leone y Fierceness repiten duelo en el Classic antes de pasar juntos a Ashford Stud</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261025-going-to-sky-gana-el-kikuka-sho-y-lovcen-se-queda-sin-la-triple-corona-japonesa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T11:54:59+01:00</news:publication_date>
-      <news:title>Going to Sky gana el Kikuka Sho y Lovcen se queda sin la Triple Corona japonesa</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261025-classic-q-llega-a-la-breeders-cup-con-tres-grupos-y-una-venta-en-el-horizonte</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:38:46+01:00</news:publication_date>
-      <news:title>Classic Q llega a la Breeders&amp;#39; Cup con tres Grupos y una venta en el horizonte</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261024-un-bono-de-10-000-libras-premiara-a-los-criadores-de-caballos-de-obstaculos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:31+01:00</news:publication_date>
-      <news:title>Un bono de 10.000 libras premiará a los criadores de caballos de obstáculos nacidos en Gran Bretaña</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261024-doncaster-pesado-de-arriba-abajo-shipbourne-y-shafdar-a-prueba-en-el-barro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:31+01:00</news:publication_date>
-      <news:title>Doncaster, pesado de arriba abajo: Shipbourne y Shafdar, a prueba en el barro</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261024-los-skelton-firman-un-doblete-14-1-en-la-segunda-jornada-del-showcase-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:31+01:00</news:publication_date>
-      <news:title>Los Skelton firman un doblete 14-1 en la segunda jornada del Showcase de Cheltenham</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261024-doncaster-y-saint-cloud-miden-a-los-candidatos-clasicos-de-2027-sobre-terreno</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:30+01:00</news:publication_date>
-      <news:title>Doncaster y Saint-Cloud miden a los candidatos clásicos de 2027 sobre terreno blando</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261024-libertango-buscara-en-keeneland-el-primer-breeders-cup-de-george-boughey</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:31+01:00</news:publication_date>
-      <news:title>Libertango buscará en Keeneland el primer Breeders&amp;#39; Cup de George Boughey</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261024-americathegreat-se-estrena-en-el-grupo-con-la-sands-point-stakes-de-belmont</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:31+01:00</news:publication_date>
-      <news:title>Americathegreat se estrena en el grupo con la Sands Point Stakes de Belmont</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261024-magnitude-abre-el-desfile-de-trabajos-en-keeneland-a-una-semana-de-la-breeders</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-24T20:37:22+02:00</news:publication_date>
-      <news:title>Magnitude abre el desfile de trabajos en Keeneland a una semana de la Breeders&amp;#39; Cup</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261023-double-major-se-despide-en-el-prix-royal-oak-la-cumbre-de-saint-cloud</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:30+01:00</news:publication_date>
-      <news:title>Double Major se despide en el Prix Royal-Oak, la cumbre de Saint-Cloud</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261023-kingofthefrontier-20-1-y-jpr-one-brillan-en-el-regreso-de-cheltenham</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:30+01:00</news:publication_date>
-      <news:title>Kingofthefrontier (20-1) y JPR One brillan en el regreso de Cheltenham</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261023-goffs-recupera-en-diciembre-su-venta-tingle-creek-de-point-to-pointers-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:29+01:00</news:publication_date>
-      <news:title>Goffs recupera en diciembre su venta Tingle Creek de point-to-pointers en Sandown</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261023-entrust-hijo-de-enable-y-dubawi-debuta-este-viernes-en-doncaster</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:29+01:00</news:publication_date>
-      <news:title>Entrust, hijo de Enable y Dubawi, debuta este viernes en Doncaster</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261023-la-bha-traslada-a-newmarket-el-st-simon-stakes-y-el-horris-hill-tras-suspenderse</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:29+01:00</news:publication_date>
-      <news:title>La BHA traslada a Newmarket el St Simon Stakes y el Horris Hill tras suspenderse Newbury</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261023-newbury-suspende-la-jornada-del-viernes-y-deja-en-el-aire-la-del-sabado</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:28+01:00</news:publication_date>
-      <news:title>Newbury suspende la jornada del viernes y deja en el aire la del sábado</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261023-donald-mccain-comparece-el-lunes-ante-el-panel-disciplinario-de-la-bha-por</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:30+01:00</news:publication_date>
-      <news:title>Donald McCain comparece el lunes ante el Panel Disciplinario de la BHA por Aotano</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261023-richard-fahey-manda-a-mussab-a-keeneland-es-tan-caliente-como-un-juvenile-sprint</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:30+01:00</news:publication_date>
-      <news:title>Richard Fahey manda a Mussab a Keeneland: «Es tan caliente como un Juvenile Sprint que haya visto»</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261023-adonius-se-queda-sexto-en-la-also-eligible-de-la-breeders-cup-juvenile-turf</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:29+01:00</news:publication_date>
-      <news:title>Adonius se queda sexto en la also-eligible de la Breeders&amp;#39; Cup Juvenile Turf Sprint</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261023-irad-ortiz-jr-se-rompe-el-tobillo-en-keeneland-a-ocho-dias-de-la-breeders-cup</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:29+01:00</news:publication_date>
-      <news:title>Irad Ortiz Jr. se rompe el tobillo en Keeneland a ocho días de la Breeders&amp;#39; Cup</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261023-255-inscripciones-previas-record-para-la-breeders-cup-de-keeneland</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T08:26:28+01:00</news:publication_date>
-      <news:title>255 inscripciones previas, récord para la Breeders&amp;#39; Cup de Keeneland</news:title>
     </news:news>
   </url>
 </urlset>
