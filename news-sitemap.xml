@@ -200,17 +200,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261026-reina-sioux-gana-de-punta-a-punta-el-gran-criterium-patrocinado-por-mahou</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T13:03:12+01:00</news:publication_date>
-      <news:title>Reina Sioux gana de punta a punta el Gran Critérium patrocinado por Mahou</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261026-i-am-maximus-apunta-a-un-tercer-grand-national-con-la-ruta-del-ano-pasado</loc>
     <news:news>
       <news:publication>
@@ -255,28 +244,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261026-buckley-sale-en-defensa-de-constitution-hill-que-se-metan-el-cuello-dentro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T19:47:36+01:00</news:publication_date>
-      <news:title>Buckley sale en defensa de Constitution Hill: «Que se metan el cuello dentro»</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261026-queenstown-manda-de-cabo-a-rabo-en-el-prix-royal-oak-y-da-a-galileo-su-grupo-i</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T13:36:50+01:00</news:publication_date>
-      <news:title>Queenstown manda de cabo a rabo en el Prix Royal-Oak y da a Galileo su Grupo I número 105</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261026-la-breeders-cup-cierra-inscripciones-este-lunes-y-sortea-los-cuadros-de</loc>
     <news:news>
       <news:publication>
@@ -318,17 +285,6 @@
       </news:publication>
       <news:publication_date>2026-10-28T08:29:03+01:00</news:publication_date>
       <news:title>Henderson insiste en el liso con Constitution Hill tras el 5.º en San Siro y mira al Ebor, al Irish St Leger y a Francia</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261026-comanche-brave-ira-a-por-bacio-en-la-breeders-cup-turf-sprint</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T19:47:36+01:00</news:publication_date>
-      <news:title>Comanche Brave irá a por Bacio en la Breeders&amp;#39; Cup Turf Sprint</news:title>
     </news:news>
   </url>
 </urlset>
