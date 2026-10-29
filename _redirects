@@ -16,3 +16,7 @@
 /noticias/20261003-time-tight-deja-a-majestad-sin-la-triple-corona-en-el-gran-premio-villamejor /noticias/20260927-time-tight-sorprende-en-el-gran-premio-villamejor-y-frustra-la-triple-corona 301
 /noticias/20261003-la-zarzuela-reabre-el-10-de-septiembre-con-nueve-grandes-premios-hasta-noviembre.html /calendario 301
 /noticias/20261003-la-zarzuela-reabre-el-10-de-septiembre-con-nueve-grandes-premios-hasta-noviembre /calendario 301
+
+# backstage: noticias eliminadas desde el panel (estas líneas se quitan solas al recuperarlas)
+/noticias/20261101-pronostico-la-zarzuela-domingo-1-de-noviembre-going-commando-ire-favorito-en-el.html / 301
+/noticias/20261101-pronostico-la-zarzuela-domingo-1-de-noviembre-going-commando-ire-favorito-en-el / 301
