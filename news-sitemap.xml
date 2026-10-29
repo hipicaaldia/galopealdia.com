@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261029-aniol-gana-por-una-cabeza-el-prix-du-vergaly-de-deauville-a-un-precio-largo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T13:42:34+01:00</news:publication_date>
+      <news:title>Aniol gana por una cabeza el Prix du Vergaly de Deauville a un precio largo</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261029-oisin-murphy-pondra-fin-este-ano-a-su-papel-como-jinete-retenido-por-qatar</loc>
     <news:news>
       <news:publication>
@@ -20,7 +31,18 @@
         <news:language>es</news:language>
       </news:publication>
       <news:publication_date>2026-10-29T13:08:25+01:00</news:publication_date>
-      <news:title>Oisin Murphy pondrá fin este año a su papel como jinete retenido por Qatar Racing</news:title>
+      <news:title>Oisin Murphy dejará de ser el jinete titular de Qatar Racing el próximo año tras una separación amistosa</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261029-tyrrhenian-thunder-se-vende-por-600-000-guineas-a-australia-en-tattersalls</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T13:42:34+01:00</news:publication_date>
+      <news:title>Tyrrhenian Thunder se vende por 600.000 guineas a Australia en Tattersalls</news:title>
     </news:news>
   </url>
   <url>

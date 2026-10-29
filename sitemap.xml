@@ -55,7 +55,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261029-aniol-gana-por-una-cabeza-el-prix-du-vergaly-de-deauville-a-un-precio-largo</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261029-oisin-murphy-pondra-fin-este-ano-a-su-papel-como-jinete-retenido-por-qatar</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261029-tyrrhenian-thunder-se-vende-por-600-000-guineas-a-australia-en-tattersalls</loc>
     <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -199,13 +211,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261026-queenstown-manda-de-cabo-a-rabo-en-el-prix-royal-oak-y-da-a-galileo-su-grupo-i</loc>
+    <loc>https://www.galopealdia.com/noticias/20261026-drumbeat-da-a-aidan-o-brien-su-septimo-criterium-de-saint-cloud</loc>
     <lastmod>2026-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261026-drumbeat-da-a-aidan-o-brien-su-septimo-criterium-de-saint-cloud</loc>
+    <loc>https://www.galopealdia.com/noticias/20261026-queenstown-manda-de-cabo-a-rabo-en-el-prix-royal-oak-y-da-a-galileo-su-grupo-i</loc>
     <lastmod>2026-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
