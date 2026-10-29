@@ -1,6 +1,9 @@
 # Bots SEO/scrapers comerciales: no aportan valor editorial,
-# consumen ancho de banda. Los bots de IA grandes los
-# gestiona Cloudflare via robots.txt managed automáticamente.
+# consumen ancho de banda.
+# Rastreadores de IA: los de ENTRENAMIENTO (GPTBot, ClaudeBot,
+# CCBot) los bloquea Cloudflare en la red; los de BUSQUEDA de los
+# asistentes (OAI-SearchBot, Claude-SearchBot, PerplexityBot...)
+# tienen paso, igual que Google y Bing.
 User-agent: SemrushBot
 Disallow: /
 User-agent: AhrefsBot
