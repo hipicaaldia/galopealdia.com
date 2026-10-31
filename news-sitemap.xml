@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261031-el-hipodromo-de-san-sebastian-busca-patrocinadores-para-sus-18-jornadas-de-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T13:39:11+01:00</news:publication_date>
+      <news:title>El Hipódromo de San Sebastián busca patrocinadores para sus 18 jornadas de 2027</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261031-paul-nicholls-a-ocho-victorias-del-record-de-martin-pipe-tras-el-doblete-de-ffos</loc>
     <news:news>
       <news:publication>
@@ -21,6 +32,17 @@
       </news:publication>
       <news:publication_date>2026-10-31T09:01:39+01:00</news:publication_date>
       <news:title>Nolimit abre el festival de Down Royal con victoria para Gordon Elliott</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261031-docklands-viajara-a-hong-kong-para-dos-carreras-empezando-por-la-jockey-club-cup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T13:39:11+01:00</news:publication_date>
+      <news:title>Docklands viajará a Hong Kong para dos carreras, empezando por la Jockey Club Cup</news:title>
     </news:news>
   </url>
   <url>
@@ -65,17 +87,6 @@
       </news:publication>
       <news:publication_date>2026-10-29T13:42:34+01:00</news:publication_date>
       <news:title>Aniol gana por una cabeza el Prix du Vergaly de Deauville a un precio largo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261029-oisin-murphy-pondra-fin-este-ano-a-su-papel-como-jinete-retenido-por-qatar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T13:08:25+01:00</news:publication_date>
-      <news:title>Oisin Murphy dejará de ser el jinete titular de Qatar Racing el próximo año tras una separación amistosa</news:title>
     </news:news>
   </url>
   <url>
