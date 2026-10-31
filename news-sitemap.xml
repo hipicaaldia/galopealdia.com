@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261031-paul-nicholls-a-ocho-victorias-del-record-de-martin-pipe-tras-el-doblete-de-ffos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T09:01:39+01:00</news:publication_date>
+      <news:title>Paul Nicholls, a ocho victorias del récord de Martin Pipe tras el doblete de Ffos Las</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261031-nolimit-abre-el-festival-de-down-royal-con-victoria-para-gordon-elliott</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T09:01:39+01:00</news:publication_date>
+      <news:title>Nolimit abre el festival de Down Royal con victoria para Gordon Elliott</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261031-shin-emperor-hijo-de-siyouni-se-retira-y-sera-semental-en-arrow-stud-en-2027</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T09:01:39+01:00</news:publication_date>
+      <news:title>Shin Emperor, hijo de Siyouni, se retira y será semental en Arrow Stud en 2027</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261030-salver-8-1-favorito-entre-las-43-inscripciones-de-la-coral-gold-cup-de-newbury</loc>
     <news:news>
       <news:publication>
