@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261101-majestad-gana-el-derby-espanol-y-deja-abierta-la-triple-corona</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T08:40:20+01:00</news:publication_date>
+      <news:title>Majestad gana el Derby Español y deja abierta la Triple Corona</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261101-la-breeders-cup-de-keeneland-mueve-1679-millones-un-12-menos-en-las-carreras</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T08:40:19+01:00</news:publication_date>
+      <news:title>La Breeders&amp;#39; Cup de Keeneland mueve 167,9 millones, un 1,2 % menos en las carreras</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261031-el-hipodromo-de-san-sebastian-busca-patrocinadores-para-sus-18-jornadas-de-2027</loc>
     <news:news>
       <news:publication>
@@ -76,28 +98,6 @@
       </news:publication>
       <news:publication_date>2026-10-30T20:19:17+01:00</news:publication_date>
       <news:title>Apple Away reaparece en Carlisle en el Listed para yeguas del Colin Parker Raceday</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261029-aniol-gana-por-una-cabeza-el-prix-du-vergaly-de-deauville-a-un-precio-largo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T13:42:34+01:00</news:publication_date>
-      <news:title>Aniol gana por una cabeza el Prix du Vergaly de Deauville a un precio largo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261029-tyrrhenian-thunder-se-vende-por-600-000-guineas-a-australia-en-tattersalls</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T13:42:34+01:00</news:publication_date>
-      <news:title>Tyrrhenian Thunder se vende por 600.000 guineas a Australia en Tattersalls</news:title>
     </news:news>
   </url>
 </urlset>
