@@ -55,6 +55,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261101-al-aasy-se-retira-a-los-nueve-anos-con-diez-victorias-de-grupo</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261101-la-breeders-cup-de-keeneland-mueve-1679-millones-un-12-menos-en-las-carreras</loc>
     <lastmod>2026-11-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -163,12 +169,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261027-sedgefield-multado-con-6-500-libras-tras-trasladar-a-un-jockey-herido-en-un</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261027-haiti-couleurs-unico-aspirante-britanico-en-la-champion-chase-de-down-royal</loc>
     <lastmod>2026-10-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -177,6 +177,12 @@
   <url>
     <loc>https://www.galopealdia.com/noticias/20261027-idaho-sun-favorito-entre-los-44-inscritos-del-greatwood-hurdle-de-cheltenham</loc>
     <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261027-sedgefield-multado-con-6-500-libras-tras-trasladar-a-un-jockey-herido-en-un</loc>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
