@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261101-la-llosa-remonta-al-final-y-gana-el-gran-premio-85-o-aniversario-de-la-zarzuela</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T16:14:35+01:00</news:publication_date>
+      <news:title>La Llosa remonta al final y gana el Gran Premio 85.º Aniversario de la Zarzuela</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261101-majestad-gana-el-derby-espanol-y-deja-abierta-la-triple-corona</loc>
     <news:news>
       <news:publication>

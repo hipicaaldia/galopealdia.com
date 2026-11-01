@@ -49,6 +49,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261101-la-llosa-remonta-al-final-y-gana-el-gran-premio-85-o-aniversario-de-la-zarzuela</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261101-majestad-gana-el-derby-espanol-y-deja-abierta-la-triple-corona</loc>
     <lastmod>2026-11-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -253,12 +259,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261026-sedgefield-multado-con-6-500-libras-por-evacuar-a-un-jockey-en-un-camion-de</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261026-buckley-sale-en-defensa-de-constitution-hill-que-se-metan-el-cuello-dentro</loc>
     <lastmod>2026-10-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -279,6 +279,12 @@
   <url>
     <loc>https://www.galopealdia.com/noticias/20261026-queenstown-manda-de-cabo-a-rabo-en-el-prix-royal-oak-y-da-a-galileo-su-grupo-i</loc>
     <lastmod>2026-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261026-sedgefield-multado-con-6-500-libras-por-evacuar-a-un-jockey-en-un-camion-de</loc>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
