@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261102-boughey-llega-a-la-melbourne-cup-con-hopewell-rock-tras-su-primer-breeders-cup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T09:23:11+01:00</news:publication_date>
+      <news:title>Boughey llega a la Melbourne Cup con Hopewell Rock tras su primer Breeders&amp;#39; Cup</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261101-la-llosa-remonta-al-final-y-gana-el-gran-premio-85-o-aniversario-de-la-zarzuela</loc>
     <news:news>
       <news:publication>
@@ -24,6 +35,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261101-choctaw-nation-gana-el-maiden-del-curragh-y-paddy-harnett-cierra-su-ano-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T09:23:11+01:00</news:publication_date>
+      <news:title>Choctaw Nation gana el Maiden del Curragh y Paddy Harnett cierra su año de aprendiz</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261101-al-aasy-se-retira-a-los-nueve-anos-con-diez-victorias-de-grupo</loc>
     <news:news>
       <news:publication>
@@ -32,6 +54,17 @@
       </news:publication>
       <news:publication_date>2026-11-01T08:44:42+01:00</news:publication_date>
       <news:title>Al Aasy se retira a los nueve años con diez victorias de Grupo</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261101-jamie-snowden-firma-un-doblete-en-los-dos-listed-de-obstaculos-de-carlisle</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T09:23:10+01:00</news:publication_date>
+      <news:title>Jamie Snowden firma un doblete en los dos Listed de obstáculos de Carlisle</news:title>
     </news:news>
   </url>
   <url>
@@ -57,28 +90,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261031-paul-nicholls-a-ocho-victorias-del-record-de-martin-pipe-tras-el-doblete-de-ffos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T09:01:39+01:00</news:publication_date>
-      <news:title>Paul Nicholls, a ocho victorias del récord de Martin Pipe tras el doblete de Ffos Las</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261031-nolimit-abre-el-festival-de-down-royal-con-victoria-para-gordon-elliott</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T09:01:39+01:00</news:publication_date>
-      <news:title>Nolimit abre el festival de Down Royal con victoria para Gordon Elliott</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261031-docklands-viajara-a-hong-kong-para-dos-carreras-empezando-por-la-jockey-club-cup</loc>
     <news:news>
       <news:publication>
@@ -87,39 +98,6 @@
       </news:publication>
       <news:publication_date>2026-10-31T13:39:11+01:00</news:publication_date>
       <news:title>Docklands viajará a Hong Kong para dos carreras, empezando por la Jockey Club Cup</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261031-shin-emperor-hijo-de-siyouni-se-retira-y-sera-semental-en-arrow-stud-en-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T09:01:39+01:00</news:publication_date>
-      <news:title>Shin Emperor, hijo de Siyouni, se retira y será semental en Arrow Stud en 2027</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261030-salver-8-1-favorito-entre-las-43-inscripciones-de-la-coral-gold-cup-de-newbury</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:19:16+01:00</news:publication_date>
-      <news:title>Salver, 8/1 favorito entre las 43 inscripciones de la Coral Gold Cup de Newbury</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261030-apple-away-reaparece-en-carlisle-en-el-listed-para-yeguas-del-colin-parker</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T20:19:17+01:00</news:publication_date>
-      <news:title>Apple Away reaparece en Carlisle en el Listed para yeguas del Colin Parker Raceday</news:title>
     </news:news>
   </url>
 </urlset>
