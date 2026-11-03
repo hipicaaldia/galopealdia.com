@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261103-hokkaido-jiel-ganador-del-prix-d-amerique-vuelve-en-mons-con-jos-verbeeck</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T09:08:17+01:00</news:publication_date>
+      <news:title>Hokkaido Jiel, ganador del Prix d&amp;#39;Amérique, vuelve en Mons con Jos Verbeeck</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261103-almazann-360-000-euros-para-willie-mullins-en-la-venta-de-goffs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T09:08:17+01:00</news:publication_date>
+      <news:title>Almazann, 360.000 euros para Willie Mullins en la venta de Goffs</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261102-el-fin-de-semana-turf-gran-premio-roman-martin-en-la-zarzuela-y-cierre-plano-en</loc>
     <news:news>
       <news:publication>
@@ -46,17 +68,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261101-majestad-gana-el-derby-espanol-y-deja-abierta-la-triple-corona</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T08:40:20+01:00</news:publication_date>
-      <news:title>Majestad gana el Derby Español y deja abierta la Triple Corona</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261101-choctaw-nation-gana-el-maiden-del-curragh-y-paddy-harnett-cierra-su-ano-de</loc>
     <news:news>
       <news:publication>
@@ -68,17 +79,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261101-al-aasy-se-retira-a-los-nueve-anos-con-diez-victorias-de-grupo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T08:44:42+01:00</news:publication_date>
-      <news:title>Al Aasy se retira a los nueve años con diez victorias de Grupo</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261101-jamie-snowden-firma-un-doblete-en-los-dos-listed-de-obstaculos-de-carlisle</loc>
     <news:news>
       <news:publication>
@@ -87,17 +87,6 @@
       </news:publication>
       <news:publication_date>2026-11-02T09:23:10+01:00</news:publication_date>
       <news:title>Jamie Snowden firma un doblete en los dos Listed de obstáculos de Carlisle</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261101-la-breeders-cup-de-keeneland-mueve-1679-millones-un-12-menos-en-las-carreras</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T08:40:19+01:00</news:publication_date>
-      <news:title>La Breeders&amp;#39; Cup de Keeneland mueve 167,9 millones, un 1,2 % menos en las carreras</news:title>
     </news:news>
   </url>
 </urlset>
