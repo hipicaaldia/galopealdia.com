@@ -49,6 +49,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261103-ciaron-maher-primer-entrenador-que-copa-el-podio-de-la-melbourne-cup-con-point</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261103-hokkaido-jiel-ganador-del-prix-d-amerique-vuelve-en-mons-con-jos-verbeeck</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -211,12 +217,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261027-tom-goff-releva-a-julian-richmond-watson-al-frente-del-thoroughbred-group</loc>
-    <lastmod>2026-10-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261027-haiti-couleurs-unico-aspirante-britanico-en-la-champion-chase-de-down-royal</loc>
     <lastmod>2026-10-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -231,6 +231,12 @@
   <url>
     <loc>https://www.galopealdia.com/noticias/20261027-sedgefield-multado-con-6-500-libras-tras-trasladar-a-un-jockey-herido-en-un</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261027-tom-goff-releva-a-julian-richmond-watson-al-frente-del-thoroughbred-group</loc>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
