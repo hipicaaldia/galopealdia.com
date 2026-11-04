@@ -13,6 +13,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261104-majestad-y-rojiblanco-vuelven-a-verse-las-caras-en-el-gran-premio-roman-martin</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T19:53:47+01:00</news:publication_date>
+      <news:title>Majestad y Rojiblanco vuelven a verse las caras en el Gran Premio Román Martín</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261104-la-zarzuela-abre-el-30-de-diciembre-y-el-3-de-enero-con-cinco-carreras-por</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T19:53:46+01:00</news:publication_date>
+      <news:title>La Zarzuela abre el 30 de diciembre y el 3 de enero con cinco carreras por jornada</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261103-ciaron-maher-primer-entrenador-que-copa-el-podio-de-la-melbourne-cup-con-point</loc>
     <news:news>
       <news:publication>
@@ -76,61 +98,6 @@
       </news:publication>
       <news:publication_date>2026-11-03T09:08:17+01:00</news:publication_date>
       <news:title>Almazann, 360.000 euros para Willie Mullins en la venta de Goffs</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261102-el-fin-de-semana-turf-gran-premio-roman-martin-en-la-zarzuela-y-cierre-plano-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T10:45:02+01:00</news:publication_date>
-      <news:title>El fin de semana turf: Gran Premio Román Martín en La Zarzuela y cierre plano en Doncaster</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261102-boughey-llega-a-la-melbourne-cup-con-hopewell-rock-tras-su-primer-breeders-cup</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T09:23:11+01:00</news:publication_date>
-      <news:title>Boughey llega a la Melbourne Cup con Hopewell Rock tras su primer Breeders&amp;#39; Cup</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261102-danon-decile-sale-por-fuera-en-tokyo-y-gana-el-tenno-sho-de-otono-por-2-1-2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T13:45:10+01:00</news:publication_date>
-      <news:title>Danon Decile sale por fuera en Tokyo y gana el Tenno Sho de otoño por 2 1/2 cuerpos</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261101-choctaw-nation-gana-el-maiden-del-curragh-y-paddy-harnett-cierra-su-ano-de</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T09:23:11+01:00</news:publication_date>
-      <news:title>Choctaw Nation gana el Maiden del Curragh y Paddy Harnett cierra su año de aprendiz</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261101-jamie-snowden-firma-un-doblete-en-los-dos-listed-de-obstaculos-de-carlisle</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T09:23:10+01:00</news:publication_date>
-      <news:title>Jamie Snowden firma un doblete en los dos Listed de obstáculos de Carlisle</news:title>
     </news:news>
   </url>
 </urlset>
