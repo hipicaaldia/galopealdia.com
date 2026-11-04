@@ -67,6 +67,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261104-la-goffs-autumn-yearling-sale-cierra-con-subidas-del-16-en-facturacion-y-14-en</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261103-ciaron-maher-primer-entrenador-que-copa-el-podio-de-la-melbourne-cup-con-point</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -277,12 +283,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261027-la-bha-anade-dos-jornadas-de-obstaculos-en-plumpton-y-uttoxeter</loc>
-    <lastmod>2026-10-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261027-amanece-en-keeneland-una-potra-alazana-guia-a-vicki-gibbins-hasta-la-pista-de</loc>
     <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -302,6 +302,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261027-juddmonte-y-balding-apartan-a-blue-bolt-del-turf-y-la-mandan-al-filly-and-mare</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261027-la-bha-anade-dos-jornadas-de-obstaculos-en-plumpton-y-uttoxeter</loc>
     <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
