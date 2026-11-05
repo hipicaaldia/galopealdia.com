@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261105-france-galop-endurece-el-uso-de-la-fusta-en-carreras-de-aficionados-desde-el-15</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T12:32:18+01:00</news:publication_date>
+      <news:title>France Galop endurece el uso de la fusta en carreras de aficionados desde el 15 de noviembre</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261104-majestad-y-rojiblanco-vuelven-a-verse-las-caras-en-el-gran-premio-roman-martin</loc>
     <news:news>
       <news:publication>
@@ -46,17 +57,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261103-ciaron-maher-primer-entrenador-que-copa-el-podio-de-la-melbourne-cup-con-point</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T12:19:41+01:00</news:publication_date>
-      <news:title>Ciaron Maher, primer entrenador que copa el podio de la Melbourne Cup con Point of Law</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261103-una-hija-de-kodi-bear-lidera-la-segunda-jornada-de-la-goffs-autumn-yearling-sale</loc>
     <news:news>
       <news:publication>
@@ -87,28 +87,6 @@
       </news:publication>
       <news:publication_date>2026-11-03T15:02:54+01:00</news:publication_date>
       <news:title>Grey Dawning, favorito para revalidar la Betfair Chase entre 19 inscritos</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261103-hokkaido-jiel-ganador-del-prix-d-amerique-vuelve-en-mons-con-jos-verbeeck</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T09:08:17+01:00</news:publication_date>
-      <news:title>Hokkaido Jiel, ganador del Prix d&amp;#39;Amérique, vuelve en Mons con Jos Verbeeck</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261103-almazann-360-000-euros-para-willie-mullins-en-la-venta-de-goffs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T09:08:17+01:00</news:publication_date>
-      <news:title>Almazann, 360.000 euros para Willie Mullins en la venta de Goffs</news:title>
     </news:news>
   </url>
 </urlset>
