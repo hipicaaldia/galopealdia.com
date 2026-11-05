@@ -78,15 +78,4 @@
       <news:title>Una hija de Kodi Bear lidera la segunda jornada de la Goffs Autumn Yearling Sale</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261103-goffs-presenta-el-catalogo-del-british-nh-breeders-showcase-de-doncaster</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T17:12:15+01:00</news:publication_date>
-      <news:title>Goffs presenta el catálogo del British NH Breeders Showcase de Doncaster</news:title>
-    </news:news>
-  </url>
 </urlset>
