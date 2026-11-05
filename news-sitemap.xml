@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261105-belmont-park-y-naas-unen-fuerzas-patrocinio-cruzado-con-el-man-o-war-stakes-como</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T15:05:01+01:00</news:publication_date>
+      <news:title>Belmont Park y Naas unen fuerzas: patrocinio cruzado con el Man o&amp;#39; War Stakes como estreno</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261105-france-galop-endurece-el-uso-de-la-fusta-en-carreras-de-aficionados-desde-el-15</loc>
     <news:news>
       <news:publication>
@@ -76,17 +87,6 @@
       </news:publication>
       <news:publication_date>2026-11-03T17:12:15+01:00</news:publication_date>
       <news:title>Goffs presenta el catálogo del British NH Breeders Showcase de Doncaster</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261103-grey-dawning-favorito-para-revalidar-la-betfair-chase-entre-19-inscritos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T15:02:54+01:00</news:publication_date>
-      <news:title>Grey Dawning, favorito para revalidar la Betfair Chase entre 19 inscritos</news:title>
     </news:news>
   </url>
 </urlset>
