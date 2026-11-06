@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261106-consent-viaja-a-munich-para-buscar-su-primer-triunfo-del-ano-en-el-grosser</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:18:57+01:00</news:publication_date>
+      <news:title>Consent viaja a Múnich para buscar su primer triunfo del año en el Grosser Allianz Preis von Bayern</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261106-kappa-jy-pyke-2-9-gana-el-clonmel-oil-chase-sin-il-etait-temps</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:18:57+01:00</news:publication_date>
+      <news:title>Kappa Jy Pyke, 2/9, gana el Clonmel Oil Chase sin Il Etait Temps</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261105-el-retired-racehorse-project-organizacion-benefica-oficial-del-claiming-crown</loc>
     <news:news>
       <news:publication>
