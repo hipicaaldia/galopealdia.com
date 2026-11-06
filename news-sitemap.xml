@@ -8,7 +8,7 @@
         <news:name>Galope al Día</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-05T19:52:39+01:00</news:publication_date>
+      <news:publication_date>2026-11-06T10:17:24+01:00</news:publication_date>
       <news:title>El Retired Racehorse Project, organización benéfica oficial del Claiming Crown 2026</news:title>
     </news:news>
   </url>
@@ -65,17 +65,6 @@
       </news:publication>
       <news:publication_date>2026-11-04T21:02:54+01:00</news:publication_date>
       <news:title>La Goffs Autumn Yearling Sale cierra con subidas del 16% en facturación y 14% en media</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261103-una-hija-de-kodi-bear-lidera-la-segunda-jornada-de-la-goffs-autumn-yearling-sale</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T22:02:46+01:00</news:publication_date>
-      <news:title>Una hija de Kodi Bear lidera la segunda jornada de la Goffs Autumn Yearling Sale</news:title>
     </news:news>
   </url>
 </urlset>
