@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261106-old-park-star-esquiva-carlisle-y-henderson-baraja-cheltenham-o-ffos-las-para-su</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T22:50:36+01:00</news:publication_date>
+      <news:title>Old Park Star esquiva Carlisle y Henderson baraja Cheltenham o Ffos Las para su debut en vallas</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261106-consent-viaja-a-munich-para-buscar-su-primer-triunfo-del-ano-en-el-grosser</loc>
     <news:news>
       <news:publication>
@@ -21,6 +32,17 @@
       </news:publication>
       <news:publication_date>2026-11-06T10:18:57+01:00</news:publication_date>
       <news:title>Kappa Jy Pyke, 2/9, gana el Clonmel Oil Chase sin Il Etait Temps</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261106-cherie-devaux-entra-en-el-national-cowgirl-hall-of-fame-tras-su-derby-y-su</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T22:50:36+01:00</news:publication_date>
+      <news:title>Cherie DeVaux entra en el National Cowgirl Hall of Fame tras su Derby y su Belmont</news:title>
     </news:news>
   </url>
   <url>
@@ -65,39 +87,6 @@
       </news:publication>
       <news:publication_date>2026-11-05T12:32:18+01:00</news:publication_date>
       <news:title>France Galop endurece el uso de la fusta en carreras de aficionados desde el 15 de noviembre</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261104-majestad-y-rojiblanco-vuelven-a-verse-las-caras-en-el-gran-premio-roman-martin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T19:53:47+01:00</news:publication_date>
-      <news:title>Majestad y Rojiblanco vuelven a verse las caras en el Gran Premio Román Martín</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261104-la-zarzuela-abre-el-30-de-diciembre-y-el-3-de-enero-con-cinco-carreras-por</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T19:53:46+01:00</news:publication_date>
-      <news:title>La Zarzuela abre el 30 de diciembre y el 3 de enero con cinco carreras por jornada</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261104-la-goffs-autumn-yearling-sale-cierra-con-subidas-del-16-en-facturacion-y-14-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T21:02:54+01:00</news:publication_date>
-      <news:title>La Goffs Autumn Yearling Sale cierra con subidas del 16% en facturación y 14% en media</news:title>
     </news:news>
   </url>
 </urlset>
