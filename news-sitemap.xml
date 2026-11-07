@@ -8,8 +8,19 @@
         <news:name>Galope al Día</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-07T19:30:16+01:00</news:publication_date>
+      <news:publication_date>2026-11-07T20:28:22+01:00</news:publication_date>
       <news:title>Alexei gana el primer Molyneux Hurdle de Aintree y Taurus Bay brilla en su debut</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261107-newgrange-cinco-veces-ganador-de-graded-stakes-sera-semental-en-nueva-york</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T20:28:22+01:00</news:publication_date>
+      <news:title>Newgrange, cinco veces ganador de graded stakes, será semental en Nueva York</news:title>
     </news:news>
   </url>
   <url>
