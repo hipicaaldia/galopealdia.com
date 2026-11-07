@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261107-blue-diamond-paga-750-000-dolares-por-hot-mash-tope-del-cuarto-dia-en-keeneland</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T14:04:41+01:00</news:publication_date>
+      <news:title>Blue Diamond paga 750.000 dólares por Hot Mash, tope del cuarto día en Keeneland</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261106-old-park-star-esquiva-carlisle-y-henderson-baraja-cheltenham-o-ffos-las-para-su</loc>
     <news:news>
       <news:publication>
@@ -76,17 +87,6 @@
       </news:publication>
       <news:publication_date>2026-11-05T15:05:01+01:00</news:publication_date>
       <news:title>Belmont Park y Naas unen fuerzas: patrocinio cruzado con el Man o&amp;#39; War Stakes como estreno</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261105-france-galop-endurece-el-uso-de-la-fusta-en-carreras-de-aficionados-desde-el-15</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T12:32:18+01:00</news:publication_date>
-      <news:title>France Galop endurece el uso de la fusta en carreras de aficionados desde el 15 de noviembre</news:title>
     </news:news>
   </url>
 </urlset>
