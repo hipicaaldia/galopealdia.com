@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261115-pronostico-la-zarzuela-domingo-15-de-noviembre-animo-lola-favorita-en-la-copa-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-10T22:23:12+01:00</news:publication_date>
+      <news:title>Pronóstico La Zarzuela (domingo 15 de noviembre): Animo Lola, favorita en la Copa De Críadores</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261109-lake-forest-viajara-a-hong-kong-para-buscar-su-primer-grupo-1-en-la-longines</loc>
     <news:news>
       <news:publication>
@@ -10,50 +21,6 @@
       </news:publication>
       <news:publication_date>2026-11-09T15:52:37+01:00</news:publication_date>
       <news:title>Lake Forest viajará a Hong Kong para buscar su primer Grupo 1 en la Longines Hong Kong Mile</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261108-rojiblanco-remonta-a-imagine-y-se-lleva-el-gran-premio-roman-martin-en-la</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T18:46:38+01:00</news:publication_date>
-      <news:title>Rojiblanco remonta a Imagine y se lleva el Gran Premio Román Martín en La Zarzuela</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261108-sun-goddess-una-ballydoyle-atipica-su-pedigri-explica-una-campana-de-nueve</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-08T18:46:38+01:00</news:publication_date>
-      <news:title>Sun Goddess, una Ballydoyle atípica: su pedigrí explica una campaña de nueve salidas</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261107-alexei-gana-el-primer-molyneux-hurdle-de-aintree-y-taurus-bay-brilla-en-su-debut</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T20:28:22+01:00</news:publication_date>
-      <news:title>Alexei gana el primer Molyneux Hurdle de Aintree y Taurus Bay brilla en su debut</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261107-newgrange-cinco-veces-ganador-de-graded-stakes-sera-semental-en-nueva-york</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T20:28:22+01:00</news:publication_date>
-      <news:title>Newgrange, cinco veces ganador de graded stakes, será semental en Nueva York</news:title>
     </news:news>
   </url>
 </urlset>
