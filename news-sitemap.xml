@@ -13,6 +13,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261112-coolmore-sube-a-no-nay-never-a-120-000-euros-y-anade-a-gstaad-y-puerto-rico</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:36:15+01:00</news:publication_date>
+      <news:title>Coolmore sube a No Nay Never a 120.000 euros y añade a Gstaad y Puerto Rico</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261112-ballylinch-mantiene-a-lope-de-vega-en-200-000-eur-y-multiplica-por-24-la-tarifa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:36:13+01:00</news:publication_date>
+      <news:title>Ballylinch mantiene a Lope de Vega en 200.000 € y multiplica por 2,4 la tarifa de Bayside Boy</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261111-jonathan-plouganou-vuelve-a-auteuil-cinco-anos-despues-y-lo-hace-en-dos-grupo-i</loc>
     <news:news>
       <news:publication>
