@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261112-france-galop-abre-al-publico-su-boletin-une-semaine-au-galop-ya-en-el-numero-384</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T19:35:37+01:00</news:publication_date>
+      <news:title>France Galop abre al público su boletín «Une Semaine au Galop», ya en el número 384</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261112-coolmore-sube-a-no-nay-never-a-120-000-euros-y-anade-a-gstaad-y-puerto-rico</loc>
     <news:news>
       <news:publication>
