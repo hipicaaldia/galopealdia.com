@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261115-pronostico-la-zarzuela-domingo-15-de-noviembre-animo-lola-favorita-en-la-copa-de</loc>
+    <loc>https://www.galopealdia.com/noticias/20261113-auteuil-reune-cuatro-grupos-1-en-una-sola-tarde-de-obstaculos</loc>
     <news:news>
       <news:publication>
         <news:name>Galope al Día</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-10T22:23:12+01:00</news:publication_date>
-      <news:title>Pronóstico La Zarzuela (domingo 15 de noviembre): Animo Lola, favorita en la Copa De Críadores</news:title>
+      <news:publication_date>2026-11-13T15:54:10+01:00</news:publication_date>
+      <news:title>Auteuil reúne cuatro Grupos 1 en una sola tarde de obstáculos</news:title>
     </news:news>
   </url>
   <url>
@@ -54,17 +54,6 @@
       </news:publication>
       <news:publication_date>2026-11-11T19:42:48+01:00</news:publication_date>
       <news:title>Jonathan Plouganou vuelve a Auteuil cinco años después y lo hace en dos Grupo I</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261111-inflect-rompe-su-maiden-en-belmont-park-con-5-1-4-cuerpos-de-ventaja</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T09:28:14+01:00</news:publication_date>
-      <news:title>Inflect rompe su maiden en Belmont Park con 5 1/4 cuerpos de ventaja</news:title>
     </news:news>
   </url>
 </urlset>
