@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261114-strong-leader-galopara-en-newbury-antes-de-buscar-de-nuevo-la-coral-long</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T14:22:09+01:00</news:publication_date>
+      <news:title>Strong Leader galopará en Newbury antes de buscar de nuevo la Coral Long Distance Hurdle</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261114-juryoku-pierrot-busca-en-kyoto-su-segundo-grupo-i-del-ano-ante-17-rivales</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T14:22:09+01:00</news:publication_date>
+      <news:title>Juryoku Pierrot busca en Kyoto su segundo Grupo I del año ante 17 rivales</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261114-royal-champion-repite-en-el-bahrain-international-trophy-ya-grupo-1-con-clifford</loc>
     <news:news>
       <news:publication>
@@ -43,28 +65,6 @@
       </news:publication>
       <news:publication_date>2026-11-12T19:35:37+01:00</news:publication_date>
       <news:title>France Galop abre al público su boletín «Une Semaine au Galop», ya en el número 384</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261112-coolmore-sube-a-no-nay-never-a-120-000-euros-y-anade-a-gstaad-y-puerto-rico</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:36:15+01:00</news:publication_date>
-      <news:title>Coolmore sube a No Nay Never a 120.000 euros y añade a Gstaad y Puerto Rico</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261112-ballylinch-mantiene-a-lope-de-vega-en-200-000-eur-y-multiplica-por-24-la-tarifa</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:36:13+01:00</news:publication_date>
-      <news:title>Ballylinch mantiene a Lope de Vega en 200.000 € y multiplica por 2,4 la tarifa de Bayside Boy</news:title>
     </news:news>
   </url>
 </urlset>
