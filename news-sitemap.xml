@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261115-jaime-gelabert-firma-el-doblete-en-las-copas-de-criadores-con-albatros-y-pretty</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T18:03:21+01:00</news:publication_date>
+      <news:title>Jaime Gelabert firma el doblete en las Copas de Criadores con Albatros y Pretty Rose</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261115-kingland-se-exhibe-en-la-recta-de-auteuil-y-gana-el-grand-prix-d-automne</loc>
     <news:news>
       <news:publication>
@@ -76,17 +87,6 @@
       </news:publication>
       <news:publication_date>2026-11-13T20:48:57+01:00</news:publication_date>
       <news:title>Nueve yeguas se citan en la milla del Gran Premio 85.º Aniversario de la Zarzuela</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261113-auteuil-reune-cuatro-grupos-1-en-una-sola-tarde-de-obstaculos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T15:54:10+01:00</news:publication_date>
-      <news:title>Auteuil reúne cuatro Grupos 1 en una sola tarde de obstáculos</news:title>
     </news:news>
   </url>
 </urlset>
