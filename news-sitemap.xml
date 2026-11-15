@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261115-resultados-de-la-zarzuela-15-11-pretty-rose-fr-a-gana-la-copa-de-criadores-y-j</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T23:50:31+01:00</news:publication_date>
+      <news:title>Resultados de La Zarzuela (15/11): Pretty Rose (Fr) (A) gana la Copa de Críadores y J. Gelabert firma un doblete</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261115-jaime-gelabert-firma-el-doblete-en-las-copas-de-criadores-con-albatros-y-pretty</loc>
     <news:news>
       <news:publication>
@@ -98,17 +109,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T08:49:52+01:00</news:publication_date>
       <news:title>Royal Champion repite en el Bahrain International Trophy, ya Grupo 1, con Clifford Lee en la silla</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261113-nueve-yeguas-se-citan-en-la-milla-del-gran-premio-85-o-aniversario-de-la</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T20:48:57+01:00</news:publication_date>
-      <news:title>Nueve yeguas se citan en la milla del Gran Premio 85.º Aniversario de la Zarzuela</news:title>
     </news:news>
   </url>
 </urlset>
