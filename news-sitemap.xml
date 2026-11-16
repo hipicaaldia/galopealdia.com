@@ -78,37 +78,4 @@
       <news:title>Meetmebythesea da a JP McManus su primera Paddy Power Gold Cup en Cheltenham</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261114-strong-leader-galopara-en-newbury-antes-de-buscar-de-nuevo-la-coral-long</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T14:22:09+01:00</news:publication_date>
-      <news:title>Strong Leader galopará en Newbury antes de buscar de nuevo la Coral Long Distance Hurdle</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261114-juryoku-pierrot-busca-en-kyoto-su-segundo-grupo-i-del-ano-ante-17-rivales</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T14:22:09+01:00</news:publication_date>
-      <news:title>Juryoku Pierrot busca en Kyoto su segundo Grupo I del año ante 17 rivales</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261114-royal-champion-repite-en-el-bahrain-international-trophy-ya-grupo-1-con-clifford</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T08:49:52+01:00</news:publication_date>
-      <news:title>Royal Champion repite en el Bahrain International Trophy, ya Grupo 1, con Clifford Lee en la silla</news:title>
-    </news:news>
-  </url>
 </urlset>
