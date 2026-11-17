@@ -2,14 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261122-pronostico-la-zarzuela-domingo-22-de-noviembre-king-kaid-ire-favorito-en-el</loc>
+    <loc>https://www.galopealdia.com/noticias/20261122-pronostico-la-zarzuela-domingo-22-de-noviembre-dragon-force-ire-favorito-en-el</loc>
     <news:news>
       <news:publication>
         <news:name>Galope al Día</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-15T19:18:55+01:00</news:publication_date>
-      <news:title>Pronóstico La Zarzuela (domingo 22 de noviembre): King Kaid (IRE), favorito en el Premio 231. Premio Sultán El Yago</news:title>
+      <news:publication_date>2026-11-17T19:17:16+01:00</news:publication_date>
+      <news:title>Pronóstico La Zarzuela (domingo 22 de noviembre): Dragon Force (IRE), favorito en el Gran Premio Antonio Blasco</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261117-bossman-jack-debuta-en-vallas-con-victoria-y-el-12-1-para-el-brown-advisory</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T19:17:17+01:00</news:publication_date>
+      <news:title>Bossman Jack debuta en vallas con victoria y el 12/1 para el Brown Advisory</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261117-noel-meade-lleva-a-affordale-fury-a-la-betfair-chase-de-haydock-park</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T19:17:16+01:00</news:publication_date>
+      <news:title>Noel Meade lleva a Affordale Fury a la Betfair Chase de Haydock Park</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261117-david-flood-comparece-ante-el-panel-disciplinario-de-la-bha-por-un-incidente-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T19:17:17+01:00</news:publication_date>
+      <news:title>David Flood comparece ante el Panel Disciplinario de la BHA por un incidente en Brighton</news:title>
     </news:news>
   </url>
   <url>
@@ -35,28 +68,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261115-jaime-gelabert-firma-el-doblete-en-las-copas-de-criadores-con-albatros-y-pretty</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T18:03:21+01:00</news:publication_date>
-      <news:title>Jaime Gelabert firma el doblete en las Copas de Criadores con Albatros y Pretty Rose</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261115-kingland-se-exhibe-en-la-recta-de-auteuil-y-gana-el-grand-prix-d-automne</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T09:48:02+01:00</news:publication_date>
-      <news:title>Kingland se exhibe en la recta de Auteuil y gana el Grand Prix d&amp;#39;Automne</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261115-brad-barows-gana-en-kyoto-el-daily-hai-nisai-stakes-y-suma-su-tercera-victoria</loc>
     <news:news>
       <news:publication>
@@ -65,28 +76,6 @@
       </news:publication>
       <news:publication_date>2026-11-15T19:56:03+01:00</news:publication_date>
       <news:title>Brad Barows gana en Kyoto el Daily Hai Nisai Stakes y suma su tercera victoria en tres salidas</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261115-pink-venom-gana-en-belmont-su-primera-stewart-manor-stakes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T09:48:01+01:00</news:publication_date>
-      <news:title>Pink Venom gana en Belmont su primera Stewart Manor Stakes</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261114-meetmebythesea-da-a-jp-mcmanus-su-primera-paddy-power-gold-cup-en-cheltenham</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T09:47:58+01:00</news:publication_date>
-      <news:title>Meetmebythesea da a JP McManus su primera Paddy Power Gold Cup en Cheltenham</news:title>
     </news:news>
   </url>
 </urlset>
