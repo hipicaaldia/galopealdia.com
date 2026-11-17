@@ -61,6 +61,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261117-nico-de-boinville-escoltado-en-plumpton-tras-una-amenaza-recibida-por-el-jockey</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261117-bossman-jack-debuta-en-vallas-con-victoria-y-el-12-1-para-el-brown-advisory</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -229,12 +235,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261106-old-park-star-esquiva-carlisle-y-henderson-baraja-cheltenham-o-ffos-las-para-su</loc>
-    <lastmod>2026-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261106-consent-viaja-a-munich-para-buscar-su-primer-triunfo-del-ano-en-el-grosser</loc>
     <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -242,6 +242,12 @@
   </url>
   <url>
     <loc>https://www.galopealdia.com/noticias/20261106-kappa-jy-pyke-2-9-gana-el-clonmel-oil-chase-sin-il-etait-temps</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261106-old-park-star-esquiva-carlisle-y-henderson-baraja-cheltenham-o-ffos-las-para-su</loc>
     <lastmod>2026-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
