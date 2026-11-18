@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261118-la-zarzuela-publica-el-acta-de-comisarios-del-retraso-de-dos-horas-del-domingo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T13:40:34+01:00</news:publication_date>
+      <news:title>La Zarzuela publica el acta de comisarios del retraso de dos horas del domingo 15</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261118-frances-ethel-ganadora-de-la-south-african-oaks-se-suma-al-catalogo-de-diciembre</loc>
     <news:news>
       <news:publication>
