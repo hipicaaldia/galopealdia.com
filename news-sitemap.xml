@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261119-diamond-street-arranca-con-buen-pie-en-las-vallas-de-ffos-las</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T08:33:14+01:00</news:publication_date>
+      <news:title>Diamond Street arranca con buen pie en las vallas de Ffos Las</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261118-la-zarzuela-publica-el-acta-de-comisarios-del-retraso-de-dos-horas-del-domingo</loc>
     <news:news>
       <news:publication>
@@ -131,17 +142,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T19:17:17+01:00</news:publication_date>
       <news:title>David Flood comparece ante el Panel Disciplinario de la BHA por un incidente en Brighton</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261116-un-sioux-nation-de-130-000-euros-encabeza-la-primera-jornada-de-potros-en-goffs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T21:44:19+01:00</news:publication_date>
-      <news:title>Un Sioux Nation de 130.000 euros encabeza la primera jornada de potros en Goffs</news:title>
     </news:news>
   </url>
 </urlset>
