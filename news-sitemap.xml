@@ -13,6 +13,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261120-suspension-de-63-dias-para-david-allan-e-inhabilitacion-de-dos-anos-para-graham</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T17:12:24+01:00</news:publication_date>
+      <news:title>Suspensión de 63 días para David Allan e inhabilitación de dos años para Graham Baines</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261120-freddie-mitchell-recurre-los-12-dias-de-suspension-por-errar-el-recorrido-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T17:12:23+01:00</news:publication_date>
+      <news:title>Freddie Mitchell recurre los 12 días de suspensión por errar el recorrido en Warwick</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261120-lulamba-se-cae-de-la-ladbrokes-1965-chase-por-el-piso-rapido-de-ascot</loc>
     <news:news>
       <news:publication>
@@ -90,17 +112,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261118-la-zarzuela-publica-el-acta-de-comisarios-del-retraso-de-dos-horas-del-domingo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T13:40:34+01:00</news:publication_date>
-      <news:title>La Zarzuela publica el acta de comisarios del retraso de dos horas del domingo 15</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261118-rimell-no-escolarizaba-tras-una-caida-hoy-los-grandes-preparadores-saltan-en</loc>
     <news:news>
       <news:publication>
@@ -109,17 +120,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T19:35:02+01:00</news:publication_date>
       <news:title>Rimell no escolarizaba tras una caída; hoy los grandes preparadores saltan en casa cada semana</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261118-frances-ethel-ganadora-de-la-south-african-oaks-se-suma-al-catalogo-de-diciembre</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T13:40:25+01:00</news:publication_date>
-      <news:title>Frances Ethel, ganadora de la South African Oaks, se suma al catálogo de diciembre de Tattersalls</news:title>
     </news:news>
   </url>
 </urlset>
