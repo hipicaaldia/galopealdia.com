@@ -13,6 +13,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261120-paul-nicholls-supera-a-martin-pipe-3-931-ganadores-en-national-hunt-britanico</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T13:38:38+01:00</news:publication_date>
+      <news:title>Paul Nicholls supera a Martin Pipe: 3.931 ganadores en National Hunt británico</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261120-skelton-aparca-a-the-new-lion-y-apuesta-solo-por-mydaddypaddy-en-la-fighting</loc>
     <news:news>
       <news:publication>
@@ -98,17 +109,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T13:40:25+01:00</news:publication_date>
       <news:title>Frances Ethel, ganadora de la South African Oaks, se suma al catálogo de diciembre de Tattersalls</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261118-tattersalls-anade-cuatro-comodines-a-su-venta-de-yeguas-de-diciembre</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T13:07:04+01:00</news:publication_date>
-      <news:title>Tattersalls añade cuatro comodines a su venta de yeguas de diciembre</news:title>
     </news:news>
   </url>
 </urlset>
