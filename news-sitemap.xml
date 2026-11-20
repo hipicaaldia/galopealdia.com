@@ -2,14 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261122-pronostico-la-zarzuela-domingo-22-de-noviembre-dragon-force-ire-favorito-en-el</loc>
+    <loc>https://www.galopealdia.com/noticias/20261120-dos-hombres-imputados-por-el-robo-de-cinco-trofeos-de-la-melbourne-cup-y-la</loc>
     <news:news>
       <news:publication>
         <news:name>Galope al Día</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-17T19:17:16+01:00</news:publication_date>
-      <news:title>Pronóstico La Zarzuela (domingo 22 de noviembre): Dragon Force (IRE), favorito en el Gran Premio Antonio Blasco</news:title>
+      <news:publication_date>2026-11-20T08:42:50+01:00</news:publication_date>
+      <news:title>Dos hombres, imputados por el robo de cinco trofeos de la Melbourne Cup y la Caulfield Cup</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261120-skelton-aparca-a-the-new-lion-y-apuesta-solo-por-mydaddypaddy-en-la-fighting</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T08:43:45+01:00</news:publication_date>
+      <news:title>Skelton aparca a The New Lion y apuesta solo por Mydaddypaddy en la Fighting Fifth</news:title>
     </news:news>
   </url>
   <url>
@@ -87,83 +98,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T13:07:04+01:00</news:publication_date>
       <news:title>Tattersalls añade cuatro comodines a su venta de yeguas de diciembre</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261118-henderson-ya-tiene-plan-para-lulamba-la-john-francome-a-la-vista</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T08:38:32+01:00</news:publication_date>
-      <news:title>Henderson ya tiene plan para Lulamba: la John Francome, a la vista</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261118-de-bromhead-busca-en-haydock-lo-que-willie-mullins-aun-no-ha-salido-a-buscar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T08:37:56+01:00</news:publication_date>
-      <news:title>De Bromhead busca en Haydock lo que Willie Mullins aún no ha salido a buscar</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261117-nico-de-boinville-escoltado-en-plumpton-tras-una-amenaza-recibida-por-el-jockey</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T19:34:32+01:00</news:publication_date>
-      <news:title>Nico de Boinville, escoltado en Plumpton tras una amenaza recibida por el jockey</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261117-bossman-jack-debuta-en-vallas-con-victoria-y-el-12-1-para-el-brown-advisory</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T19:17:17+01:00</news:publication_date>
-      <news:title>Bossman Jack debuta en vallas con victoria y el 12/1 para el Brown Advisory</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261117-noel-meade-lleva-a-affordale-fury-a-la-betfair-chase-de-haydock-park</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T19:17:16+01:00</news:publication_date>
-      <news:title>Noel Meade lleva a Affordale Fury a la Betfair Chase de Haydock Park</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261117-sounds-like-a-plan-apunta-al-man-o-war-con-la-distancia-como-gran-incognita</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T19:35:06+01:00</news:publication_date>
-      <news:title>Sounds Like a Plan apunta al Man o&amp;#39; War con la distancia como gran incógnita</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261117-david-flood-comparece-ante-el-panel-disciplinario-de-la-bha-por-un-incidente-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T19:17:17+01:00</news:publication_date>
-      <news:title>David Flood comparece ante el Panel Disciplinario de la BHA por un incidente en Brighton</news:title>
     </news:news>
   </url>
 </urlset>
