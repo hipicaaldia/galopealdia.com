@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261121-grey-dawning-repite-en-la-betfair-chase-tras-un-pulso-con-jagwar-en-haydock</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T19:37:06+01:00</news:publication_date>
+      <news:title>Grey Dawning repite en la Betfair Chase tras un pulso con Jagwar en Haydock</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261121-grey-dawning-repite-triunfo-en-la-betfair-chase-de-haydock-park</loc>
     <news:news>
       <news:publication>
