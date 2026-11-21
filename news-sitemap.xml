@@ -24,6 +24,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261121-erdenali-busca-en-kyoto-lo-que-ningun-extranjero-ha-logrado-ganar-el-mile</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T10:07:27+01:00</news:publication_date>
+      <news:title>Erdenali busca en Kyoto lo que ningún extranjero ha logrado: ganar el Mile Championship</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261120-dos-hombres-imputados-por-el-robo-de-cinco-trofeos-de-la-melbourne-cup-y-la</loc>
     <news:news>
       <news:publication>
@@ -32,6 +43,17 @@
       </news:publication>
       <news:publication_date>2026-11-20T08:42:50+01:00</news:publication_date>
       <news:title>Dos hombres, imputados por el robo de cinco trofeos de la Melbourne Cup y la Caulfield Cup</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261120-butterfly-wings-vendida-por-760-000-euros-lidera-la-chicquita-session-de-goffs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T10:07:27+01:00</news:publication_date>
+      <news:title>Butterfly Wings, vendida por 760.000 euros, lidera la Chicquita Session de Goffs</news:title>
     </news:news>
   </url>
   <url>

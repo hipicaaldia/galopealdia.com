@@ -73,8 +73,20 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261121-erdenali-busca-en-kyoto-lo-que-ningun-extranjero-ha-logrado-ganar-el-mile</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261120-dos-hombres-imputados-por-el-robo-de-cinco-trofeos-de-la-melbourne-cup-y-la</loc>
     <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261120-butterfly-wings-vendida-por-760-000-euros-lidera-la-chicquita-session-de-goffs</loc>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
