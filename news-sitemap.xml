@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261121-constitution-hill-vuelve-a-kempton-park-con-oisin-murphy-en-la-silla</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T08:38:16+01:00</news:publication_date>
+      <news:title>Constitution Hill vuelve a Kempton Park con Oisin Murphy en la silla</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261120-dos-hombres-imputados-por-el-robo-de-cinco-trofeos-de-la-melbourne-cup-y-la</loc>
     <news:news>
       <news:publication>
@@ -87,39 +98,6 @@
       </news:publication>
       <news:publication_date>2026-11-19T13:32:36+01:00</news:publication_date>
       <news:title>France Galop abre el 19 de noviembre la renovación de las brochures de 2027</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261119-el-calendario-britanico-de-carreras-atado-de-manos-por-la-propiedad-de-los</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T08:33:32+01:00</news:publication_date>
-      <news:title>El calendario británico de carreras, atado de manos por la propiedad de los hipódromos</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261119-diamond-street-arranca-con-buen-pie-en-las-vallas-de-ffos-las</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T08:33:14+01:00</news:publication_date>
-      <news:title>Diamond Street arranca con buen pie en las vallas de Ffos Las</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261118-rimell-no-escolarizaba-tras-una-caida-hoy-los-grandes-preparadores-saltan-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T19:35:02+01:00</news:publication_date>
-      <news:title>Rimell no escolarizaba tras una caída; hoy los grandes preparadores saltan en casa cada semana</news:title>
     </news:news>
   </url>
 </urlset>
