@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261121-ace-impact-bajara-a-25-000-eur-en-2027-y-charles-darwin-debutara-como-semental-a</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T08:38:52+01:00</news:publication_date>
+      <news:title>Ace Impact bajará a 25.000 € en 2027 y Charles Darwin debutará como semental a 6.000 €</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261121-constitution-hill-vuelve-a-kempton-park-con-oisin-murphy-en-la-silla</loc>
     <news:news>
       <news:publication>
