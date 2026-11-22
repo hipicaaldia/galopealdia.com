@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261122-dragon-force-conquista-el-antonio-blasco-ultimo-gran-premio-del-ano</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T20:08:05+01:00</news:publication_date>
+      <news:title>DRAGON FORCE CONQUISTA EL ANTONIO BLASCO, ÚLTIMO GRAN PREMIO DEL AÑO</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261122-erdenali-se-convierte-en-el-primer-caballo-criado-fuera-de-japon-en-ganar-el</loc>
     <news:news>
       <news:publication>
@@ -131,50 +142,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T10:07:27+01:00</news:publication_date>
       <news:title>Butterfly Wings, vendida por 760.000 euros, lidera la Chicquita Session de Goffs</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261120-suspension-de-63-dias-para-david-allan-e-inhabilitacion-de-dos-anos-para-graham</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T17:12:24+01:00</news:publication_date>
-      <news:title>Suspensión de 63 días para David Allan e inhabilitación de dos años para Graham Baines</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261120-freddie-mitchell-recurre-los-12-dias-de-suspension-por-errar-el-recorrido-en</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T17:12:23+01:00</news:publication_date>
-      <news:title>Freddie Mitchell recurre los 12 días de suspensión por errar el recorrido en Warwick</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261120-lulamba-se-cae-de-la-ladbrokes-1965-chase-por-el-piso-rapido-de-ascot</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T13:38:57+01:00</news:publication_date>
-      <news:title>Lulamba se cae de la Ladbrokes 1965 Chase por el piso rápido de Ascot</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261120-paul-nicholls-supera-a-martin-pipe-3-931-ganadores-en-national-hunt-britanico</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T13:38:38+01:00</news:publication_date>
-      <news:title>Paul Nicholls supera a Martin Pipe: 3.931 ganadores en National Hunt británico</news:title>
     </news:news>
   </url>
 </urlset>
