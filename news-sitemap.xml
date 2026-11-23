@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261123-siete-profesionales-del-galope-frances-premiados-en-parislongchamp</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T13:41:15+01:00</news:publication_date>
+      <news:title>Siete profesionales del galope francés, premiados en ParisLongchamp</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261122-dragon-force-conquista-el-antonio-blasco-ultimo-gran-premio-del-ano</loc>
     <news:news>
       <news:publication>
@@ -68,50 +79,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261121-alexei-llega-a-newcastle-sin-jockey-tizzard-aun-no-sabe-quien-lo-montara-en-la</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T13:38:18+01:00</news:publication_date>
-      <news:title>Alexei llega a Newcastle sin jockey: Tizzard aún no sabe quién lo montará en la Fighting Fifth</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261121-wincanton-y-catterick-cambian-de-fecha-para-que-el-turf-despida-a-tom-o-brien</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T13:37:54+01:00</news:publication_date>
-      <news:title>Wincanton y Catterick cambian de fecha para que el turf despida a Tom O&amp;#39;Brien</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261121-ace-impact-bajara-a-25-000-eur-en-2027-y-charles-darwin-debutara-como-semental-a</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T08:38:52+01:00</news:publication_date>
-      <news:title>Ace Impact bajará a 25.000 € en 2027 y Charles Darwin debutará como semental a 6.000 €</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261121-constitution-hill-vuelve-a-kempton-park-con-oisin-murphy-en-la-silla</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T08:38:16+01:00</news:publication_date>
-      <news:title>Constitution Hill vuelve a Kempton Park con Oisin Murphy en la silla</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261121-deterministic-aplaza-su-carrera-de-semental-y-volvera-a-entrenar-en-2027</loc>
     <news:news>
       <news:publication>
@@ -120,28 +87,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T19:36:52+01:00</news:publication_date>
       <news:title>Deterministic aplaza su carrera de semental y volverá a entrenar en 2027</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261121-erdenali-busca-en-kyoto-lo-que-ningun-extranjero-ha-logrado-ganar-el-mile</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T10:07:27+01:00</news:publication_date>
-      <news:title>Erdenali busca en Kyoto lo que ningún extranjero ha logrado: ganar el Mile Championship</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261120-butterfly-wings-vendida-por-760-000-euros-lidera-la-chicquita-session-de-goffs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T10:07:27+01:00</news:publication_date>
-      <news:title>Butterfly Wings, vendida por 760.000 euros, lidera la Chicquita Session de Goffs</news:title>
     </news:news>
   </url>
 </urlset>
