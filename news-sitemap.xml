@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261123-cinco-sementales-se-exhibiran-en-el-museo-de-newmarket-durante-las-ventas-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T21:48:22+01:00</news:publication_date>
+      <news:title>Cinco sementales se exhibirán en el museo de Newmarket durante las ventas de diciembre de Tattersalls</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261123-nicky-richards-ante-el-panel-disciplinario-por-el-positivo-de-jehol-de-thaix-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-23T21:48:22+01:00</news:publication_date>
+      <news:title>Nicky Richards, ante el Panel Disciplinario por el positivo de Jehol de Thaix en Kelso</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261123-mydaddypaddy-parte-como-favorito-a-13-8-en-la-fighting-fifth-hurdle</loc>
     <news:news>
       <news:publication>
@@ -54,50 +76,6 @@
       </news:publication>
       <news:publication_date>2026-11-22T12:35:39+01:00</news:publication_date>
       <news:title>Blow Your Wad y Freddie Mitchell se imponen en la Ladbrokes 1965 Chase de Ascot</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261121-grey-dawning-repite-en-la-betfair-chase-tras-un-pulso-con-jagwar-en-haydock</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T19:37:06+01:00</news:publication_date>
-      <news:title>Grey Dawning repite en la Betfair Chase tras un pulso con Jagwar en Haydock</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261121-grey-dawning-repite-triunfo-en-la-betfair-chase-de-haydock-park</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T18:40:39+01:00</news:publication_date>
-      <news:title>Grey Dawning repite triunfo en la Betfair Chase de Haydock Park</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261121-kingofthefrontier-conquista-la-newton-novices-hurdle-y-apunta-a-aintree</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T16:03:44+01:00</news:publication_date>
-      <news:title>Kingofthefrontier conquista la Newton Novices&amp;#39; Hurdle y apunta a Aintree</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261121-deterministic-aplaza-su-carrera-de-semental-y-volvera-a-entrenar-en-2027</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-21T19:36:52+01:00</news:publication_date>
-      <news:title>Deterministic aplaza su carrera de semental y volverá a entrenar en 2027</news:title>
     </news:news>
   </url>
 </urlset>
