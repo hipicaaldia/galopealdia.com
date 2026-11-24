@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261124-tattersalls-bate-en-newmarket-por-tercer-ano-seguido-su-record-anual-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-24T08:41:26+01:00</news:publication_date>
+      <news:title>Tattersalls bate en Newmarket por tercer año seguido su récord anual de yearlings: 224 millones de guineas</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261123-cinco-sementales-se-exhibiran-en-el-museo-de-newmarket-durante-las-ventas-de</loc>
     <news:news>
       <news:publication>
