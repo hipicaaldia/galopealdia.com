@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261126-panic-attack-busca-en-newbury-el-primer-doblete-en-la-coral-gold-cup-desde-arkle</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T21:36:34+01:00</news:publication_date>
+      <news:title>Panic Attack busca en Newbury el primer doblete en la Coral Gold Cup desde Arkle, con un aprendiz que descarga 10 libras</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261126-ombudsman-saldra-por-el-8-y-calandagan-por-el-9-en-la-japan-cup-del-domingo-en</loc>
     <news:news>
       <news:publication>
@@ -10,6 +21,17 @@
       </news:publication>
       <news:publication_date>2026-11-26T13:36:46+01:00</news:publication_date>
       <news:title>Ombudsman saldrá por el 8 y Calandagan por el 9 en la Japan Cup del domingo en Tokio</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261126-constitution-hill-cuarto-en-el-floodlit-stakes-de-kempton-henderson-le-da</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T21:36:34+01:00</news:publication_date>
+      <news:title>Constitution Hill, cuarto en el Floodlit Stakes de Kempton: Henderson le da descanso hasta la primavera</news:title>
     </news:news>
   </url>
   <url>
