@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261126-ombudsman-saldra-por-el-8-y-calandagan-por-el-9-en-la-japan-cup-del-domingo-en</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T13:36:46+01:00</news:publication_date>
+      <news:title>Ombudsman saldrá por el 8 y Calandagan por el 9 en la Japan Cup del domingo en Tokio</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261126-la-sequia-obliga-a-cheltenham-a-correr-su-reunion-de-navidad-en-el-old-course-y</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T13:36:46+01:00</news:publication_date>
+      <news:title>La sequía obliga a Cheltenham a correr su reunión de Navidad en el Old Course y a suspender el Cross Country</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261126-jonjo-o-neill-jr-montara-a-alexei-en-una-fighting-fifth-hurdle-de-seis-en-la-que</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T13:36:46+01:00</news:publication_date>
+      <news:title>Jonjo O&amp;#39;Neill Jr montará a Alexei en una Fighting Fifth Hurdle de seis en la que Golden Ace defiende el título</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261126-muere-zarak-ganador-del-grand-prix-de-saint-cloud-y-uno-de-los-grandes</loc>
     <news:news>
       <news:publication>
@@ -10,6 +43,17 @@
       </news:publication>
       <news:publication_date>2026-11-26T10:02:11+01:00</news:publication_date>
       <news:title>Muere Zarak, ganador del Grand Prix de Saint-Cloud y uno de los grandes sementales de Europa, a los 13 años</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.galopealdia.com/noticias/20261126-la-bha-hace-definitivas-desde-el-30-de-noviembre-las-nuevas-salidas-de-las</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-26T13:36:46+01:00</news:publication_date>
+      <news:title>La BHA hace definitivas desde el 30 de noviembre las nuevas salidas de las carreras de obstáculos</news:title>
     </news:news>
   </url>
   <url>
