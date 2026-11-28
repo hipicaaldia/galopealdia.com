@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.galopealdia.com/noticias/20261128-bracket-buster-gana-la-clark-stakes-de-churchill-downs-y-leading-change-ganador</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Galope al Día</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-28T13:36:30+01:00</news:publication_date>
+      <news:title>Bracket Buster gana la Clark Stakes de Churchill Downs y Leading Change, ganador del Travers, pierde por primera vez</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.galopealdia.com/noticias/20261127-soldier-reeves-gana-la-long-distance-hurdle-de-newbury-en-su-estreno-sobre-tres</loc>
     <news:news>
       <news:publication>
@@ -79,17 +90,6 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.galopealdia.com/noticias/20261126-muere-zarak-ganador-del-grand-prix-de-saint-cloud-y-uno-de-los-grandes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T10:02:11+01:00</news:publication_date>
-      <news:title>Muere Zarak, ganador del Grand Prix de Saint-Cloud y uno de los grandes sementales de Europa, a los 13 años</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.galopealdia.com/noticias/20261126-la-bha-hace-definitivas-desde-el-30-de-noviembre-las-nuevas-salidas-de-las</loc>
     <news:news>
       <news:publication>
@@ -98,28 +98,6 @@
       </news:publication>
       <news:publication_date>2026-11-26T13:36:46+01:00</news:publication_date>
       <news:title>La BHA hace definitivas desde el 30 de noviembre las nuevas salidas de las carreras de obstáculos</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261126-ka-ying-rising-encabeza-los-18-ganadores-de-grupo-1-seleccionados-para-las</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T10:02:11+01:00</news:publication_date>
-      <news:title>Ka Ying Rising encabeza los 18 ganadores de Grupo 1 seleccionados para las carreras internacionales de Hong Kong</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.galopealdia.com/noticias/20261126-muere-a-los-99-anos-pierre-peb-bellocq-el-caricaturista-del-turf-que-pinto-el</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Galope al Día</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-26T10:02:11+01:00</news:publication_date>
-      <news:title>Muere a los 99 años Pierre «Peb» Bellocq, el caricaturista del turf que pintó el mural de Belmont Park</news:title>
     </news:news>
   </url>
 </urlset>
